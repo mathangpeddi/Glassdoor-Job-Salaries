@@ -1,0 +1,49 @@
+<!--A very basic HTML web page-->
+<!DOCTYPE html>
+<html >
+<!--From https://codepen.io/frytyler/pen/EGdtg-->
+<head>
+  <meta charset="UTF-8">
+  <title>ML API</title>
+  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+  
+</head>
+
+<body>
+ <div class="login">
+	<h1>Salary Prediction Analysis</h1>
+
+     <!-- Main Input For Receiving Query to our ML -->
+      
+    <form action="{{ url_for('predict')}}"method="post">
+    	<input type="text" name="rating" placeholder="Rating" required="required" />
+        <input type="text" name="age" placeholder="Age" required="required" />
+		<input type="text" name="job_simp_analyst" placeholder="Data Analyst" required="required" />
+		<input type="text" name="job_simp_data engineer" placeholder="Data Engineer" required="required" />
+		<input type="text" name="job_simp_data scientist" placeholder="Data Scientist" required="required" />
+		<input type="text" name="job_simp_director" placeholder="Director" required="required" />
+		<input type="text" name="job_simp_manager" placeholder="Manager" required="required" />
+		<input type="text" name="job_simp_mle" placeholder="Machine Learning Engineer" required="required" />
+		<input type="text" name="job_simp_na" placeholder="NA" required="required" />
+
+        <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+    </form>
+
+    <!--The value of Rating must be an integer ranging from 0 to 5
+    The values for Data Analyst,Data Scientist etc.must be either 0 or 1-if Data Scientist is given 1 and all others as 0 
+    then it indicates that we are looking for Data Scientist.
+    Here we use the Linear Regression model for our predictions.
+    -->
+
+   <br>
+   <br>
+   {{ prediction_text }}
+
+ </div>
+
+
+</body>
+</html>
