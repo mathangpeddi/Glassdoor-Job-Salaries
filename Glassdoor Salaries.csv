@@ -1,0 +1,1474 @@
+,Job Title,Rating,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors,hourly,employer_provided,min_salary,max_salary,avg_salary,company_txt,job_state,same_state,age,python_yn,R_yn,spark,aws,excel
+0,Data Scientist,3.8,"Albuquerque, NM","Goleta, CA",501 to 1000 employees,1973,Company - Private,Aerospace & Defense,Aerospace & Defense,$50 to $100 million (USD),-1,0,0,53,91,72.0,"Tecolote Research
+", NM,0,47,1,0,0,0,1
+1,Healthcare Data Scientist,3.4,"Linthicum, MD","Baltimore, MD",10000+ employees,1984,Other Organization,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD),-1,0,0,63,112,87.5,"University of Maryland Medical System
+", MD,0,36,1,0,0,0,0
+2,Data Scientist,4.8,"Clearwater, FL","Clearwater, FL",501 to 1000 employees,2010,Company - Private,Security Services,Business Services,$100 to $500 million (USD),-1,0,0,80,90,85.0,"KnowBe4
+", FL,1,10,1,0,1,0,1
+3,Data Scientist,3.8,"Richland, WA","Richland, WA",1001 to 5000 employees,1965,Government,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion (USD),"Oak Ridge National Laboratory, National Renewable Energy Lab, Los Alamos National Laboratory",0,0,56,97,76.5,"PNNL
+", WA,1,55,1,0,0,0,0
+4,Data Scientist,2.9,"New York, NY","New York, NY",51 to 200 employees,1998,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,"Commerce Signals, Cardlytics, Yodlee",0,0,86,143,114.5,"Affinity Solutions
+", NY,1,22,1,0,0,0,1
+5,Data Scientist,3.4,"Dallas, TX","Dallas, TX",201 to 500 employees,2000,Company - Public,Real Estate,Real Estate,$1 to $2 billion (USD),"Digital Realty, CoreSite, Equinix",0,0,71,119,95.0,"CyrusOne
+", TX,1,20,1,0,0,1,1
+6,Data Scientist,4.1,"Baltimore, MD","Baltimore, MD",501 to 1000 employees,2008,Company - Private,Banks & Credit Unions,Finance,Unknown / Non-Applicable,-1,0,0,54,93,73.5,"ClearOne Advantage
+", MD,1,12,0,0,0,0,1
+7,Data Scientist,3.8,"San Jose, CA","Seattle, WA",201 to 500 employees,2005,Company - Private,Consulting,Business Services,$25 to $50 million (USD),-1,0,0,86,142,114.0,"Logic20/20
+", CA,0,15,1,0,1,1,1
+8,Research Scientist,3.3,"Rochester, NY","Rochester, NY",10000+ employees,2014,Hospital,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),-1,0,0,38,84,61.0,"Rochester Regional Health
+", NY,1,6,0,0,0,0,0
+9,Data Scientist,4.6,"New York, NY","New York, NY",51 to 200 employees,2009,Company - Private,Internet,Information Technology,$100 to $500 million (USD),"Clicktripz, SmarterTravel",0,0,120,160,140.0,"<intent>
+", NY,1,11,1,0,1,0,0
+10,Data Scientist,3.5,"San Jose, CA","San Francisco, CA",501 to 1000 employees,2011,Company - Private,Other Retail Stores,Retail,$1 to $2 billion (USD),-1,0,0,126,201,163.5,"Wish
+", CA,0,9,1,0,0,0,0
+11,Data Scientist,4.1,"Chantilly, VA","Herndon, VA",5001 to 10000 employees,1968,Company - Public,Research & Development,Business Services,$1 to $2 billion (USD),-1,0,0,64,106,85.0,"ManTech
+", VA,0,52,0,0,0,0,0
+12,Staff Data Scientist - Technology,3.2,"Plano, TX","Bentonville, AR",10000+ employees,1962,Company - Public,"Department, Clothing, & Shoe Stores",Retail,$10+ billion (USD),"Target, Costco Wholesale, Amazon",0,0,106,172,139.0,"Walmart
+", TX,0,58,0,0,0,0,0
+13,Data Analyst,4.1,"Seattle, WA","Seattle, WA",201 to 500 employees,2012,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,-1,0,0,46,85,65.5,"Yesler
+", WA,1,8,1,0,1,1,1
+14,Data Scientist,3.7,"Cambridge, MA","OSAKA, Japan",10000+ employees,1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),"Novartis, Baxter, Pfizer",0,0,83,144,113.5,"Takeda Pharmaceuticals
+", MA,0,239,1,0,1,0,0
+15,Data Engineer I,3.6,"Newark, NJ","Newark, NJ",1001 to 5000 employees,1995,Subsidiary or Business Segment,Motion Picture Production & Distribution,Media,Unknown / Non-Applicable,-1,0,0,102,190,146.0,"Audible
+", NJ,1,25,0,0,0,0,1
+16,"Scientist I/II, Biology",3.9,"Cambridge, MA","Cambridge, MA",51 to 200 employees,2011,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $5 million (USD),"bluebird bio, Agios Pharmaceuticals, Celgene",0,0,67,137,102.0,"Blueprint Medicines
+", MA,1,9,0,0,0,0,1
+17,Customer Data Scientist,4.3,"Mountain View, CA","Mountain View, CA",201 to 500 employees,2011,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,118,189,153.5,"h2o.ai
+", CA,1,9,1,0,1,1,1
+18,Data Scientist - Health Data Analytics,4.2,"San Francisco, CA","San Francisco, CA",51 to 200 employees,2010,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,110,175,142.5,"Nuna
+", CA,1,10,0,0,0,0,0
+19,Data Scientist,4.0,"Denver, CO","Denver, CO",501 to 1000 employees,1915,Nonprofit Organization,Insurance Carriers,Insurance,$500 million to $1 billion (USD),-1,0,0,64,111,87.5,"Pinnacol Assurance
+", CO,1,105,1,0,0,0,1
+20,Data Scientist,3.2,"Seattle, WA","Seattle, WA",201 to 500 employees,2012,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,"Angie's List, HomeAdvisor, Thumbtack",0,0,81,130,105.5,"Porch
+", WA,1,8,1,0,1,0,0
+21,Senior Data Scientist / Machine Learning,3.9,"Dallas, TX","Mountain View, CA",201 to 500 employees,2013,Company - Private,Insurance Agencies & Brokerages,Insurance,Unknown / Non-Applicable,-1,0,0,73,119,96.0,"Health IQ
+", TX,0,7,0,0,0,0,1
+22,Data Scientist - Quantitative,3.8,"Chicago, IL","New Plymouth, ID",501 to 1000 employees,1995,Company - Private,Logistics & Supply Chain,Transportation & Logistics,Unknown / Non-Applicable,-1,0,0,86,139,112.5,"Truckstop.com
+", IL,0,25,1,0,0,1,1
+23,Data Scientist,4.3,"Louisville, KY","Peachtree City, GA",51 to 200 employees,1935,Nonprofit Organization,Logistics & Supply Chain,Transportation & Logistics,$10 to $25 million (USD),-1,0,0,63,105,84.0,"SMC 3
+", KY,0,85,1,0,0,0,1
+24,Data Scientist,4.0,"Herndon, VA","Mc Lean, VA",501 to 1000 employees,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),"Leidos, CACI International, Booz Allen Hamilton",0,0,109,177,143.0,"Novetta
+", VA,0,8,1,0,0,1,0
+25,Digital Health Data Scientist,4.0,"Cambridge, MA","New York, NY",10000+ employees,1849,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),-1,0,0,63,110,86.5,"Pfizer
+", MA,0,171,1,0,0,1,1
+26,Data Scientist,3.5,"Hillsboro, OR","San Jose, CA",1001 to 5000 employees,1952,Company - Private,Banks & Credit Unions,Finance,$100 to $500 million (USD),-1,0,0,75,124,99.5,"First Tech Federal Credit Union
+", OR,0,68,1,0,1,1,1
+27,Associate Data Analyst,3.7,"Worcester, MA","Worcester, MA",5001 to 10000 employees,1852,Company - Public,Insurance Carriers,Insurance,$5 to $10 billion (USD),-1,0,0,34,61,47.5,"The Hanover Insurance Group
+", MA,1,168,0,0,0,0,1
+28,Clinical Data Scientist,4.0,"Groton, CT","New York, NY",10000+ employees,1849,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),-1,0,0,63,105,84.0,"Pfizer
+", CT,0,171,0,0,0,1,1
+29,Data Scientist,4.8,"Clearwater, FL","Clearwater, FL",501 to 1000 employees,2010,Company - Private,Security Services,Business Services,$100 to $500 million (USD),-1,0,0,80,90,85.0,"KnowBe4
+", FL,1,10,1,0,1,0,1
+30,Data Scientist,3.8,"Richland, WA","Richland, WA",1001 to 5000 employees,1965,Government,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion (USD),"Oak Ridge National Laboratory, National Renewable Energy Lab, Los Alamos National Laboratory",0,0,56,97,76.5,"PNNL
+", WA,1,55,1,0,0,0,0
+31,Data Scientist,3.6,"Detroit, MI","Detroit, MI",1001 to 5000 employees,1997,Company - Private,Real Estate,Real Estate,$500 million to $1 billion (USD),-1,0,0,72,120,96.0,"Amrock
+", MI,1,23,1,0,0,0,0
+32,Data Scientist / Machine Learning Expert,3.8,"Cambridge, MA","Basel, Switzerland",10000+ employees,1996,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),-1,0,0,86,143,114.5,"Novartis
+", MA,0,24,1,0,0,0,0
+33,Data Scientist,3.8,"Sunnyvale, CA","Sunnyvale, CA",5001 to 10000 employees,1996,Company - Public,Telecommunications Services,Telecommunications,$2 to $5 billion (USD),-1,0,0,93,149,121.0,"Juniper Networks
+", CA,1,24,1,0,1,0,1
+34,Data Scientist,4.7,"Ipswich, MA","Ipswich, MA",201 to 500 employees,1974,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,"Thermo Fisher Scientific, Enzymatics, Illumina",0,0,85,140,112.5,"New England Biolabs
+", MA,1,46,1,0,0,0,1
+35,Web Data Analyst,4.2,"San Jose, CA","Chicago, IL",201 to 500 employees,2008,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1,0,0,77,135,106.0,"Clarity Insights
+", CA,0,12,1,0,0,0,1
+36,Data Scientist,3.5,"Redlands, CA","Redlands, CA",1001 to 5000 employees,1969,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),Pitney Bowes,0,0,82,132,107.0,"Esri
+", CA,1,51,1,0,1,1,0
+37,Data Scientist,4.7,"Woburn, MA","Woburn, MA",201 to 500 employees,2010,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),-1,0,0,83,137,110.0,"Systems & Technology Research
+", MA,1,10,1,0,1,0,1
+38,Senior Data Scientist,3.5,"Fremont, CA","Gottingen, Germany",5001 to 10000 employees,1870,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),-1,0,0,115,180,147.5,"Sartorius
+", CA,0,150,1,0,0,0,1
+39,Data Engineer,3.5,"Long Beach, NY","Long Beach, NY",201 to 500 employees,1985,Company - Private,Insurance Carriers,Insurance,$100 to $500 million (USD),-1,0,0,74,138,106.0,"Lancer Insurance
+", NY,1,35,1,0,0,0,1
+40,Data Analyst,4.2,"San Francisco, CA","San Francisco, CA",201 to 500 employees,2008,Company - Private,IT Services,Information Technology,$50 to $100 million (USD),"BrowserStack, Selenium Master, Perfecto Mobile",0,0,64,112,88.0,"Sauce Labs
+", CA,1,12,1,0,0,1,1
+41,Data Engineer,3.6,"Marlborough, MA","Lowell, MA",1 to 50 employees,-1,Company - Private,-1,-1,Less than $1 million (USD),-1,0,0,68,129,98.5,"Persivia
+", MA,0,-1,0,0,0,0,1
+42,Data Scientist - Algorithms & Inference,4.2,"San Francisco, CA","San Francisco, CA",51 to 200 employees,2010,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,110,175,142.5,"Nuna
+", CA,1,10,0,0,0,0,0
+43,Scientist,3.4,"Allendale, NJ","Shelton, CT",5001 to 10000 employees,2015,Company - Public,Consumer Products Manufacturing,Manufacturing,$2 to $5 billion (USD),"Unilever, Procter & Gamble, Henkel",0,0,52,113,82.5,"Edgewell Personal Care
+", NJ,0,5,0,0,0,1,0
+44,Senior Data Scientist,4.3,"Chicago, IL","Chicago, IL",1001 to 5000 employees,1993,Company - Public,Real Estate,Real Estate,$2 to $5 billion (USD),"UDR, AvalonBay Communities, Essex Property Trust",0,0,110,150,130.0,"Equity Residential
+", IL,1,27,1,0,1,0,1
+45,Data Scientist,5.0,"Washington, DC","Alexandria, VA",Unknown,-1,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,1,150,160,155.0,"BPA Services
+", DC,0,-1,0,0,0,1,1
+46,Lead Data Scientist,3.7,"Bellevue, WA","Foster City, CA",10000+ employees,1958,Company - Public,IT Services,Information Technology,$10+ billion (USD),"American Express, Mastercard, Discover",0,0,158,211,184.5,"Visa Inc.
+", WA,0,62,1,0,0,0,1
+47,Associate Data Analyst,3.1,"Longmont, CO","Omaha, NE",5001 to 10000 employees,1986,Company - Private,Enterprise Software & Network Solutions,Information Technology,$2 to $5 billion (USD),-1,0,0,20,39,29.5,"Intrado
+", CO,0,34,0,0,0,0,1
+48,Spectral Scientist/Engineer,4.7,"Beavercreek, OH","Chantilly, VA",501 to 1000 employees,1999,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),"TASC, Vencore, Booz Allen Hamilton",0,0,56,117,86.5,"Centauri
+", OH,0,21,0,0,0,0,0
+49,College Hire - Data Scientist - Open to December 2019 Graduates,3.7,"Peoria, IL","Deerfield, IL",10000+ employees,1925,Company - Public,Industrial Manufacturing,Manufacturing,$10+ billion (USD),"John Deere, Komatsu, CNH Industrial",0,0,63,99,81.0,"Caterpillar
+", IL,0,95,0,0,0,0,0
+50,Data Scientist,3.8,"Fort Lauderdale, FL","Fort Lauderdale, FL",501 to 1000 employees,1984,Subsidiary or Business Segment,Advertising & Marketing,Business Services,Unknown / Non-Applicable,-1,0,0,68,114,91.0,"Zimmerman Advertising
+", FL,1,36,1,0,0,0,1
+51,"Data Scientist, Office of Data Science",3.3,"Boston, MA","Boston, MA",10000+ employees,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),"Travelers, Allstate, State Farm",0,0,86,143,114.5,"Liberty Mutual Insurance
+", MA,1,108,1,0,0,0,0
+52,Data Science Analyst,4.6,"Huntsville, AL","Huntsville, AL",1001 to 5000 employees,2002,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),-1,0,0,41,95,68.0,"Torch Technologies, Inc.
+", AL,1,18,1,0,0,0,1
+53,Data Scientist,3.7,"Armonk, NY","Zurich, Switzerland",10000+ employees,1863,Company - Public,Insurance Agencies & Brokerages,Insurance,$10+ billion (USD),"Munich Re, Hannover RE, SCOR",0,0,86,144,115.0,"Swiss Re
+", NY,0,157,1,0,0,0,1
+54,Data Scientist,3.7,"San Diego, CA","Falls Church, VA",10000+ employees,1939,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),-1,0,0,80,139,109.5,"Northrop Grumman
+", CA,0,81,0,0,0,0,1
+55,Data Scientist,3.5,"Albuquerque, NM","Gottingen, Germany",5001 to 10000 employees,1870,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),-1,0,0,56,95,75.5,"Sartorius
+", NM,0,150,1,0,0,0,1
+56,Data Scientist,4.1,"San Francisco, CA","Santa Clara, CA",501 to 1000 employees,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,"Skyhigh Networks, Zscaler, NortonLifeLock",0,0,120,189,154.5,"Netskope
+", CA,0,8,1,0,1,0,1
+57,Data Scientist,4.7,"Saint Louis, MO","Saint Louis, MO",51 to 200 employees,2016,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,"Slalom, Daugherty Business Solutions",0,0,111,176,143.5,"1904labs
+", MO,1,4,1,0,1,0,0
+58,Data Scientist,4.1,"Baltimore, MD","Baltimore, MD",501 to 1000 employees,2008,Company - Private,Banks & Credit Unions,Finance,Unknown / Non-Applicable,-1,0,0,54,93,73.5,"ClearOne Advantage
+", MD,1,12,0,0,0,0,1
+59,Data Scientist,3.4,"Dallas, TX","Dallas, TX",201 to 500 employees,2000,Company - Public,Real Estate,Real Estate,$1 to $2 billion (USD),"Digital Realty, CoreSite, Equinix",0,0,71,119,95.0,"CyrusOne
+", TX,1,20,1,0,0,1,1
+60,Senior Data Scientist,4.4,"Cincinnati, OH","Cincinnati, OH",201 to 500 employees,1885,Subsidiary or Business Segment,Metals Brokers,Mining & Metals,Unknown / Non-Applicable,-1,0,0,82,132,107.0,"The David J. Joseph Company
+", OH,1,135,1,0,0,1,0
+61,Data Scientist,4.3,"New York, NY","New York, NY",201 to 500 employees,2011,Company - Private,Consulting,Business Services,$10 to $25 million (USD),-1,0,0,84,146,115.0,"USEReady
+", NY,1,9,1,0,1,1,0
+62,Senior Risk Data Scientist,3.8,"Palo Alto, CA","Palo Alto, CA",501 to 1000 employees,2006,Company - Public,Financial Transaction Processing,Finance,$50 to $100 million (USD),-1,0,0,107,172,139.5,"Bill.com
+", CA,1,14,0,0,0,0,0
+63,Data Scientist in Artificial Intelligence Early Career,3.8,"Richland, WA","Richland, WA",1001 to 5000 employees,1965,Government,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion (USD),"Oak Ridge National Laboratory, National Renewable Energy Lab, Los Alamos National Laboratory",0,0,49,85,67.0,"Pacific Northwest National Laboratory
+", WA,1,55,0,0,0,0,0
+64,Data Scientist,3.8,"Coraopolis, PA","Coraopolis, PA",10000+ employees,1948,Company - Public,Sporting Goods Stores,Retail,$5 to $10 billion (USD),"REI, Academy Sports + Outdoors, Cabela's",0,0,61,109,85.0,"DICK'S Sporting Goods - Corporate
+", PA,1,72,1,0,0,0,0
+65,Data Scientist,2.8,"Framingham, MA","Framingham, MA",51 to 200 employees,2006,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $5 million (USD),-1,0,0,88,148,118.0,"Berg Health
+", MA,1,14,1,0,0,0,1
+66,Data Scientist,4.7,"Atlanta, GA","Atlanta, GA",51 to 200 employees,2003,Company - Private,Computer Hardware & Software,Information Technology,$25 to $50 million (USD),-1,0,0,60,99,79.5,"Oversight Systems
+", GA,1,17,1,0,0,0,1
+67,Data Scientist - Research,3.1,"Boston, MA","Boston, MA",201 to 500 employees,1999,Company - Public,Advertising & Marketing,Business Services,$100 to $500 million (USD),"IDEO, Gongos, Inc., Ipsos",0,0,41,72,56.5,"C Space
+", MA,1,21,1,0,0,0,0
+68,Data Scientist,3.2,"Philadelphia, PA","Chadds Ford, PA",1 to 50 employees,-1,Company - Private,Staffing & Outsourcing,Business Services,$5 to $10 million (USD),-1,0,0,96,161,128.5,"Numeric, LLC
+", PA,0,-1,1,0,1,1,0
+69,R&D Data Analysis Scientist,4.0,"Vancouver, WA","Palo Alto, CA",10000+ employees,1939,Company - Public,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1,0,0,65,130,97.5,"HP Inc.
+", WA,0,81,0,0,0,0,0
+70,Analytics Consultant,4.4,"Indianapolis, IN","Pleasanton, CA",1 to 50 employees,2015,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,52,81,66.5,"SpringML
+", IN,0,5,1,0,0,0,0
+71,"Director, Data Science",3.6,"Lake Forest, IL","Lake Forest, IL",10000+ employees,1927,Company - Public,Wholesale,Business Services,$10+ billion (USD),-1,0,0,139,220,179.5,"Grainger
+", IL,1,93,1,0,0,0,1
+72,Scientist,2.7,"Maryland Heights, MO","San Diego, CA",501 to 1000 employees,1978,Subsidiary or Business Segment,Research & Development,Business Services,$50 to $100 million (USD),-1,0,0,50,102,76.0,"EAG Laboratories
+", MO,0,42,0,0,0,0,1
+73,Data Scientist SR,3.9,"Charlottesville, VA","Reston, VA",501 to 1000 employees,2010,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),"ManTech, Booz Allen Hamilton, Leidos",0,0,85,139,112.0,"The Buffalo Group
+", VA,0,10,1,0,1,0,0
+74,Data Scientist,3.1,"Pittsburgh, PA","Louvain-la-Neuve, Belgium",1001 to 5000 employees,1860,Company - Private,Mining,Mining & Metals,$1 to $2 billion (USD),"Lhoist, Graymont, Sibelco Group",0,0,74,122,98.0,"Carmeuse
+", PA,0,160,1,0,0,0,0
+75,R&D Sr Data Scientist,4.0,"Vancouver, WA","Palo Alto, CA",10000+ employees,1939,Company - Public,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1,0,0,99,157,128.0,"HP Inc.
+", WA,0,81,0,0,1,1,0
+76,Customer Data Scientist/Sales Engineer (Bay,4.3,"Mountain View, CA","Mountain View, CA",201 to 500 employees,2011,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,79,222,150.5,"h2o.ai
+", CA,1,9,1,0,1,1,1
+77,Research Scientist,1.9,"Cambridge, MA","Cambridge, MA",51 to 200 employees,2000,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10 to $25 million (USD),-1,0,0,57,118,87.5,"GNS Healthcare
+", MA,1,20,0,0,0,1,0
+78,Data Scientist,3.3,"Chantilly, VA","Herndon, VA",1001 to 5000 employees,2017,Company - Private,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion (USD),-1,0,0,83,137,110.0,"Peraton
+", VA,0,3,1,0,0,0,1
+79,Data Scientist,4.4,"San Jose, CA","Beijing, China",10000+ employees,1995,Company - Private,IT Services,Information Technology,$500 million to $1 billion (USD),"Infosys, EPAM, Accenture",0,0,86,141,113.5,"Pactera
+", CA,0,25,1,0,0,0,1
+80,Data Scientist,3.9,"San Francisco, CA","San Francisco, CA",51 to 200 employees,2016,Company - Private,Health Care Services & Hospitals,Health Care,$1 to $5 million (USD),-1,0,0,94,154,124.0,"Nurx
+", CA,1,4,1,0,0,0,0
+81,Jr. Business Data Analyst,4.7,"Harrisburg, PA","Harrisburg, PA",201 to 500 employees,1997,Company - Private,Advertising & Marketing,Business Services,$25 to $50 million (USD),-1,0,0,37,76,56.5,"webfx.com
+", PA,1,23,0,0,0,0,1
+82,Data Scientist,4.5,"Laurel, MD","Laurel, MD",5001 to 10000 employees,1942,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion (USD),"MIT Lincoln Laboratory, Lockheed Martin, Northrop Grumman",0,0,100,160,130.0,"Johns Hopkins University Applied Physics Laboratory
+", MD,1,78,1,0,0,0,1
+83,Data Analyst,4.3,"Chicago, IL","Chicago, IL",51 to 200 employees,2008,Company - Private,Computer Hardware & Software,Information Technology,$10 to $25 million (USD),"Numerator, Rise Interactive, Salom",0,0,55,100,77.5,"Productive Edge
+", IL,1,12,0,0,0,0,1
+84,Data Engineer,4.0,"Arlington, VA","Arlington, VA",201 to 500 employees,2002,Company - Private,Consulting,Business Services,$50 to $100 million (USD),-1,0,0,60,114,87.0,"Excella Consulting
+", VA,1,18,1,0,0,1,1
+85,Data Analyst,4.4,"Tacoma, WA","Tacoma, WA",501 to 1000 employees,1948,Company - Private,Wholesale,Business Services,$100 to $500 million (USD),-1,0,0,39,68,53.5,"Gensco
+", WA,1,72,0,0,0,0,1
+86,Staff Data Scientist - Technology,3.2,"Plano, TX","Bentonville, AR",10000+ employees,1962,Company - Public,"Department, Clothing, & Shoe Stores",Retail,$10+ billion (USD),"Target, Costco Wholesale, Amazon",0,0,106,172,139.0,"Walmart
+", TX,0,58,0,0,0,0,0
+87,Data Scientist,3.8,"San Jose, CA","Seattle, WA",201 to 500 employees,2005,Company - Private,Consulting,Business Services,$25 to $50 million (USD),-1,0,0,86,142,114.0,"Logic20/20
+", CA,0,15,1,0,1,1,1
+88,Data Scientist,4.2,"Miami, FL","Miami, FL",501 to 1000 employees,2008,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),-1,0,0,64,107,85.5,"goTRG
+", FL,1,12,1,0,1,0,1
+89,Data Management Specialist,4.5,"Huntsville, AL","Chantilly, VA",51 to 200 employees,1996,Company - Private,IT Services,Information Technology,$25 to $50 million (USD),-1,0,0,31,65,48.0,"NMR Consulting
+", AL,0,24,0,0,0,0,1
+90,E-Commerce Data Analyst,3.5,"New Orleans, LA","New Orleans, LA",51 to 200 employees,1999,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,34,62,48.0,"iSeatz
+", LA,1,21,0,0,0,0,1
+91,Sr. Scientist II,3.5,"San Francisco, CA","San Francisco, CA",201 to 500 employees,1990,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),"Bristol-Myers Squibb, Merck, GlaxoSmithKline",0,0,117,231,174.0,"Nektar Therapeutics
+", CA,1,30,0,0,0,0,1
+92,Insurance Data Scientist,3.9,"Atlanta, GA","Chicago, IL",5001 to 10000 employees,1968,Company - Public,Financial Analytics & Research,Finance,$1 to $2 billion (USD),-1,0,0,64,106,85.0,"TransUnion
+", GA,0,52,1,0,1,0,0
+93,Data Modeler,4.7,"Landover, MD","Vienna, VA",51 to 200 employees,2003,Company - Private,IT Services,Information Technology,$10 to $25 million (USD),-1,0,0,79,134,106.5,"IT Concepts
+", MD,0,17,0,0,0,0,0
+94,Data Analyst / Scientist,4.2,"Patuxent River, MD","Atlanta, GA",1001 to 5000 employees,1988,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),-1,0,0,52,93,72.5,"Scientific Research Corporation
+", MD,0,32,0,0,0,0,1
+95,Scientist,3.4,"Suitland, MD","Fairfax, VA",10000+ employees,1996,Subsidiary or Business Segment,IT Services,Information Technology,$10+ billion (USD),"SAIC, Leidos, Northrop Grumman",0,0,55,116,85.5,"General Dynamics Information Technology
+", MD,0,24,0,0,0,0,0
+96,Data Scientist,3.2,"McLean, VA","Bedford, MA",5001 to 10000 employees,1958,Nonprofit Organization,Federal Agencies,Government,$1 to $2 billion (USD),"Battelle, General Atomics, SAIC",0,0,72,123,97.5,"MITRE
+", VA,0,62,1,0,0,0,1
+97,Data Scientist,3.9,"Fort Belvoir, VA","Reston, VA",501 to 1000 employees,2010,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),"ManTech, Booz Allen Hamilton, Leidos",0,0,74,124,99.0,"The Buffalo Group
+", VA,0,10,1,0,0,0,1
+98,Data Analyst,3.1,"Milwaukee, WI","Boston, MA",1001 to 5000 employees,2001,Company - Private,Insurance Carriers,Insurance,$2 to $5 billion (USD),"MCNA Dental Plans, United Concordia, Delta Dental Plans Association",0,0,40,73,56.5,"DentaQuest
+", WI,0,19,0,0,0,0,1
+99,Lead Data Scientist,4.1,"Silver Spring, MD","Silver Spring, MD",1 to 50 employees,2007,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1,0,0,102,164,133.0,"Redjack
+", MD,1,13,1,0,0,0,0
+100,Data Scientist,3.8,"New York, NY","New York, NY",51 to 200 employees,2012,Company - Private,Research & Development,Business Services,Unknown / Non-Applicable,-1,0,0,89,153,121.0,"7Park Data
+", NY,1,8,1,0,1,0,0
+101,Data Scientist,4.7,"Syracuse, NY","Syracuse, NY",501 to 1000 employees,1992,Company - Private,Security Services,Business Services,Unknown / Non-Applicable,"COPS Monitoring, National Monitoring Center, Affiliated Monitoring",0,0,61,110,85.5,"Rapid Response Monitoring
+", NY,1,28,1,0,0,0,0
+102,"Data Scientist, Rice University",4.3,"Houston, TX","New York, NY",1001 to 5000 employees,2015,Subsidiary or Business Segment,Education Training Services,Education,Unknown / Non-Applicable,"General Assembly, Kaplan University, Ironhack",0,0,65,110,87.5,"Trilogy Ed
+", TX,0,5,1,0,0,0,0
+103,Senior Data Scientist,4.2,"Washington, DC","Washington, DC",1001 to 5000 employees,1935,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,"Advisory Board, Booz Allen Hamilton, McKinsey & Company",0,0,200,275,237.5,"Gallup
+", DC,1,85,1,0,0,0,1
+104,Data Engineer,3.9,"Charlotte, NC","Richmond, VA",1001 to 5000 employees,1997,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),"Accenture, North Highland, Deloitte",0,0,68,123,95.5,"CapTech
+", NC,0,23,1,0,1,0,0
+105,Senior Data Scientist,3.3,"Southfield, MI","Detroit, MI",10000+ employees,1994,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$5 to $10 billion (USD),-1,0,0,80,129,104.5,"American Axle & Manufacturing
+", MI,0,26,1,0,1,1,1
+106,Financial Data Analyst,4.7,"Matawan, NJ","Pompano Beach, FL",201 to 500 employees,2012,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,"DataFinch Technologies, Accupoint Software Solution, CodeMetro",0,0,41,72,56.5,"CentralReach
+", NJ,0,8,0,0,0,0,1
+107,Senior Data Analyst,4.3,"Phoenix, AZ","Phoenix, AZ",201 to 500 employees,2010,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million (USD),-1,0,0,39,71,55.0,"Integrate
+", AZ,1,10,0,0,0,0,1
+108,Research Scientist,2.9,"Omaha, NE","Omaha, NE",1001 to 5000 employees,1977,Hospital,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,"Nebraska Medicine, Children's Hospital & Medical Center, Methodist Health System - NE and IA",0,0,38,85,61.5,"Boys Town Hospital
+", NE,1,43,0,0,0,0,1
+109,Data Scientist,4.5,"San Francisco, CA","San Francisco, CA",201 to 500 employees,2006,Company - Private,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),"Engagio, Bombora, Terminus",0,0,121,193,157.0,"Demandbase
+", CA,1,14,0,0,1,1,0
+110,Data Engineer,3.4,"Lyndhurst, NJ","Lyndhurst, NJ",201 to 500 employees,2019,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,"Zocdoc, Healthgrades",0,0,54,102,78.0,"Sapphire Digital
+", NJ,1,1,1,0,0,0,0
+111,Data Scientist,3.7,"Cambridge, MA","OSAKA, Japan",10000+ employees,1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),"Novartis, Baxter, Pfizer",0,0,83,144,113.5,"Takeda Pharmaceuticals
+", MA,0,239,1,0,1,0,0
+112,Data Scientist,4.6,"New York, NY","New York, NY",51 to 200 employees,2009,Company - Private,Internet,Information Technology,$100 to $500 million (USD),"Clicktripz, SmarterTravel",0,0,120,160,140.0,"<intent>
+", NY,1,11,1,0,1,0,0
+113,Data Scientist,3.2,"San Francisco, CA","San Francisco, CA",51 to 200 employees,2015,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,102,163,132.5,"Formation
+", CA,1,5,0,0,1,0,1
+114,Data Engineer,4.0,"San Francisco, CA","San Rafael, CA",5001 to 10000 employees,1982,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),-1,0,0,76,140,108.0,"Autodesk
+", CA,0,38,1,0,1,0,0
+115,Ag Data Scientist,4.6,"Atlanta, IN","Atlanta, IN",501 to 1000 employees,1937,Company - Private,Farm Support Services,Agriculture & Forestry,$50 to $100 million (USD),-1,0,0,60,101,80.5,"Beck's Hybrids
+", IN,1,83,0,0,0,0,0
+116,Data Scientist,2.8,"Rockville, MD","Rockville, MD",201 to 500 employees,2000,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,-1,0,0,82,133,107.5,"DrFirst
+", MD,1,20,1,0,0,0,0
+117,Data Engineer,4.7,"Minneapolis, MN","Minneapolis, MN",51 to 200 employees,1996,Company - Private,Consulting,Business Services,$25 to $50 million (USD),"Solution Design Group, Intertech (Minnesota)",0,0,65,125,95.0,"Object Partners
+", MN,1,24,0,0,1,1,0
+118,Data Scientist II,3.0,"Los Angeles, CA","Los Angeles, CA",1001 to 5000 employees,1997,Nonprofit Organization,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,"Health Net, Kaiser Permanente, Molina Healthcare",0,0,91,148,119.5,"L.A. Care Health Plan
+", CA,1,23,1,0,1,0,0
+119,Senior Data Engineer,3.2,"Charlotte, NC","Fort Mill, SC",1001 to 5000 employees,2000,Company - Private,Advertising & Marketing,Business Services,$1 to $2 billion (USD),"Clearlink, Credit Karma, LendingTree",0,0,95,173,134.0,"Red Ventures
+", NC,0,20,0,0,1,1,0
+120,Data Scientist,4.4,"Cambridge, MA","Cambridge, MA",201 to 500 employees,1999,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,77,124,100.5,"Quick Base
+", MA,1,21,1,0,0,0,1
+121,Data Scientist,3.5,"Cincinnati, OH","Cincinnati, OH",1001 to 5000 employees,1878,Company - Public,TV Broadcast & Cable Networks,Media,$500 million to $1 billion (USD),-1,0,0,80,135,107.5,"The E.W. Scripps Company
+", OH,1,142,1,0,0,0,0
+122,Data Engineer,4.0,"Washington, DC","Washington, DC",51 to 200 employees,2015,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1,0,0,85,159,122.0,"Upside Business Travel
+", DC,1,5,1,0,1,1,0
+123,Data Engineer,4.3,"Chicago, IL","Chicago, IL",1001 to 5000 employees,1993,Company - Public,Real Estate,Real Estate,$2 to $5 billion (USD),"UDR, AvalonBay Communities, Essex Property Trust",0,0,80,105,92.5,"Equity Residential
+", IL,1,27,1,0,1,0,1
+124,Data Analyst,2.3,"Baltimore, MD","Baltimore, MD",501 to 1000 employees,1986,Company - Private,Research & Development,Business Services,$100 to $500 million (USD),-1,0,0,43,81,62.0,"Synagro
+", MD,1,34,0,0,0,0,1
+125,Project Scientist,4.0,"Alabaster, AL","Decatur, AL",51 to 200 employees,2000,Unknown,Architectural & Engineering Services,Business Services,$25 to $50 million (USD),-1,0,0,29,50,39.5,"Alliance Source Testing
+", AL,0,20,0,0,0,0,0
+126,Data Scientist,3.6,"Santa Fe Springs, Los Angeles, CA","Santa Fe Springs, CA",1001 to 5000 employees,1966,Company - Private,Industrial Manufacturing,Manufacturing,$100 to $500 million (USD),-1,0,0,82,133,107.5,"Accuride International
+", Los Angeles,0,54,0,0,0,0,1
+127,Data Analytics Manager,3.8,"Kansas City, MO","Kansas City, MO",501 to 1000 employees,2017,Company - Private,Staffing & Outsourcing,Business Services,Unknown / Non-Applicable,-1,0,0,26,55,40.5,"Full Potential Solutions
+", MO,1,3,1,0,0,1,1
+128,Senior Machine Learning (ML) Engineer / Data Scientist - Cyber Security Analytics,3.7,"Ashburn, VA","Foster City, CA",10000+ employees,1958,Company - Public,IT Services,Information Technology,$10+ billion (USD),"American Express, Mastercard, Discover",0,0,61,118,89.5,"Visa Inc.
+", VA,0,62,1,0,1,0,0
+129,Data Scientist,4.4,"Chicago, IL","Chicago, IL",201 to 500 employees,2008,Company - Private,Consulting,Business Services,$50 to $100 million (USD),-1,0,0,60,102,81.0,"Maven Wave Partners
+", IL,1,12,1,0,0,1,1
+130,Senior Data Scientist,4.0,"Herndon, VA","Mc Lean, VA",501 to 1000 employees,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),"Leidos, CACI International, Booz Allen Hamilton",0,0,112,182,147.0,"Novetta
+", VA,0,8,1,0,0,1,0
+131,Data Scientist,3.2,"Fort Worth, TX","Fort Worth, TX",1001 to 5000 employees,1958,Company - Private,Brokerage Services,Finance,$100 to $500 million (USD),"USAA, Navy Federal Credit Union, Raymond James Financial",0,0,64,106,85.0,"First Command Financial Services, Inc.
+", TX,1,62,1,0,0,0,1
+132,Associate Scientist,2.9,"Valencia, CA","West Hills, CA",1001 to 5000 employees,1971,Company - Private,Consumer Products Manufacturing,Manufacturing,$1 to $2 billion (USD),"The Nature's Bounty Co., Schiff Nutrition International",0,0,51,112,81.5,"Pharmavite
+", CA,0,49,0,0,0,0,1
+133,"Scientist 2, QC Viral Vector",3.8,"Novato, CA","San Rafael, CA",1001 to 5000 employees,1997,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$500 million to $1 billion (USD),"Genentech, Ultragenyx Pharmaceutical, Gilead Sciences",0,0,113,223,168.0,"BioMarin Pharmaceutical
+", CA,0,23,0,0,0,0,1
+134,Machine Learning Engineer,4.3,"Aurora, CO","Aurora, CO",1 to 50 employees,2007,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,-1,0,0,72,129,100.5,"Stratagem Group
+", CO,1,13,1,0,1,1,1
+135,Data Scientist/ML Engineer,3.4,"New York, NY","London, United Kingdom",1001 to 5000 employees,1943,Company - Private,Consulting,Business Services,$100 to $500 million (USD),"McKinsey & Company, Accenture, Deloitte",0,0,71,123,97.0,"PA Consulting
+", NY,0,77,1,0,1,0,1
+136,Data Scientist,4.1,"Chantilly, VA","Herndon, VA",5001 to 10000 employees,1968,Company - Public,Research & Development,Business Services,$1 to $2 billion (USD),-1,0,0,64,106,85.0,"ManTech
+", VA,0,52,0,0,0,0,0
+137,Customer Data Scientist,4.3,"Mountain View, CA","Mountain View, CA",201 to 500 employees,2011,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,118,189,153.5,"h2o.ai
+", CA,1,9,1,0,1,1,1
+138,Data Engineer,5.0,"Tampa, FL","Reston, VA",51 to 200 employees,2017,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1,0,1,120,145,132.5,"Gridiron IT
+", FL,0,3,0,0,0,0,0
+139,Data Engineer,4.3,"Chicago, IL","Chicago, IL",51 to 200 employees,2008,Company - Private,Computer Hardware & Software,Information Technology,$10 to $25 million (USD),"Numerator, Rise Interactive, Salom",0,0,80,120,100.0,"Productive Edge
+", IL,1,12,0,0,1,0,1
+140,Sr. Data Scientist,3.7,"Denver, CO","Denver, CO",201 to 500 employees,2011,Company - Private,Travel Agencies,Travel & Tourism,Unknown / Non-Applicable,-1,0,0,80,130,105.0,"Evolve Vacation Rental
+", CO,1,9,1,0,0,0,0
+141,Data Engineer 4 - Contract,4.2,"Riverton, UT","Salt Lake City, UT",10000+ employees,-1,Nonprofit Organization,Religious Organizations,Non-Profit,Unknown / Non-Applicable,-1,0,0,59,115,87.0,"The Church of Jesus Christ of Latter-day Saints
+", UT,0,-1,0,0,0,1,1
+142,Data Analyst - Asset Management,4.3,"San Francisco, CA","San Francisco, CA",51 to 200 employees,2013,Company - Private,Real Estate,Real Estate,Unknown / Non-Applicable,"Greystar, The Related Companies, Prometheus Real Estate Group",0,0,71,136,103.5,"Maximus Real Estate Partners
+", CA,1,7,0,0,0,0,1
+143,Senior Research Scientist - Embedded System Development for DevOps,2.6,"Pittsburgh, PA","Pittsburgh, PA",501 to 1000 employees,1984,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,-1,0,0,81,167,124.0,"Software Engineering Institute
+", PA,1,36,1,0,0,0,1
+144,Data Scientist - Bioinformatics,3.8,"Richland, WA","Richland, WA",1001 to 5000 employees,1965,Government,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion (USD),"Oak Ridge National Laboratory, National Renewable Energy Lab, Los Alamos National Laboratory",0,0,49,85,67.0,"PNNL
+", WA,1,55,1,0,0,0,0
+145,Data Engineer,3.9,"Washington, DC","Seattle, WA",10000+ employees,2000,Company - Private,IT Services,Information Technology,$2 to $5 billion (USD),"Slalom, Cognizant Technology Solutions, Deloitte",0,0,60,114,87.0,"AVANADE
+", DC,0,20,0,0,0,0,0
+146,Customer Data Scientist/Sales Engineer,4.3,"Chicago, IL","Mountain View, CA",201 to 500 employees,2011,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,71,204,137.5,"h2o.ai
+", IL,0,9,1,0,1,1,1
+147,Lead Data Scientist,3.8,"Cincinnati, OH","Cincinnati, OH",201 to 500 employees,1987,Company - Private,Advertising & Marketing,Business Services,$100 to $500 million (USD),"Outcome Health, Health Media Network, Mesmerize Marketing",0,0,75,125,100.0,"PatientPoint
+", OH,1,33,1,0,0,0,1
+148,MongoDB Data Engineer II,3.8,"Chattanooga, TN","Chattanooga, TN",5001 to 10000 employees,1945,Nonprofit Organization,Insurance Carriers,Insurance,$5 to $10 billion (USD),-1,0,0,77,136,106.5,"BlueCross BlueShield of Tennessee
+", TN,1,75,0,0,0,0,1
+149,Senior Data Scientist Statistics,3.8,"Richland, WA","Richland, WA",1001 to 5000 employees,1965,Government,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion (USD),"Oak Ridge National Laboratory, National Renewable Energy Lab, Los Alamos National Laboratory",0,0,74,123,98.5,"PNNL
+", WA,1,55,0,0,0,0,0
+150,Senior Data Analyst,4.8,"Clearwater, FL","Clearwater, FL",501 to 1000 employees,2010,Company - Private,Security Services,Business Services,$100 to $500 million (USD),-1,0,0,44,78,61.0,"KnowBe4
+", FL,1,10,1,0,0,0,1
+151,Senior Spark Engineer (Data Science),4.4,"Indianapolis, IN","Indianapolis, IN",51 to 200 employees,2008,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,-1,0,0,65,148,106.5,"KSM Consulting
+", IN,1,12,1,0,1,1,0
+152,Data Engineer,3.9,"Cambridge, MA","Cambridge, MA",51 to 200 employees,2005,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1,0,0,59,110,84.5,"Cogo Labs
+", MA,1,15,1,0,1,0,0
+153,BI & Platform Analytics Manager,3.4,"Ewing, NJ","Ewing, NJ",1001 to 5000 employees,1846,Company - Public,Consumer Products Manufacturing,Manufacturing,$2 to $5 billion (USD),-1,0,0,85,134,109.5,"Church & Dwight
+", NJ,1,174,1,0,0,0,1
+154,Lead Data Scientist,3.6,"Boston, MA","Springfield, MA",5001 to 10000 employees,1851,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),-1,0,0,124,204,164.0,"MassMutual
+", MA,0,169,1,0,1,1,0
+155,"Sr. Data Scientist - Analytics, Personalized Healthcare (PHC)",3.9,"South San Francisco, CA","South San Francisco, CA",10000+ employees,1976,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),-1,0,0,131,207,169.0,"Genentech
+", CA,1,44,1,0,1,0,1
+156,Senior Data Scientist,3.8,"Cupertino, CA","Sunnyvale, CA",5001 to 10000 employees,1996,Company - Public,Telecommunications Services,Telecommunications,$2 to $5 billion (USD),-1,0,0,110,174,142.0,"Juniper Networks
+", CA,0,24,1,0,1,1,1
+157,Pricipal Scientist Molecular and cellular biologist,3.7,"Boston, MA","OSAKA, Japan",10000+ employees,1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),"Novartis, Baxter, Pfizer",0,0,52,101,76.5,"Takeda Pharmaceuticals
+", MA,0,239,0,0,0,0,1
+158,"Data Scientist (Actuary, FSA or ASA)",3.8,"Frederick, MD","Frederick, MD",501 to 1000 employees,1981,Company - Private,Insurance Carriers,Insurance,$500 million to $1 billion (USD),-1,0,0,81,133,107.0,"Legal & General America
+", MD,1,39,1,0,0,0,1
+159,Staff Data Scientist,3.5,"San Jose, CA","San Jose, CA",10000+ employees,1970,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),"Seagate Technology, Toshiba",0,0,132,211,171.5,"Western Digital
+", CA,1,50,1,0,0,1,0
+160,Senior Data Scientist / Machine Learning,3.9,"Dallas, TX","Mountain View, CA",201 to 500 employees,2013,Company - Private,Insurance Agencies & Brokerages,Insurance,Unknown / Non-Applicable,-1,0,0,73,119,96.0,"Health IQ
+", TX,0,7,0,0,0,0,1
+161,Data Scientist - Health Data Analytics,4.2,"San Francisco, CA","San Francisco, CA",51 to 200 employees,2010,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,110,175,142.5,"Nuna
+", CA,1,10,0,0,0,0,0
+162,Data Engineer 5 - Contract (Remote),4.2,"Riverton, UT","Salt Lake City, UT",10000+ employees,-1,Nonprofit Organization,Religious Organizations,Non-Profit,Unknown / Non-Applicable,-1,0,0,74,140,107.0,"The Church of Jesus Christ of Latter-day Saints
+", UT,0,-1,0,0,0,0,1
+163,Senior Scientist - Neuroscience,3.5,"Marlborough, MA","Marlborough, MA",1001 to 5000 employees,2010,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),"Shire, GlaxoSmithKline, Allergan",0,0,100,190,145.0,"Sunovion
+", MA,1,10,1,0,0,0,1
+164,Senior Data Analyst,2.9,"Herndon, VA","Herndon, VA",201 to 500 employees,1993,Nonprofit Organization,Colleges & Universities,Education,$25 to $50 million (USD),"Ellucian, Parchment, College Board",0,0,43,80,61.5,"National Student Clearinghouse
+", VA,1,27,1,0,0,0,1
+165,Medical Lab Scientist,3.6,"West Reading, PA","Reading, PA",5001 to 10000 employees,2017,Nonprofit Organization,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,-1,1,0,17,24,20.5,"Tower Health
+", PA,0,3,0,0,0,0,0
+166,"Risk and Analytics IT, Data Scientist",2.7,"Madison, WI","Madison, WI",51 to 200 employees,1951,Government,Investment Banking & Asset Management,Finance,$50 to $100 million (USD),-1,0,0,91,149,120.0,"State of Wisconsin Investment Board
+", WI,1,69,1,0,0,0,0
+167,"Scientist, Analytical Development",4.4,"Cambridge, MA","Cambridge, MA",201 to 500 employees,2013,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),-1,0,0,42,82,62.0,"Rubius Therapeutics
+", MA,1,7,0,0,0,0,0
+168,Senior Data Scientist,4.0,"San Francisco, CA","San Rafael, CA",5001 to 10000 employees,1982,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),-1,0,0,116,185,150.5,"Autodesk
+", CA,0,38,1,0,1,0,0
+169,Analytics Manager,4.3,"Dearborn, MI","Detroit, MI",201 to 500 employees,1967,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,-1,0,0,59,116,87.5,"OneMagnify
+", MI,0,53,0,0,0,0,1
+170,Data Engineer,4.2,"Winter Park, FL","Winter Park, FL",51 to 200 employees,2006,Company - Public,Advertising & Marketing,Business Services,$25 to $50 million (USD),"Linqia, Collective Bias",0,0,48,95,71.5,"IZEA
+", FL,1,14,1,0,1,1,1
+171,Digital Marketing & ECommerce Data Analyst,3.6,"San Rafael, CA","San Rafael, CA",51 to 200 employees,2006,Subsidiary or Business Segment,"Department, Clothing, & Shoe Stores",Retail,$100 to $500 million (USD),-1,0,0,31,72,51.5,"Vionic Group
+", CA,1,14,0,0,0,0,1
+172,Sr. Scientist - Digital & Image Analysis/Computational Pathology,3.7,"San Diego, CA","OSAKA, Japan",10000+ employees,1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),"Novartis, Baxter, Pfizer",0,0,105,198,151.5,"Takeda Pharmaceuticals
+", CA,0,239,0,0,0,0,1
+173,Senior Data Analyst,2.8,"Hamilton, NJ","Hamilton, NJ",201 to 500 employees,2014,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1,0,0,55,100,77.5,"Dodge Data & Analytics
+", NJ,1,6,1,0,0,0,1
+174,Principal Scientist - Immunologist,3.7,"Boston, MA","OSAKA, Japan",10000+ employees,1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),"Novartis, Baxter, Pfizer",0,0,98,182,140.0,"Takeda Pharmaceuticals
+", MA,0,239,0,0,0,0,1
+175,Senior Data Scientist,3.3,"Woodbridge, NJ","Boston, MA",1001 to 5000 employees,1982,Company - Private,Insurance Carriers,Insurance,$10 to $25 million (USD),"Arbella Insurance, Safety Insurance",0,0,73,124,98.5,"Plymouth Rock Assurance
+", NJ,0,38,0,0,0,0,1
+176,Principal Data Scientist with over 10 years experience,-1.0,"San Francisco, CA","Fremont, CA",51 to 200 employees,2017,Company - Private,IT Services,Information Technology,$5 to $10 million (USD),-1,0,1,200,250,225.0,CA-One Tech Cloud, CA,0,3,1,0,0,1,1
+177,MED TECH/LAB SCIENTIST - LABORATORY,3.6,"Lewes, DE","Lewes, DE",1001 to 5000 employees,1935,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),-1,1,0,21,34,27.5,"Beebe Healthcare
+", DE,1,85,0,0,0,0,0
+178,"Sr. Scientist, Quantitative Translational Sciences",3.7,"Boston, MA","OSAKA, Japan",10000+ employees,1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),"Novartis, Baxter, Pfizer",0,0,117,206,161.5,"Takeda Pharmaceuticals
+", MA,0,239,0,0,0,0,0
+179,Sr. Data Scientist II,3.4,"New York, NY","Hamilton, Bermuda",1001 to 5000 employees,1948,Company - Public,Insurance Carriers,Insurance,$1 to $2 billion (USD),-1,0,0,111,183,147.0,"Argo Group US
+", NY,0,72,1,0,1,1,0
+180,Excel / VBA / SQL Data Analyst,4.1,"Springfield, MO","Springfield, MO",501 to 1000 employees,1961,Company - Private,Energy,"Oil, Gas, Energy & Utilities",$1 to $2 billion (USD),-1,0,0,44,78,61.0,"Associated Electric Cooperative
+", MO,1,59,0,0,0,0,1
+181,Machine Learning Research Scientist,2.6,"Pittsburgh, PA","Pittsburgh, PA",501 to 1000 employees,1984,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,-1,0,0,81,159,120.0,"Software Engineering Institute
+", PA,1,36,1,0,0,0,0
+182,"VP, Data Science",3.2,"Phoenix, AZ","Westlake Village, CA",1001 to 5000 employees,2008,Company - Public,Lending,Finance,$500 million to $1 billion (USD),"Nationstar Mortgage, Caliber Funding, Quicken Loans",0,0,83,166,124.5,"PennyMac
+", AZ,0,12,1,0,0,0,1
+183,Senior Data Scientist,3.9,"Burbank, CA","Burbank, CA",51 to 200 employees,2009,Company - Private,Financial Analytics & Research,Finance,$50 to $100 million (USD),-1,0,0,114,182,148.0,"Zest AI
+", CA,1,11,1,0,0,0,0
+184,Radar Data Analyst,4.7,"Huntsville, AL","Arlington, VA",51 to 200 employees,1996,Company - Private,Aerospace & Defense,Aerospace & Defense,$25 to $50 million (USD),"Torch Technologies, American Systems",0,0,42,76,59.0,"DECISIVE ANALYTICS Corporation
+", AL,0,24,1,0,0,0,1
+185,PL Actuarial-Lead Data Scientist,3.7,"Worcester, MA","Worcester, MA",5001 to 10000 employees,1852,Company - Public,Insurance Carriers,Insurance,$5 to $10 billion (USD),-1,0,0,114,179,146.5,"The Hanover Insurance Group
+", MA,1,168,1,0,0,0,1
+186,PV Scientist,2.9,"Newton, MA","Newton, MA",201 to 500 employees,-1,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,-1,0,0,60,123,91.5,"Karyopharm Therapeutics Inc.
+", MA,1,-1,0,0,0,0,1
+187,Senior Data & Machine Learning Scientist,3.0,"Chicago, IL","Chicago, IL",501 to 1000 employees,2015,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,-1,0,0,100,166,133.0,"Tempus Labs
+", IL,1,5,1,0,0,1,0
+188,Principal Data Scientist (Computational Chemistry),4.7,"Salt Lake City, UT","Salt Lake City, UT",51 to 200 employees,2013,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $5 million (USD),-1,0,0,108,173,140.5,"Recursion Pharmaceuticals
+", UT,1,7,1,0,0,1,0
+189,Data Engineer,3.7,"Lafayette, LA","Denver, CO",501 to 1000 employees,-1,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1,0,0,48,93,70.5,"P2 Energy Solutions
+", LA,0,-1,0,0,0,0,1
+190,"Principal Scientist, Chemistry & Immunology",3.3,"Rochester, NY","Rochester, NY",10000+ employees,2014,Hospital,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),-1,0,0,54,115,84.5,"Rochester Regional Health
+", NY,1,6,0,0,0,0,0
+191,Software Engineer - Data Visualization,4.0,"Annapolis Junction, MD","Annapolis Junction, MD",51 to 200 employees,2002,Company - Private,Computer Hardware & Software,Information Technology,$5 to $10 million (USD),-1,0,0,60,127,93.5,"ClearEdge
+", MD,1,18,0,0,0,0,1
+192,"Scientist/Senior Scientist, Autoimmune",4.4,"Cambridge, MA","Cambridge, MA",201 to 500 employees,2013,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),-1,0,0,90,179,134.5,"Rubius Therapeutics
+", MA,1,7,0,0,0,0,0
+193,Staff Machine Learning Engineer,3.9,"San Francisco, CA","San Francisco, CA",201 to 500 employees,2007,Company - Private,Internet,Information Technology,$10 to $25 million (USD),"FLURRY, Chartboost",0,0,138,224,181.0,"Tapjoy
+", CA,1,13,1,0,1,0,0
+194,"Principal Scientist, Hematology",3.3,"Rochester, NY","Rochester, NY",10000+ employees,2014,Hospital,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),-1,0,0,54,115,84.5,"Rochester Regional Health
+", NY,1,6,0,0,0,0,0
+195,Lead Data Engineer,4.1,"Mountain View, CA","Mountain View, CA",51 to 200 employees,2010,Company - Private,Internet,Information Technology,$50 to $100 million (USD),"Credit Karma, LendUp, SoFi",0,0,190,220,205.0,"Credit Sesame
+", CA,1,10,1,0,1,1,0
+196,Marketing Data Analyst,3.6,"Highland, CA","Highland, CA",1001 to 5000 employees,1986,Company - Private,Gambling,"Arts, Entertainment & Recreation",$100 to $500 million (USD),-1,0,0,35,62,48.5,"San Manuel Casino
+", CA,1,34,0,0,0,0,1
+197,Medical Laboratory Scientist,4.0,"Burleson, TX","Arlington, TX",1001 to 5000 employees,1977,Hospital,Health Care Services & Hospitals,Health Care,$50 to $100 million (USD),-1,1,0,18,25,21.5,"Texas Health Huguley Hospital
+", TX,0,43,0,0,0,1,0
+198,R&D Specialist/ Food Scientist,2.4,"Hoopeston, IL","Flower Mound, TX",501 to 1000 employees,-1,Company - Private,Food & Beverage Manufacturing,Manufacturing,$100 to $500 million (USD),-1,0,0,39,66,52.5,"Teasdale Latin Foods
+", IL,0,-1,0,0,0,0,0
+199,Senior Research Scientist-Machine Learning,2.6,"Pittsburgh, PA","Pittsburgh, PA",501 to 1000 employees,1984,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,-1,0,0,81,167,124.0,"Software Engineering Institute
+", PA,1,36,0,0,0,0,0
+200,Analytics Manager - Data Mart,3.5,"Scotts Valley, CA","Scotts Valley, CA",501 to 1000 employees,1996,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),-1,0,0,42,86,64.0,"Central California Alliance for Health
+", CA,1,24,0,0,0,0,0
+201,Sr. Data Engineer - Contract-to-Hire (Java),3.0,"Knoxville, TN","Knoxville, TN",10000+ employees,1958,Company - Private,Gas Stations,Retail,$10+ billion (USD),"TravelCenters of America, Love's Travel Stops & Country Stores, Wawa",0,0,69,127,98.0,"Pilot Flying J Travel Centers LLC
+", TN,1,62,1,0,0,0,0
+202,MED TECH/LAB SCIENTIST- SOUTH COASTAL LAB,3.6,"Millville, DE","Lewes, DE",1001 to 5000 employees,1935,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),-1,1,0,21,34,27.5,"Beebe Healthcare
+", DE,0,85,0,0,0,0,0
+203,Food Scientist - Developer,3.3,"Milwaukee, WI","Milwaukee, WI",501 to 1000 employees,1964,Company - Private,Food & Beverage Manufacturing,Manufacturing,Unknown / Non-Applicable,-1,0,0,40,68,54.0,"Palermo's Pizza
+", WI,1,56,0,0,0,0,0
+204,Staff Scientist-Downstream Process Development,2.7,"Rockville, MD","Rockville, MD",201 to 500 employees,1961,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million (USD),-1,0,0,49,113,81.0,"Advanced BioScience Laboratories
+", MD,1,59,0,0,0,0,1
+205,Sr. Data Engineer,3.4,"Chicago, IL","Chicago, IL",1001 to 5000 employees,2005,Company - Public,Transportation Management,Transportation & Logistics,$2 to $5 billion (USD),"C.H. Robinson, Total Quality Logistics, Coyote Logistics",0,0,75,140,107.5,"Echo Global Logistics
+", IL,1,15,0,0,0,0,0
+206,Data Scientist - Quantitative,3.8,"Chicago, IL","New Plymouth, ID",501 to 1000 employees,1995,Company - Private,Logistics & Supply Chain,Transportation & Logistics,Unknown / Non-Applicable,-1,0,0,86,139,112.5,"Truckstop.com
+", IL,0,25,1,0,0,1,1
+207,Data Scientist,3.7,"Herndon, VA","Bethesda, MD",10000+ employees,1995,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),"Boeing, Northrop Grumman, Raytheon",0,0,66,112,89.0,"Lockheed Martin
+", VA,0,25,1,0,1,0,1
+208,Senior Research Statistician- Data Scientist,4.8,"Sheboygan, WI","Sheboygan, WI",1001 to 5000 employees,1925,Company - Private,Insurance Carriers,Insurance,$1 to $2 billion (USD),-1,0,0,76,125,100.5,"Acuity Insurance
+", WI,1,95,0,0,0,0,0
+209,"Business Data Analyst, SQL",3.8,"New York, NY","New York, NY",1001 to 5000 employees,2002,Company - Private,Travel Agencies,Travel & Tourism,$2 to $5 billion (USD),"Expedia Group, Orbitz Worldwide, Priceline.com",0,0,44,86,65.0,"Fareportal
+", NY,1,18,0,0,0,0,1
+210,Medical Technologist / Clinical Laboratory Scientist,3.4,"New Orleans, LA","Washington, DC",10000+ employees,1930,Government,Federal Agencies,Government,Unknown / Non-Applicable,-1,1,0,15,25,20.0,"Veterans Affairs, Veterans Health Administration
+", LA,0,90,0,0,0,0,0
+211,Data Scientist,4.3,"Dallas, TX","Dallas, TX",201 to 500 employees,1999,Subsidiary or Business Segment,Consulting,Business Services,Unknown / Non-Applicable,-1,0,0,53,92,72.5,"Credera
+", TX,1,21,1,0,1,1,1
+212,Senior Data Analyst,4.8,"Clearwater, FL","Clearwater, FL",501 to 1000 employees,2010,Company - Private,Security Services,Business Services,$100 to $500 million (USD),-1,0,0,44,78,61.0,"KnowBe4
+", FL,1,10,1,0,0,0,1
+213,BI & Platform Analytics Manager,3.4,"Ewing, NJ","Ewing, NJ",1001 to 5000 employees,1846,Company - Public,Consumer Products Manufacturing,Manufacturing,$2 to $5 billion (USD),-1,0,0,85,134,109.5,"Church & Dwight
+", NJ,1,174,1,0,0,0,1
+214,Data Engineer,3.9,"Cambridge, MA","Cambridge, MA",51 to 200 employees,2005,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1,0,0,59,110,84.5,"Cogo Labs
+", MA,1,15,1,0,1,0,0
+215,Data Scientist,3.4,"Chicago, IL","Chicago, IL",51 to 200 employees,1992,Company - Private,Advertising & Marketing,Business Services,$10 to $25 million (USD),-1,0,0,64,111,87.5,"Spectrum Communications and Consulting
+", IL,1,28,0,0,0,0,0
+216,Data Analyst,3.1,"San Mateo, CA","Seoul, South Korea",1001 to 5000 employees,1997,Company - Public,Video Games,Media,$10+ billion (USD),"Blizzard Entertainment, Riot Games, Electronic Arts",0,0,65,120,92.5,"NCSOFT
+", CA,0,23,1,1,0,0,1
+217,Associate Data Scientist/Computer Scientist,3.2,"McLean, VA","Bedford, MA",5001 to 10000 employees,1958,Nonprofit Organization,Federal Agencies,Government,$1 to $2 billion (USD),"Battelle, General Atomics, SAIC",0,0,60,103,81.5,"MITRE
+", VA,0,62,1,0,1,0,0
+218,Business Intelligence Analyst / Developer,4.3,"Dayton, OH","Dayton, OH",1001 to 5000 employees,1981,Company - Private,Trucking,Transportation & Logistics,Unknown / Non-Applicable,"Old Dominion Freight, Pitt Ohio Express",0,0,53,105,79.0,"Dayton Freight Lines, Inc.
+", OH,1,39,0,0,0,0,0
+219,Lead Data Scientist,3.6,"Boston, MA","Springfield, MA",5001 to 10000 employees,1851,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),-1,0,0,124,204,164.0,"MassMutual
+", MA,0,169,1,0,1,1,0
+220,"Sr. Data Scientist - Analytics, Personalized Healthcare (PHC)",3.9,"South San Francisco, CA","South San Francisco, CA",10000+ employees,1976,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),-1,0,0,131,207,169.0,"Genentech
+", CA,1,44,1,0,1,0,1
+221,Senior Data Scientist,3.8,"Cupertino, CA","Sunnyvale, CA",5001 to 10000 employees,1996,Company - Public,Telecommunications Services,Telecommunications,$2 to $5 billion (USD),-1,0,0,110,174,142.0,"Juniper Networks
+", CA,0,24,1,0,1,1,1
+222,Data Analyst,2.8,"Parlier, CA","San Luis Obispo, CA",501 to 1000 employees,-1,Nonprofit Organization,Social Assistance,Non-Profit,$50 to $100 million (USD),-1,0,0,33,62,47.5,"Community Action Partnership of San Luis Obispo
+", CA,0,-1,0,0,0,0,1
+223,Pricipal Scientist Molecular and cellular biologist,3.7,"Boston, MA","OSAKA, Japan",10000+ employees,1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),"Novartis, Baxter, Pfizer",0,0,52,101,76.5,"Takeda Pharmaceuticals
+", MA,0,239,0,0,0,0,1
+224,Data Analyst,3.4,"San Francisco, CA","San Francisco, CA",51 to 200 employees,2013,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,48,90,69.0,"TrueAccord
+", CA,1,7,1,0,0,0,1
+225,Data Analyst,4.0,"Meridian, ID","Akron, OH",201 to 500 employees,1984,Company - Private,Computer Hardware & Software,Information Technology,$50 to $100 million (USD),-1,0,0,34,64,49.0,"DRB Systems
+", ID,0,36,1,1,0,0,1
+226,Staff Data Scientist,3.5,"San Jose, CA","San Jose, CA",10000+ employees,1970,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),"Seagate Technology, Toshiba",0,0,132,211,171.5,"Western Digital
+", CA,1,50,1,0,0,1,0
+227,"Data Scientist (Actuary, FSA or ASA)",3.8,"Frederick, MD","Frederick, MD",501 to 1000 employees,1981,Company - Private,Insurance Carriers,Insurance,$500 million to $1 billion (USD),-1,0,0,81,133,107.0,"Legal & General America
+", MD,1,39,1,0,0,0,1
+228,System and Data Analyst,3.7,"Cherry Hill, NJ","Cherry Hill, NJ",201 to 500 employees,1996,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,42,76,59.0,"Corcentric
+", NJ,1,24,0,0,0,0,1
+229,Data Scientist,3.5,"Indianapolis, IN","Arlington, VA",201 to 500 employees,2019,Company - Private,IT Services,Information Technology,$25 to $50 million (USD),-1,0,0,66,111,88.5,"U.Group
+", IN,0,1,0,0,0,1,0
+230,Data Engineer 5 - Contract (Remote),4.2,"Riverton, UT","Salt Lake City, UT",10000+ employees,-1,Nonprofit Organization,Religious Organizations,Non-Profit,Unknown / Non-Applicable,-1,0,0,74,140,107.0,"The Church of Jesus Christ of Latter-day Saints
+", UT,0,-1,0,0,0,0,1
+231,Digital Health Data Scientist,4.0,"Cambridge, MA","New York, NY",10000+ employees,1849,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),-1,0,0,63,110,86.5,"Pfizer
+", MA,0,171,1,0,0,1,1
+232,Data Scientist,4.3,"Louisville, KY","Peachtree City, GA",51 to 200 employees,1935,Nonprofit Organization,Logistics & Supply Chain,Transportation & Logistics,$10 to $25 million (USD),-1,0,0,63,105,84.0,"SMC 3
+", KY,0,85,1,0,0,0,1
+233,Data & Analytics Consultant (NYC),4.7,"New York, NY","Cincinnati, OH",201 to 500 employees,1992,Company - Private,Consulting,Business Services,$50 to $100 million (USD),-1,0,0,91,138,114.5,"Systems Evolution Inc.
+", NY,0,28,1,0,0,0,1
+234,Senior Scientist - Neuroscience,3.5,"Marlborough, MA","Marlborough, MA",1001 to 5000 employees,2010,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),"Shire, GlaxoSmithKline, Allergan",0,0,100,190,145.0,"Sunovion
+", MA,1,10,1,0,0,0,1
+235,Data Engineer,4.4,"Nashville, TN","San Francisco, CA",1001 to 5000 employees,2006,Company - Public,Internet,Information Technology,$100 to $500 million (USD),"See Tickets, TicketWeb, Vendini",0,0,62,114,88.0,"Eventbrite
+", TN,0,14,1,0,1,1,1
+236,Big Data Engineer - Chicago - Future Opportunity,4.1,"Chicago, IL","Chicago, IL",501 to 1000 employees,2001,Company - Private,Internet,Information Technology,$100 to $500 million (USD),"Mediaocean, The Trade Desk, MediaMath",0,0,71,129,100.0,"Centro
+", IL,1,19,1,0,1,1,0
+237,Senior Data Analyst,2.9,"Herndon, VA","Herndon, VA",201 to 500 employees,1993,Nonprofit Organization,Colleges & Universities,Education,$25 to $50 million (USD),"Ellucian, Parchment, College Board",0,0,43,80,61.5,"National Student Clearinghouse
+", VA,1,27,1,0,0,0,1
+238,Data Scientist,2.5,"Portland, OR","Reston, VA",1001 to 5000 employees,1999,Company - Public,Advertising & Marketing,Business Services,$1 to $2 billion (USD),"Nielsen, Hitwise, Coremetrics",0,0,74,119,96.5,"comScore
+", OR,0,21,1,0,1,0,0
+239,Survey Data Analyst,4.2,"Minneapolis, MN","Chicago, IL",201 to 500 employees,1992,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,"Mercer, Korn Ferry, Integrated Healthcare Strategies",0,0,55,97,76.0,"SullivanCotter
+", MN,0,28,1,0,0,0,1
+240,Data Scientist,3.9,"Port Washington, NY","Port Washington, NY",1001 to 5000 employees,1966,Company - Private,Research & Development,Business Services,$100 to $500 million (USD),-1,0,0,15,16,15.5,"NPD
+", NY,1,54,0,0,0,0,1
+241,Data Scientist,4.3,"Austin, TX","Austin, TX",1 to 50 employees,2010,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,-1,0,0,61,106,83.5,"Bakery Agency
+", TX,1,10,1,0,0,0,1
+242,"Risk and Analytics IT, Data Scientist",2.7,"Madison, WI","Madison, WI",51 to 200 employees,1951,Government,Investment Banking & Asset Management,Finance,$50 to $100 million (USD),-1,0,0,91,149,120.0,"State of Wisconsin Investment Board
+", WI,1,69,1,0,0,0,0
+243,Data Scientist,3.9,"South San Francisco, CA","South San Francisco, CA",10000+ employees,1976,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),-1,0,0,127,199,163.0,"Genentech
+", CA,1,44,0,0,0,0,1
+244,Lead Health Data Analyst - Front End,3.4,"Providence, RI","Providence, RI",501 to 1000 employees,1939,Nonprofit Organization,Insurance Carriers,Insurance,Unknown / Non-Applicable,UnitedHealth Group,0,0,74,126,100.0,"Blue Cross & Blue Shield of Rhode Island
+", RI,1,81,0,0,0,1,0
+245,Research Scientist,3.8,"Omaha, NE","Omaha, NE",1001 to 5000 employees,1917,Nonprofit Organization,Social Assistance,Non-Profit,Unknown / Non-Applicable,"Boys & Girls Clubs of America, AdoptUSKids, Foster Care to Success",0,0,33,72,52.5,"Boys Town
+", NE,1,103,0,0,0,0,1
+246,Medical Lab Scientist,3.6,"West Reading, PA","Reading, PA",5001 to 10000 employees,2017,Nonprofit Organization,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,-1,1,0,17,24,20.5,"Tower Health
+", PA,0,3,0,0,0,0,0
+247,Junior Data Analyst,3.3,"Washington, DC","Washington, DC",501 to 1000 employees,1883,Nonprofit Organization,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,-1,0,0,37,63,50.0,"The HSC Health Care System
+", DC,1,137,0,0,0,0,1
+248,SQL Data Engineer,3.4,"Austin, TX","Alexandria, VA",201 to 500 employees,2006,Company - Private,Consulting,Business Services,$50 to $100 million (USD),-1,0,0,67,119,93.0,"Pro-Sphere Tek
+", TX,0,14,1,0,0,1,0
+249,Data Scientist,3.0,"Cincinnati, OH","Lincoln, NE",1001 to 5000 employees,1887,Company - Private,Insurance Agencies & Brokerages,Insurance,$2 to $5 billion (USD),-1,0,0,72,117,94.5,"Ameritas Life Insurance Corp
+", OH,0,133,1,0,0,0,0
+250,Senior Data Scientist,4.0,"San Francisco, CA","San Rafael, CA",5001 to 10000 employees,1982,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),-1,0,0,116,185,150.5,"Autodesk
+", CA,0,38,1,0,1,0,0
+251,Data Scientist,3.7,"Raleigh, NC","Richmond, VA",1001 to 5000 employees,2004,Company - Public,Insurance Carriers,Insurance,$5 to $10 billion (USD),"MetLife, Northwestern Mutual, Prudential",0,0,78,126,102.0,"Genworth
+", NC,0,16,1,0,1,1,1
+252,"Scientist, Analytical Development",4.4,"Cambridge, MA","Cambridge, MA",201 to 500 employees,2013,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),-1,0,0,42,82,62.0,"Rubius Therapeutics
+", MA,1,7,0,0,0,0,0
+253,Analytics Manager,4.3,"Dearborn, MI","Detroit, MI",201 to 500 employees,1967,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,-1,0,0,59,116,87.5,"OneMagnify
+", MI,0,53,0,0,0,0,1
+254,Clinical Data Scientist,4.0,"Groton, CT","New York, NY",10000+ employees,1849,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),-1,0,0,63,105,84.0,"Pfizer
+", CT,0,171,0,0,0,1,1
+255,Data Scientist,4.0,"Herndon, VA","Mc Lean, VA",501 to 1000 employees,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),"Leidos, CACI International, Booz Allen Hamilton",0,0,109,177,143.0,"Novetta
+", VA,0,8,1,0,0,1,0
+256,"Sr. Data Scientist, Cyber-Security LT Contract",3.2,"Phila, PA","Chadds Ford, PA",1 to 50 employees,-1,Company - Private,Staffing & Outsourcing,Business Services,$5 to $10 million (USD),-1,0,0,116,194,155.0,"Numeric, LLC
+", PA,0,-1,1,0,1,1,1
+257,Data Engineer,4.2,"Winter Park, FL","Winter Park, FL",51 to 200 employees,2006,Company - Public,Advertising & Marketing,Business Services,$25 to $50 million (USD),"Linqia, Collective Bias",0,0,48,95,71.5,"IZEA
+", FL,1,14,1,0,1,1,1
+258,Data Scientist,3.9,"Oakland, CA","Santa Ana, CA",51 to 200 employees,2000,Company - Private,Insurance Carriers,Insurance,$10 to $25 million (USD),-1,0,0,83,133,108.0,"Trace Data
+", CA,0,20,1,0,1,0,0
+259,Sr. Scientist - Digital & Image Analysis/Computational Pathology,3.7,"San Diego, CA","OSAKA, Japan",10000+ employees,1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),"Novartis, Baxter, Pfizer",0,0,105,198,151.5,"Takeda Pharmaceuticals
+", CA,0,239,0,0,0,0,1
+260,Digital Marketing & ECommerce Data Analyst,3.6,"San Rafael, CA","San Rafael, CA",51 to 200 employees,2006,Subsidiary or Business Segment,"Department, Clothing, & Shoe Stores",Retail,$100 to $500 million (USD),-1,0,0,31,72,51.5,"Vionic Group
+", CA,1,14,0,0,0,0,1
+261,Principal Scientist - Immunologist,3.7,"Boston, MA","OSAKA, Japan",10000+ employees,1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),"Novartis, Baxter, Pfizer",0,0,98,182,140.0,"Takeda Pharmaceuticals
+", MA,0,239,0,0,0,0,1
+262,Senior Data Analyst,2.8,"Hamilton, NJ","Hamilton, NJ",201 to 500 employees,2014,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1,0,0,55,100,77.5,"Dodge Data & Analytics
+", NJ,1,6,1,0,0,0,1
+263,Insurance Financial Data Analyst,4.2,"Boise, ID","Boise, ID",501 to 1000 employees,2004,Company - Private,Investment Banking & Asset Management,Finance,$50 to $100 million (USD),-1,0,0,45,82,63.5,"Clearwater Analytics
+", ID,1,16,0,0,0,0,1
+264,Data Scientist,4.0,"San Francisco, CA","Pleasanton, CA",1 to 50 employees,-1,Company - Private,IT Services,Information Technology,Less than $1 million (USD),-1,0,0,83,135,109.0,"Tekvalley, Corp.
+", CA,0,-1,1,0,0,0,0
+265,Data Scientist,3.5,"Oak Ridge, TN","Lynchburg, VA",5001 to 10000 employees,1850,Company - Public,Aerospace & Defense,Aerospace & Defense,$500 million to $1 billion (USD),-1,0,0,70,122,96.0,"BWX Technologies
+", TN,0,170,1,0,0,0,0
+266,Principal Data Scientist with over 10 years experience,-1.0,"San Francisco, CA","Fremont, CA",51 to 200 employees,2017,Company - Private,IT Services,Information Technology,$5 to $10 million (USD),-1,0,1,200,250,225.0,CA-One Tech Cloud, CA,0,3,1,0,0,1,1
+267,Data Engineer,3.2,"Agoura Hills, CA","Westlake Village, CA",1001 to 5000 employees,2008,Company - Public,Lending,Finance,$500 million to $1 billion (USD),"Nationstar Mortgage, Caliber Funding, Quicken Loans",0,0,70,132,101.0,"PennyMac
+", CA,0,12,1,0,0,1,1
+268,Senior Data Scientist,3.3,"Woodbridge, NJ","Boston, MA",1001 to 5000 employees,1982,Company - Private,Insurance Carriers,Insurance,$10 to $25 million (USD),"Arbella Insurance, Safety Insurance",0,0,73,124,98.5,"Plymouth Rock Assurance
+", NJ,0,38,0,0,0,0,1
+269,Data Engineer I - Azure,3.9,"Pella, IA","Pella, IA",1001 to 5000 employees,1948,Company - Private,Industrial Manufacturing,Manufacturing,$1 to $2 billion (USD),"Caterpillar, John Deere, CNH Industrial",0,0,54,101,77.5,"Vermeer
+", IA,1,72,0,0,0,0,1
+270,"Sr. Scientist, Quantitative Translational Sciences",3.7,"Boston, MA","OSAKA, Japan",10000+ employees,1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),"Novartis, Baxter, Pfizer",0,0,117,206,161.5,"Takeda Pharmaceuticals
+", MA,0,239,0,0,0,0,0
+271,MED TECH/LAB SCIENTIST - LABORATORY,3.6,"Lewes, DE","Lewes, DE",1001 to 5000 employees,1935,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),-1,1,0,21,34,27.5,"Beebe Healthcare
+", DE,1,85,0,0,0,0,0
+272,Sr. Data Scientist II,3.4,"New York, NY","Hamilton, Bermuda",1001 to 5000 employees,1948,Company - Public,Insurance Carriers,Insurance,$1 to $2 billion (USD),-1,0,0,111,183,147.0,"Argo Group US
+", NY,0,72,1,0,1,1,0
+273,Data Scientist,3.5,"San Ramon, CA","Mumbai, India",10000+ employees,1997,Company - Public,IT Services,Information Technology,Unknown / Non-Applicable,"Infosys, Accenture, Capgemini",0,0,68,112,90.0,"L&T Infotech
+", CA,0,23,1,0,0,0,1
+274,Information Security Data Analyst,4.3,"Red Bank, NJ","Toms River, NJ",501 to 1000 employees,1902,Company - Public,Banks & Credit Unions,Finance,$5 to $10 billion (USD),-1,0,0,42,74,58.0,"OceanFirst Financial
+", NJ,0,118,0,0,0,1,0
+275,Excel / VBA / SQL Data Analyst,4.1,"Springfield, MO","Springfield, MO",501 to 1000 employees,1961,Company - Private,Energy,"Oil, Gas, Energy & Utilities",$1 to $2 billion (USD),-1,0,0,44,78,61.0,"Associated Electric Cooperative
+", MO,1,59,0,0,0,0,1
+276,Machine Learning Research Scientist,2.6,"Pittsburgh, PA","Pittsburgh, PA",501 to 1000 employees,1984,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,-1,0,0,81,159,120.0,"Software Engineering Institute
+", PA,1,36,1,0,0,0,0
+277,Data Scientist,3.6,"New York, NY","New York, NY",1001 to 5000 employees,1744,Company - Public,Auctions & Galleries,Retail,$500 million to $1 billion (USD),-1,0,0,95,161,128.0,"Sotheby's
+", NY,1,276,1,0,0,0,0
+278,Data Scientist,3.5,"Hillsboro, OR","San Jose, CA",1001 to 5000 employees,1952,Company - Private,Banks & Credit Unions,Finance,$100 to $500 million (USD),-1,0,0,75,124,99.5,"First Tech Federal Credit Union
+", OR,0,68,1,0,1,1,1
+279,Data Scientist,3.6,"Detroit, MI","Detroit, MI",1001 to 5000 employees,1997,Company - Private,Real Estate,Real Estate,$500 million to $1 billion (USD),-1,0,0,72,120,96.0,"Amrock
+", MI,1,23,1,0,0,0,0
+280,Data Scientist,2.3,"Washington, DC","Washington, DC",201 to 500 employees,2003,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),-1,0,0,76,126,101.0,"Vanda Pharmaceuticals
+", DC,1,17,1,0,0,0,1
+281,Senior Data Scientist,3.9,"Burbank, CA","Burbank, CA",51 to 200 employees,2009,Company - Private,Financial Analytics & Research,Finance,$50 to $100 million (USD),-1,0,0,114,182,148.0,"Zest AI
+", CA,1,11,1,0,0,0,0
+282,"Data Scientist, Senior",4.0,"Fort Belvoir, VA","Mc Lean, VA",501 to 1000 employees,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),"Leidos, CACI International, Booz Allen Hamilton",0,0,108,176,142.0,"Novetta
+", VA,0,8,1,0,0,1,0
+283,Senior Data Scientist,4.1,"Palo Alto, CA","Palo Alto, CA",1 to 50 employees,2007,Company - Private,K-12 Education,Education,Unknown / Non-Applicable,-1,0,0,130,208,169.0,"CK-12 Foundation
+", CA,1,13,0,0,0,1,1
+284,"VP, Data Science",3.2,"Phoenix, AZ","Westlake Village, CA",1001 to 5000 employees,2008,Company - Public,Lending,Finance,$500 million to $1 billion (USD),"Nationstar Mortgage, Caliber Funding, Quicken Loans",0,0,83,166,124.5,"PennyMac
+", AZ,0,12,1,0,0,0,1
+285,Radar Data Analyst,4.7,"Huntsville, AL","Arlington, VA",51 to 200 employees,1996,Company - Private,Aerospace & Defense,Aerospace & Defense,$25 to $50 million (USD),"Torch Technologies, American Systems",0,0,42,76,59.0,"DECISIVE ANALYTICS Corporation
+", AL,0,24,1,0,0,0,1
+286,CONSULTANT– DATA ANALYTICS GROUP,4.2,"San Diego, CA","Waltham, MA",51 to 200 employees,1987,Company - Private,Consulting,Business Services,$10 to $25 million (USD),-1,0,0,37,68,52.5,"Opinion Dynamics
+", CA,0,33,1,0,0,0,0
+287,Data Engineer,4.6,"Houston, TX","Reston, VA",501 to 1000 employees,1982,Company - Private,IT Services,Information Technology,$50 to $100 million (USD),-1,0,0,52,99,75.5,"Applied Information Sciences
+", TX,0,38,0,0,1,0,0
+288,Senior Data Scientist,3.7,"Armonk, NY","Zurich, Switzerland",10000+ employees,1863,Company - Public,Insurance Agencies & Brokerages,Insurance,$10+ billion (USD),"Munich Re, Hannover RE, SCOR",0,0,105,173,139.0,"Swiss Re
+", NY,0,157,1,0,0,0,1
+289,"Data Engineer, Data Engineering and Artifical Intelligence",3.7,"Cambridge, MA","OSAKA, Japan",10000+ employees,1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),"Novartis, Baxter, Pfizer",0,0,71,134,102.5,"Takeda Pharmaceuticals
+", MA,0,239,1,0,1,1,1
+290,Staff Scientist,4.4,"Columbia, SC","Charlotte, NC",201 to 500 employees,1929,Company - Private,Architectural & Engineering Services,Business Services,$25 to $50 million (USD),"McKim and Creed, CDM Smith, Kimley-Horn",0,0,39,82,60.5,"WK Dickson
+", SC,0,91,0,0,0,0,0
+291,PL Actuarial-Lead Data Scientist,3.7,"Worcester, MA","Worcester, MA",5001 to 10000 employees,1852,Company - Public,Insurance Carriers,Insurance,$5 to $10 billion (USD),-1,0,0,114,179,146.5,"The Hanover Insurance Group
+", MA,1,168,1,0,0,0,1
+292,"Associate Scientist/Scientist, Process Analytical Technology - Small Molecule Analytical Chemistry",3.9,"South San Francisco, CA","South San Francisco, CA",10000+ employees,1976,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),-1,0,0,88,162,125.0,"Genentech
+", CA,1,44,0,0,0,0,1
+293,Sr. Data Analyst,3.6,"Springfield, MA","Springfield, MA",5001 to 10000 employees,1851,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),-1,0,0,60,102,81.0,"MassMutual
+", MA,1,169,1,0,0,0,0
+294,Senior Data & Machine Learning Scientist,3.0,"Chicago, IL","Chicago, IL",501 to 1000 employees,2015,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,-1,0,0,100,166,133.0,"Tempus Labs
+", IL,1,5,1,0,0,1,0
+295,Program/Data Analyst,3.4,"Washington, DC","Fairfax, VA",10000+ employees,1996,Subsidiary or Business Segment,IT Services,Information Technology,$10+ billion (USD),"SAIC, Leidos, Northrop Grumman",0,0,55,99,77.0,"General Dynamics Information Technology
+", DC,0,24,0,0,0,0,1
+296,Data Engineer,4.1,"Herndon, VA","Herndon, VA",5001 to 10000 employees,1968,Company - Public,Research & Development,Business Services,$1 to $2 billion (USD),-1,0,0,67,117,92.0,"ManTech
+", VA,1,52,0,0,0,0,0
+297,Senior Data Scientist: Causal & Predictive analytics AI Innovation Lab,3.8,"Cambridge, MA","Basel, Switzerland",10000+ employees,1996,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),-1,0,0,92,150,121.0,"Novartis
+", MA,0,24,0,0,0,0,0
+298,"Principal Data Engineer, Data Platform & Insights",4.0,"San Francisco, CA","San Rafael, CA",5001 to 10000 employees,1982,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion (USD),-1,0,0,116,209,162.5,"Autodesk
+", CA,0,38,1,0,1,0,1
+299,RESEARCH SCIENTIST - BIOLOGICAL SAFETY,3.9,"San Antonio, TX","San Antonio, TX",1001 to 5000 employees,1947,Nonprofit Organization,Research & Development,Business Services,$500 million to $1 billion (USD),"Los Alamos National Laboratory, Battelle, SRI International",0,0,38,82,60.0,"Southwest Research Institute
+", TX,1,73,0,0,0,0,0
+300,Data Operations Lead,-1.0,"San Francisco, CA","San Francisco, CA",201 to 500 employees,-1,Nonprofit Organization,-1,-1,Unknown / Non-Applicable,-1,0,1,85,90,87.5,Muso, CA,1,-1,1,0,0,0,1
+301,Big Data Engineer,4.4,"Indianapolis, IN","Pleasanton, CA",1 to 50 employees,2015,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,62,119,90.5,"SpringML
+", IN,0,5,1,0,1,0,0
+302,Data Scientist / Machine Learning Expert,3.8,"Cambridge, MA","Basel, Switzerland",10000+ employees,1996,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),-1,0,0,86,143,114.5,"Novartis
+", MA,0,24,1,0,0,0,0
+303,Data Scientist,3.8,"Sunnyvale, CA","Sunnyvale, CA",5001 to 10000 employees,1996,Company - Public,Telecommunications Services,Telecommunications,$2 to $5 billion (USD),-1,0,0,93,149,121.0,"Juniper Networks
+", CA,1,24,1,0,1,0,1
+304,Senior Data Scientist,2.2,"Dallas, TX","Denver, CO",501 to 1000 employees,1993,Subsidiary or Business Segment,Advertising & Marketing,Business Services,$50 to $100 million (USD),"Geometry Global, TracyLocke, Saatchi & Saatchi X",0,0,84,136,110.0,"The Integer Group
+", TX,0,27,0,0,0,0,0
+305,PV Scientist,2.9,"Newton, MA","Newton, MA",201 to 500 employees,-1,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,-1,0,0,60,123,91.5,"Karyopharm Therapeutics Inc.
+", MA,1,-1,0,0,0,0,1
+306,Clinical Data Analyst,4.1,"Portsmouth, VA","Herndon, VA",5001 to 10000 employees,1968,Company - Public,Research & Development,Business Services,$1 to $2 billion (USD),-1,0,0,52,89,70.5,"ManTech
+", VA,0,52,0,0,0,0,0
+307,Data Engineer,3.7,"Lafayette, LA","Denver, CO",501 to 1000 employees,-1,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1,0,0,48,93,70.5,"P2 Energy Solutions
+", LA,0,-1,0,0,0,0,1
+308,Computational Chemist/Data Scientist,3.8,"Richland, WA","Richland, WA",1001 to 5000 employees,1965,Government,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion (USD),"Oak Ridge National Laboratory, National Renewable Energy Lab, Los Alamos National Laboratory",0,0,56,97,76.5,"PNNL
+", WA,1,55,1,0,0,0,0
+309,Data Engineer,3.6,"Springfield, MA","Springfield, MA",5001 to 10000 employees,1851,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),-1,0,0,65,119,92.0,"MassMutual
+", MA,1,169,1,0,1,0,1
+310,Principal Data Scientist (Computational Chemistry),4.7,"Salt Lake City, UT","Salt Lake City, UT",51 to 200 employees,2013,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $5 million (USD),-1,0,0,108,173,140.5,"Recursion Pharmaceuticals
+", UT,1,7,1,0,0,1,0
+311,Product Engineer – Data Science,3.5,"Arlington, VA","Redlands, CA",1001 to 5000 employees,1969,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),Pitney Bowes,0,0,63,101,82.0,"Esri
+", VA,0,51,1,0,0,0,0
+312,"Principal Scientist, Chemistry & Immunology",3.3,"Rochester, NY","Rochester, NY",10000+ employees,2014,Hospital,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),-1,0,0,54,115,84.5,"Rochester Regional Health
+", NY,1,6,0,0,0,0,0
+313,"Scientist/Senior Scientist, Autoimmune",4.4,"Cambridge, MA","Cambridge, MA",201 to 500 employees,2013,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),-1,0,0,90,179,134.5,"Rubius Therapeutics
+", MA,1,7,0,0,0,0,0
+314,Data Scientist,3.3,"San Francisco, CA","San Francisco, CA",201 to 500 employees,2008,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,-1,0,0,127,202,164.5,"Samba TV
+", CA,1,12,0,0,0,0,0
+315,Market Data Analyst,3.4,"West Palm Beach, FL","West Palm Beach, FL",201 to 500 employees,1991,Company - Public,Telecommunications Manufacturing,Telecommunications,$50 to $100 million (USD),-1,0,0,31,57,44.0,"SV Microwave
+", FL,1,29,0,0,0,0,0
+316,Software Engineer - Data Visualization,4.0,"Annapolis Junction, MD","Annapolis Junction, MD",51 to 200 employees,2002,Company - Private,Computer Hardware & Software,Information Technology,$5 to $10 million (USD),-1,0,0,60,127,93.5,"ClearEdge
+", MD,1,18,0,0,0,0,1
+317,Data Engineer,4.4,"Herndon, VA","Pleasanton, CA",1 to 50 employees,2015,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,75,143,109.0,"SpringML
+", VA,0,5,1,0,1,0,0
+318,Staff Data Engineer,3.8,"Austin, TX","Redwood City, CA",501 to 1000 employees,2010,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,"Splunk, Datadog, Elastic",0,0,105,194,149.5,"Sumo Logic
+", TX,0,10,0,0,1,1,0
+319,Associate Data Engineer,3.5,"Washington, DC","Washington, DC",1001 to 5000 employees,2007,Company - Private,Research & Development,Business Services,Unknown / Non-Applicable,-1,0,0,45,86,65.5,"EAB
+", DC,1,13,0,0,1,1,1
+320,Senior Data Scientist,3.5,"Charlotte, NC","Charlotte, NC",1001 to 5000 employees,2017,Company - Public,Insurance Carriers,Insurance,Unknown / Non-Applicable,-1,0,0,95,154,124.5,"Brighthouse Financial
+", NC,1,3,1,0,1,0,1
+321,Staff BI and Data Engineer,2.9,"San Jose, CA","New York, NY",51 to 200 employees,1998,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,"Commerce Signals, Cardlytics, Yodlee",0,0,80,148,114.0,"Affinity Solutions
+", CA,0,22,1,0,1,0,0
+322,Marketing Data Analyst,3.9,"Exton, PA","Exton, PA",501 to 1000 employees,1937,Nonprofit Organization,Banks & Credit Unions,Finance,Unknown / Non-Applicable,"TruMark Financial, North Island Credit Union, CommunityAmerica Credit Union",0,0,36,62,49.0,"Citadel Federal Credit Union
+", PA,1,83,1,0,0,0,0
+323,"Principal Scientist, Hematology",3.3,"Rochester, NY","Rochester, NY",10000+ employees,2014,Hospital,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),-1,0,0,54,115,84.5,"Rochester Regional Health
+", NY,1,6,0,0,0,0,0
+324,Data Analyst,3.7,"Alexandria, VA","Alexandria, VA",501 to 1000 employees,1989,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),"CSC, Booz Allen Hamilton, ManTech",0,0,50,92,71.0,"CALIBRE Systems
+", VA,1,31,0,0,0,0,1
+325,"Director - Data, Privacy and AI Governance",3.6,"Boston, MA","Springfield, MA",5001 to 10000 employees,1851,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),-1,0,0,67,135,101.0,"MassMutual
+", MA,0,169,0,0,0,0,0
+326,Data Scientist,3.5,"Redlands, CA","Redlands, CA",1001 to 5000 employees,1969,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),Pitney Bowes,0,0,82,132,107.0,"Esri
+", CA,1,51,1,0,1,1,0
+327,Data Scientist,4.7,"Ipswich, MA","Ipswich, MA",201 to 500 employees,1974,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,"Thermo Fisher Scientific, Enzymatics, Illumina",0,0,85,140,112.5,"New England Biolabs
+", MA,1,46,1,0,0,0,1
+328,Staff Machine Learning Engineer,3.9,"San Francisco, CA","San Francisco, CA",201 to 500 employees,2007,Company - Private,Internet,Information Technology,$10 to $25 million (USD),"FLURRY, Chartboost",0,0,138,224,181.0,"Tapjoy
+", CA,1,13,1,0,1,0,0
+329,Information Security Data Analyst,3.7,"Chicago, IL","Chicago, IL",10000+ employees,1928,Company - Public,Computer Hardware & Software,Information Technology,$5 to $10 billion (USD),"Cisco Systems, Huawei Technologies, IBM",0,0,42,80,61.0,"Motorola Solutions
+", IL,1,92,1,0,1,0,0
+330,Lead Data Engineer,4.1,"Mountain View, CA","Mountain View, CA",51 to 200 employees,2010,Company - Private,Internet,Information Technology,$50 to $100 million (USD),"Credit Karma, LendUp, SoFi",0,0,190,220,205.0,"Credit Sesame
+", CA,1,10,1,0,1,1,0
+331,Scientist Manufacturing - Kentucky BioProcessing,3.1,"Owensboro, KY","Winston-Salem, NC",5001 to 10000 employees,1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),-1,0,0,68,139,103.5,"Reynolds American
+", KY,0,145,0,0,0,0,0
+332,Data Analytics Project Manager,3.6,"Springfield, MA","Springfield, MA",5001 to 10000 employees,1851,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),-1,0,0,34,92,63.0,"MassMutual
+", MA,1,169,0,0,0,0,1
+333,Consultant - Analytics Consulting,3.0,"Hartford, CT","Bengaluru, India",10000+ employees,1981,Company - Public,IT Services,Information Technology,$10+ billion (USD),"Tata Consultancy Services, Accenture, Cognizant Technology Solutions",0,0,54,71,62.5,"Infosys
+", CT,0,39,0,0,0,0,1
+334,Data Engineer,3.5,"Orange, CA","Orange, CA",501 to 1000 employees,2013,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,-1,0,0,65,124,94.5,"Alignment Healthcare
+", CA,1,7,1,0,1,1,1
+335,Marketing Data Analyst,3.6,"Highland, CA","Highland, CA",1001 to 5000 employees,1986,Company - Private,Gambling,"Arts, Entertainment & Recreation",$100 to $500 million (USD),-1,0,0,35,62,48.5,"San Manuel Casino
+", CA,1,34,0,0,0,0,1
+336,Senior Scientist (Neuroscience),3.5,"Marlborough, MA","Marlborough, MA",1001 to 5000 employees,2010,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),"Shire, GlaxoSmithKline, Allergan",0,0,109,200,154.5,"Sunovion
+", MA,1,10,1,0,0,0,1
+337,Medical Laboratory Scientist,4.0,"Burleson, TX","Arlington, TX",1001 to 5000 employees,1977,Hospital,Health Care Services & Hospitals,Health Care,$50 to $100 million (USD),-1,1,0,18,25,21.5,"Texas Health Huguley Hospital
+", TX,0,43,0,0,0,1,0
+338,Machine Learning Engineer - Regulatory,3.7,"Lenexa, KS","Chicago, IL",501 to 1000 employees,1973,Company - Public,Stock Exchanges,Finance,$500 million to $1 billion (USD),-1,0,0,61,113,87.0,"Cboe Global Markets
+", KS,0,47,1,0,0,0,1
+339,R&D Specialist/ Food Scientist,2.4,"Hoopeston, IL","Flower Mound, TX",501 to 1000 employees,-1,Company - Private,Food & Beverage Manufacturing,Manufacturing,$100 to $500 million (USD),-1,0,0,39,66,52.5,"Teasdale Latin Foods
+", IL,0,-1,0,0,0,0,0
+340,Data Engineer,3.2,"New York, NY","New York, NY",501 to 1000 employees,2003,Company - Private,Research & Development,Business Services,Unknown / Non-Applicable,"Coleman Research, AlphaSights, Third Bridge",0,0,43,86,64.5,"Guidepoint
+", NY,1,17,1,0,0,1,1
+341,"Scientist, Bacteriology",2.1,"Concord, CA","Concord, CA",201 to 500 employees,-1,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million (USD),-1,0,0,74,149,111.5,"Cerus Corporation
+", CA,1,-1,0,0,0,0,1
+342,"Associate Director, Platform and DevOps- Data Engineering and Aritifical Intelligence",3.7,"Cambridge, MA","OSAKA, Japan",10000+ employees,1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),"Novartis, Baxter, Pfizer",0,0,113,196,154.5,"Takeda Pharmaceuticals
+", MA,0,239,0,0,1,1,1
+343,Senior Research Scientist-Machine Learning,2.6,"Pittsburgh, PA","Pittsburgh, PA",501 to 1000 employees,1984,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,-1,0,0,81,167,124.0,"Software Engineering Institute
+", PA,1,36,0,0,0,0,0
+344,Senior Data Scientist,4.4,"Chicago, IL","Chicago, IL",201 to 500 employees,2008,Company - Private,Consulting,Business Services,$50 to $100 million (USD),-1,0,0,97,160,128.5,"Maven Wave Partners
+", IL,1,12,1,0,0,1,1
+345,Clinical Laboratory Scientist,3.7,"Vail, CO","Vail, CO",501 to 1000 employees,1966,Hospital,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),-1,1,0,24,39,31.5,"Vail Health
+", CO,1,54,0,0,0,0,0
+346,Analytics Manager - Data Mart,3.5,"Scotts Valley, CA","Scotts Valley, CA",501 to 1000 employees,1996,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),-1,0,0,42,86,64.0,"Central California Alliance for Health
+", CA,1,24,0,0,0,0,0
+347,Sr. Data Engineer - Contract-to-Hire (Java),3.0,"Knoxville, TN","Knoxville, TN",10000+ employees,1958,Company - Private,Gas Stations,Retail,$10+ billion (USD),"TravelCenters of America, Love's Travel Stops & Country Stores, Wawa",0,0,69,127,98.0,"Pilot Flying J Travel Centers LLC
+", TN,1,62,1,0,0,0,0
+348,Data Scientist - Algorithms & Inference,4.2,"San Francisco, CA","San Francisco, CA",51 to 200 employees,2010,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,110,175,142.5,"Nuna
+", CA,1,10,0,0,0,0,0
+349,Senior Data Scientist - R&D Oncology,3.9,"New York, NY","Cambridge, United Kingdom",10000+ employees,1913,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),"Roche, GlaxoSmithKline, Novartis",0,0,102,172,137.0,"AstraZeneca
+", NY,0,107,1,0,0,0,0
+350,Data Engineer,4.0,"Denver, CO","Denver, CO",501 to 1000 employees,1915,Nonprofit Organization,Insurance Carriers,Insurance,$500 million to $1 billion (USD),-1,0,0,74,124,99.0,"Pinnacol Assurance
+", CO,1,105,1,0,0,1,0
+351,Food Scientist - Developer,3.3,"Milwaukee, WI","Milwaukee, WI",501 to 1000 employees,1964,Company - Private,Food & Beverage Manufacturing,Manufacturing,Unknown / Non-Applicable,-1,0,0,40,68,54.0,"Palermo's Pizza
+", WI,1,56,0,0,0,0,0
+352,Senior Data Scientist,4.4,"Natick, MA","Natick, MA",1001 to 5000 employees,1984,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),-1,0,0,108,171,139.5,"MathWorks
+", MA,1,36,1,0,0,0,0
+353,Data Engineer,3.4,"Rockville, MD","Reston, VA",201 to 500 employees,1999,Company - Private,IT Services,Information Technology,$25 to $50 million (USD),-1,0,0,76,142,109.0,"MetroStar Systems
+", MD,0,21,0,0,0,1,0
+354,"Director II, Data Science - GRM Actuarial",3.3,"Chicago, IL","Boston, MA",10000+ employees,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),"Travelers, Allstate, State Farm",0,0,202,306,254.0,"Liberty Mutual Insurance
+", IL,0,108,1,0,0,0,0
+355,"Scientist, Molecular/Cellular Biologist",2.9,"South San Francisco, CA","San Francisco, CA",201 to 500 employees,2012,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,"BioMarin Pharmaceutical, Sangamo Therapeutics, bluebird bio",0,0,49,97,73.0,"Audentes Therapeutics
+", CA,0,8,0,0,0,0,0
+356,Staff Scientist-Downstream Process Development,2.7,"Rockville, MD","Rockville, MD",201 to 500 employees,1961,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million (USD),-1,0,0,49,113,81.0,"Advanced BioScience Laboratories
+", MD,1,59,0,0,0,0,1
+357,MED TECH/LAB SCIENTIST- SOUTH COASTAL LAB,3.6,"Millville, DE","Lewes, DE",1001 to 5000 employees,1935,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),-1,1,0,21,34,27.5,"Beebe Healthcare
+", DE,0,85,0,0,0,0,0
+358,Scientist - Analytical Services,3.1,"Winston-Salem, NC","Winston-Salem, NC",5001 to 10000 employees,1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),-1,0,0,65,134,99.5,"Reynolds American
+", NC,1,145,0,0,0,0,1
+359,Associate Data Analyst- Graduate Development Program,3.3,"Richfield, OH","Richfield, OH",501 to 1000 employees,1989,Company - Private,Insurance Carriers,Insurance,$500 million to $1 billion (USD),-1,0,0,32,59,45.5,"National Interstate
+", OH,1,31,0,0,0,0,0
+360,Sr. Data Engineer,4.5,"Indianapolis, IN","Indianapolis, IN",51 to 200 employees,1996,Company - Private,Consulting,Business Services,$25 to $50 million (USD),-1,0,0,87,158,122.5,"Moser Consulting
+", IN,1,24,1,0,1,1,0
+361,Senior Insurance Data Scientist,3.9,"Chicago, IL","Chicago, IL",5001 to 10000 employees,1968,Company - Public,Financial Analytics & Research,Finance,$1 to $2 billion (USD),-1,0,0,107,173,140.0,"TransUnion
+", IL,1,52,1,0,0,0,1
+362,Senior Data Science Systems Engineer,3.2,"Hampton, VA","Bedford, MA",5001 to 10000 employees,1958,Nonprofit Organization,Federal Agencies,Government,$1 to $2 billion (USD),"Battelle, General Atomics, SAIC",0,0,56,99,77.5,"MITRE
+", VA,0,62,0,0,0,0,0
+363,ENVIRONMENTAL ENGINEER/SCIENTIST,3.3,"Cambridge, MA","Cambridge, MA",1 to 50 employees,1976,Company - Private,Construction,"Construction, Repair & Maintenance",Unknown / Non-Applicable,-1,1,1,25,28,26.5,"Mcphail Associates
+", MA,1,44,0,0,0,0,1
+364,Senior Scientist - Regulatory Submissions,3.1,"Winston-Salem, NC","Winston-Salem, NC",5001 to 10000 employees,1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),-1,0,0,80,155,117.5,"Reynolds American
+", NC,1,145,0,0,0,0,1
+365,Scientist - Biomarker and Flow Cytometry,2.4,"San Diego, CA","San Diego, CA",501 to 1000 employees,2006,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$50 to $100 million (USD),-1,0,0,43,98,70.5,"Crown Bioscience
+", CA,1,14,0,0,0,0,0
+366,Revenue Analytics Manager,4.8,"San Francisco, CA","San Francisco, CA",51 to 200 employees,2011,Company - Private,Computer Hardware & Software,Information Technology,$25 to $50 million (USD),-1,0,0,45,78,61.5,"HOVER
+", CA,1,9,0,0,0,0,1
+367,"Associate Scientist, LC/MS Biologics",2.9,"Ithaca, NY","Morrisville, NC",1001 to 5000 employees,2015,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,-1,0,0,44,96,70.0,"Q2 Solutions
+", NY,0,5,0,0,0,0,1
+368,Sr. Scientist Method Development,2.9,"Marietta, GA","Morrisville, NC",1001 to 5000 employees,2015,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,-1,0,0,50,110,80.0,"Q2 Solutions
+", GA,0,5,0,0,0,0,1
+369,IT - Data Engineer II,3.4,"Quincy, MA","Quincy, MA",1001 to 5000 employees,1988,Company - Private,Insurance Carriers,Insurance,$100 to $500 million (USD),-1,0,0,61,119,90.0,"Arbella Insurance
+", MA,1,32,0,0,1,0,1
+370,"Research Scientist, Immunology - Cancer Biology",-1.0,"Cambridge, MA","San Mateo, CA",Unknown,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,0,1,100,140,120.0,Kronos Bio, MA,0,-1,0,0,0,0,1
+371,"Project Scientist - Auton Lab, Robotics Institute",2.6,"Pittsburgh, PA","Pittsburgh, PA",501 to 1000 employees,1984,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,-1,0,0,56,91,73.5,"Software Engineering Institute
+", PA,1,36,0,0,0,0,1
+372,Data Scientist,3.8,"Fort Lauderdale, FL","Fort Lauderdale, FL",501 to 1000 employees,1984,Subsidiary or Business Segment,Advertising & Marketing,Business Services,Unknown / Non-Applicable,-1,0,0,68,114,91.0,"Zimmerman Advertising
+", FL,1,36,1,0,0,0,1
+373,Data Scientist,5.0,"Washington, DC","Alexandria, VA",Unknown,-1,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,1,150,160,155.0,"BPA Services
+", DC,0,-1,0,0,0,1,1
+374,"Enterprise Architect, Data",3.6,"Boston, MA","Springfield, MA",5001 to 10000 employees,1851,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),-1,0,0,101,158,129.5,"MassMutual
+", MA,0,169,1,0,1,1,1
+375,"Senior Manager, Epidemiologic Data Scientist",4.0,"New York, NY","New York, NY",10000+ employees,1849,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),-1,0,0,125,210,167.5,"Pfizer
+", NY,1,171,0,0,0,1,1
+376,Corporate Risk Data Analyst (SQL Based) - Milwaukee or,3.8,"Green Bay, WI","Green Bay, WI",1001 to 5000 employees,1870,Company - Public,Banks & Credit Unions,Finance,$1 to $2 billion (USD),"Wells Fargo, BMO Harris Bank, U.S. Bank",0,0,43,77,60.0,"Associated Banc-Corp
+", WI,1,150,0,0,0,1,1
+377,Lead Data Scientist,3.9,"Burbank, CA","Burbank, CA",51 to 200 employees,2009,Company - Private,Financial Analytics & Research,Finance,$50 to $100 million (USD),-1,0,0,139,221,180.0,"Zest AI
+", CA,1,11,1,0,0,0,1
+378,"Marketing Data Analyst, May 2020 Undergrad",3.8,"New York, NY","New York, NY",1001 to 5000 employees,2002,Company - Private,Travel Agencies,Travel & Tourism,$2 to $5 billion (USD),"Expedia Group, Orbitz Worldwide, Priceline.com",0,0,44,86,65.0,"Fareportal
+", NY,1,18,0,0,0,0,1
+379,Senior Data Engineer,4.3,"Durham, NC","Daly City, CA",5001 to 10000 employees,1990,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),"Avaya, Five9, Salesforce",0,0,78,147,112.5,"Genesys
+", NC,0,30,1,0,1,1,0
+380,Senior Data Analyst,1.9,"New York, NY","New York, NY",201 to 500 employees,2010,Company - Private,"Department, Clothing, & Shoe Stores",Retail,$100 to $500 million (USD),"YOOX NET-A-PORTER GROUP, Farfetch, MATCHESFASHION",0,0,65,110,87.5,"Moda Operandi
+", NY,1,10,1,0,0,0,1
+381,Data Modeler - Data Solutions Engineer,3.3,"Indianapolis, IN","Boston, MA",10000+ employees,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),"Travelers, Allstate, State Farm",0,0,37,66,51.5,"Liberty Mutual Insurance
+", IN,0,108,1,0,0,0,1
+382,Associate Environmental Scientist - Wildlife Biologist,4.7,"Clovis, CA","Visalia, CA",51 to 200 employees,1972,Company - Private,Architectural & Engineering Services,Business Services,$10 to $25 million (USD),-1,0,0,38,64,51.0,"QK
+", CA,0,48,0,0,0,0,1
+383,"Associate, Data Science, Internal Audit",3.1,"Boston, MA","Madrid, Spain",10000+ employees,1856,Company - Private,Banks & Credit Unions,Finance,$10+ billion (USD),-1,0,0,43,82,62.5,"Santander
+", MA,0,164,1,0,0,0,1
+384,Sr Data Engineer (Sr BI Developer),3.4,"Chandler, AZ","Franklin, TN",501 to 1000 employees,1981,Company - Public,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,-1,0,0,90,110,100.0,"Tivity Health
+", AZ,0,39,0,0,0,0,0
+385,Data Engineer,4.4,"Chantilly, VA","Washington, DC",51 to 200 employees,2004,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1,0,0,61,109,85.0,"BRMi
+", VA,0,16,1,0,1,1,0
+386,Senior LiDAR Data Scientist,3.9,"Orlando, FL","Orlando, FL",201 to 500 employees,2012,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1,0,0,93,151,122.0,"Luminar Technologies
+", FL,1,8,1,0,0,1,0
+387,Salesforce Analytics Consultant,3.9,"Chicago, IL","Jacksonville, FL",501 to 1000 employees,1995,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),-1,0,0,52,81,66.5,"Emtec, Inc.
+", IL,0,25,1,0,0,0,0
+388,"Technology-Minded, Data Professional Opportunities",4.7,"Columbia, MO","Columbia, MO",1001 to 5000 employees,2002,Company - Private,Lending,Finance,Unknown / Non-Applicable,-1,0,0,40,101,70.5,"Veterans United Home Loans
+", MO,1,18,0,0,1,0,1
+389,Senior Data Engineer,4.7,"Austin, TX","Austin, TX",51 to 200 employees,2010,Company - Private,Security Services,Business Services,$10 to $25 million (USD),-1,0,0,97,180,138.5,"Praetorian
+", TX,1,10,1,0,1,0,0
+390,Managing Data Scientist/ML Engineer,3.4,"Boston, MA","London, United Kingdom",1001 to 5000 employees,1943,Company - Private,Consulting,Business Services,$100 to $500 million (USD),"McKinsey & Company, Accenture, Deloitte",0,0,81,134,107.5,"PA Consulting
+", MA,0,77,0,0,1,0,1
+391,"Scientist, Pharmacometrics",3.8,"Cambridge, MA","Cambridge, MA",501 to 1000 employees,2008,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$50 to $100 million (USD),-1,0,0,84,157,120.5,"Agios Pharmaceuticals
+", MA,1,12,0,0,0,0,0
+392,Staff Scientist- Upstream PD,2.7,"Rockville, MD","Rockville, MD",201 to 500 employees,1961,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million (USD),-1,0,0,49,113,81.0,"Advanced BioScience Laboratories
+", MD,1,59,0,0,0,0,0
+393,Scientist Manufacturing Pharma - Kentucky BioProcessing,3.1,"Owensboro, KY","Winston-Salem, NC",5001 to 10000 employees,1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),-1,0,0,68,139,103.5,"Reynolds American
+", KY,0,145,0,0,0,0,0
+394,Sr. Data Engineer,3.4,"Chicago, IL","Chicago, IL",1001 to 5000 employees,2005,Company - Public,Transportation Management,Transportation & Logistics,$2 to $5 billion (USD),"C.H. Robinson, Total Quality Logistics, Coyote Logistics",0,0,75,140,107.5,"Echo Global Logistics
+", IL,1,15,0,0,0,0,0
+395,Lead Big Data Engineer,4.0,"San Francisco, CA","Mill Valley, CA",1001 to 5000 employees,2007,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,"Indeed, LinkedIn",0,0,121,203,162.0,"Glassdoor
+", CA,0,13,1,0,1,1,1
+396,Product Engineer – Spatial Data Science and Statistical Analysis,3.5,"Redlands, CA","Redlands, CA",1001 to 5000 employees,1969,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),Pitney Bowes,0,0,52,85,68.5,"Esri
+", CA,1,51,1,0,1,0,1
+397,Sr Software Engineer (Data Scientist),3.4,"Westlake, OH","New York, NY",10000+ employees,1978,Company - Public,Insurance Carriers,Insurance,$5 to $10 billion (USD),"Asurion, SquareTrade, National General Insurance",0,0,81,140,110.5,"Assurant
+", OH,0,42,0,0,0,0,1
+398,College Hire - Data Scientist - Open to December 2019 Graduates,3.7,"Peoria, IL","Deerfield, IL",10000+ employees,1925,Company - Public,Industrial Manufacturing,Manufacturing,$10+ billion (USD),"John Deere, Komatsu, CNH Industrial",0,0,63,99,81.0,"Caterpillar
+", IL,0,95,0,0,0,0,0
+399,Senior Data Scientist,4.3,"Chicago, IL","Chicago, IL",1001 to 5000 employees,1993,Company - Public,Real Estate,Real Estate,$2 to $5 billion (USD),"UDR, AvalonBay Communities, Essex Property Trust",0,0,110,150,130.0,"Equity Residential
+", IL,1,27,1,0,1,0,1
+400,Sr. Data Engineer (ETL Developer),3.7,"Des Moines, IA","Des Moines, IA",201 to 500 employees,-1,Subsidiary or Business Segment,Insurance Carriers,Insurance,$100 to $500 million (USD),-1,0,0,83,148,115.5,"F&G
+", IA,1,-1,1,0,0,0,1
+401,Senior Data Scientist Artificial Intelligence,3.8,"Richland, WA","Richland, WA",1001 to 5000 employees,1965,Government,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion (USD),"Oak Ridge National Laboratory, National Renewable Energy Lab, Los Alamos National Laboratory",0,0,60,101,80.5,"PNNL
+", WA,1,55,0,0,0,0,0
+402,Analytics - Business Assurance Data Analyst,4.6,"Cedar Rapids, IA","Cedar Rapids, IA",501 to 1000 employees,1992,Company - Private,Lending,Finance,$100 to $500 million (USD),-1,0,0,31,55,43.0,"GreatAmerica Financial Services
+", IA,1,28,0,0,0,0,1
+403,"Associate Director/Director, Safety Scientist",4.4,"Cambridge, MA","Cambridge, MA",201 to 500 employees,2003,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,-1,0,0,102,178,140.0,"Acceleron Pharma
+", MA,1,17,0,0,0,0,1
+404,"Senior Scientist, Cell Pharmacology/Assay Development",-1.0,"Cambridge, MA","San Mateo, CA",Unknown,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,0,1,110,130,120.0,Kronos Bio, MA,0,-1,0,0,0,0,0
+405,Data Analyst Senior,3.0,"Philadelphia, PA","Philadelphia, PA",5001 to 10000 employees,1983,Company - Private,Insurance Carriers,Insurance,$5 to $10 billion (USD),"UnitedHealth Group, Molina Healthcare, Centene",0,0,48,85,66.5,"AmeriHealth Caritas
+", PA,1,37,0,0,0,0,1
+406,Lead Data Engineer (Python),4.7,"San Francisco, CA","Los Angeles, CA",51 to 200 employees,2006,Company - Private,Staffing & Outsourcing,Business Services,$1 to $5 million (USD),-1,0,0,66,123,94.5,"Strategic Employment Partners
+", CA,0,14,1,0,0,1,0
+407,Senior Data Scientist 4 Artificial Intelligence,3.8,"Seattle, WA","Richland, WA",1001 to 5000 employees,1965,Government,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion (USD),"Oak Ridge National Laboratory, National Renewable Energy Lab, Los Alamos National Laboratory",0,0,92,146,119.0,"PNNL
+", WA,0,55,0,0,0,0,0
+408,Medical Lab Scientist - MLT,3.2,"Omaha, NE","Englewood, CO",10000+ employees,1996,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$10+ billion (USD),"Dignity Health, Trinity Health",1,0,21,29,25.0,"Catholic Health Initiatives
+", NE,0,24,0,0,0,0,0
+409,"Senior Operations Data Analyst, Call Center Operations",2.7,"Nashville, TN","Peachtree Corners, GA",5001 to 10000 employees,2000,Company - Public,Financial Transaction Processing,Finance,$2 to $5 billion (USD),-1,1,0,10,17,13.5,"FLEETCOR
+", TN,0,20,0,0,0,0,1
+410,"Director II, Data Science - GRS Predictive Analytics",3.3,"Chicago, IL","Boston, MA",10000+ employees,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),"Travelers, Allstate, State Farm",0,0,150,239,194.5,"Liberty Mutual Insurance
+", IL,0,108,1,0,0,0,0
+411,RESEARCH COMPUTER SCIENTIST - RESEARCH ENGINEER - SR. COMPUTER SCIENTIST - SOFTWARE DEVELOPMENT,3.9,"San Antonio, TX","San Antonio, TX",1001 to 5000 employees,1947,Nonprofit Organization,Research & Development,Business Services,$500 million to $1 billion (USD),"Los Alamos National Laboratory, Battelle, SRI International",0,0,52,91,71.5,"Southwest Research Institute
+", TX,1,73,1,0,0,1,1
+412,Geospatial Software Developer and Data Scientist,3.7,"Austin, TX","Austin, TX",501 to 1000 employees,-1,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,-1,0,0,82,129,105.5,"Applied Research Laboratories
+", TX,1,-1,1,0,0,1,0
+413,Senior Scientist - Toxicologist - Product Integrity (Stewardship),3.1,"Winston-Salem, NC","Winston-Salem, NC",5001 to 10000 employees,1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),-1,0,0,47,101,74.0,"Reynolds American
+", NC,1,145,0,0,0,0,1
+414,Systems Engineer II - Data Analyst,3.7,"Huntsville, AL","Waltham, MA",10000+ employees,1922,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),-1,0,0,49,76,62.5,"Raytheon
+", AL,0,98,0,0,0,0,1
+415,Senior Research Analytical Scientist-Non-Targeted Analysis,4.3,"Durham, NC","Research Triangle Park, NC",1001 to 5000 employees,1958,Nonprofit Organization,Research & Development,Business Services,$500 million to $1 billion (USD),"Westat, Abt Associates, Chemonics International",0,0,43,88,65.5,"RTI International
+", NC,0,62,0,0,0,0,0
+416,Director Data Science,3.6,"Fort Lee, NJ","Fort Lee, NJ",1001 to 5000 employees,1989,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,-1,0,0,124,199,161.5,"TRANZACT
+", NJ,1,31,1,0,0,1,1
+417,Sr Data Analyst - IT,2.1,"Blue Bell, PA","Blue Bell, PA",1001 to 5000 employees,2003,Other Organization,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),"Covance, ICON",0,0,52,93,72.5,"United BioSource
+", PA,1,17,0,0,0,0,1
+418,Senior Data Engineer,3.9,"San Francisco, CA","San Francisco, CA",51 to 200 employees,2008,Company - Public,Computer Hardware & Software,Information Technology,$10 to $25 million (USD),-1,0,0,97,181,139.0,"Figure Eight
+", CA,1,12,1,0,0,1,1
+419,Senior Data Engineer,3.9,"San Francisco, CA","San Francisco, CA",201 to 500 employees,2007,Company - Private,Internet,Information Technology,$10 to $25 million (USD),"FLURRY, Chartboost",0,0,100,173,136.5,"Tapjoy
+", CA,1,13,0,0,0,0,0
+420,Associate Machine Learning Engineer / Data Scientist May 2020 Undergrad,3.8,"New York, NY","New York, NY",1001 to 5000 employees,2002,Company - Private,Travel Agencies,Travel & Tourism,$2 to $5 billion (USD),"Expedia Group, Orbitz Worldwide, Priceline.com",0,0,53,96,74.5,"Fareportal
+", NY,1,18,1,0,1,0,0
+421,Senior Scientist - Biostatistician,3.1,"Winston-Salem, NC","Winston-Salem, NC",5001 to 10000 employees,1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),-1,0,0,65,96,80.5,"Reynolds American
+", NC,1,145,0,0,0,0,1
+422,Data Scientist,3.5,"Albuquerque, NM","Gottingen, Germany",5001 to 10000 employees,1870,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),-1,0,0,56,95,75.5,"Sartorius
+", NM,0,150,1,0,0,0,1
+423,Data Scientist,4.7,"Saint Louis, MO","Saint Louis, MO",51 to 200 employees,2016,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,"Slalom, Daugherty Business Solutions",0,0,111,176,143.5,"1904labs
+", MO,1,4,1,0,1,0,0
+424,Data Scientist,5.0,"Springfield, VA","Arlington, VA",51 to 200 employees,2014,Company - Private,Aerospace & Defense,Aerospace & Defense,$10 to $25 million (USD),-1,0,0,75,127,101.0,"Royce Geospatial
+", VA,0,6,1,0,0,0,0
+425,Data Engineer,3.6,"Springfield, MA","Springfield, MA",5001 to 10000 employees,1851,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),-1,0,0,65,119,92.0,"MassMutual
+", MA,1,169,1,0,1,0,1
+426,Computational Chemist/Data Scientist,3.8,"Richland, WA","Richland, WA",1001 to 5000 employees,1965,Government,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion (USD),"Oak Ridge National Laboratory, National Renewable Energy Lab, Los Alamos National Laboratory",0,0,56,97,76.5,"PNNL
+", WA,1,55,1,0,0,0,0
+427,Principal Data Scientist (Computational Chemistry),4.7,"Salt Lake City, UT","Salt Lake City, UT",51 to 200 employees,2013,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $5 million (USD),-1,0,0,108,173,140.5,"Recursion Pharmaceuticals
+", UT,1,7,1,0,0,1,0
+428,Data Scientist,3.6,"Jersey City, NJ","New York, NY",10000+ employees,1812,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion (USD),-1,0,0,94,139,116.5,"Citi
+", NJ,0,208,0,0,0,0,1
+429,Principal Machine Learning Scientist,4.7,"San Francisco, CA","San Jose, CA",501 to 1000 employees,1999,Subsidiary or Business Segment,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1,0,0,176,289,232.5,"Sage Intacct
+", CA,0,21,1,0,0,0,0
+430,Data Scientist,3.5,"San Francisco, CA","San Francisco, CA",51 to 200 employees,2016,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,92,149,120.5,"Scale AI
+", CA,1,4,1,0,0,0,0
+431,Product Engineer – Data Science,3.5,"Arlington, VA","Redlands, CA",1001 to 5000 employees,1969,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),Pitney Bowes,0,0,63,101,82.0,"Esri
+", VA,0,51,1,0,0,0,0
+432,"Principal Scientist, Chemistry & Immunology",3.3,"Rochester, NY","Rochester, NY",10000+ employees,2014,Hospital,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),-1,0,0,54,115,84.5,"Rochester Regional Health
+", NY,1,6,0,0,0,0,0
+433,Data Scientist,2.7,"Emeryville, CA","Nashville, TN",10000+ employees,2007,Company - Public,IT Services,Information Technology,Unknown / Non-Applicable,-1,0,0,118,188,153.0,"Change Healthcare
+", CA,0,13,1,0,1,1,0
+434,Data Scientist,3.4,"Palo Alto, CA","Palo Alto, CA",501 to 1000 employees,2008,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1,0,0,108,146,127.0,"MZ
+", CA,1,12,1,0,1,0,0
+435,Data Scientist,4.7,"Santa Barbara, CA","Santa Barbara, CA",51 to 200 employees,2010,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1,0,0,65,106,85.5,"HG Insights
+", CA,1,10,1,0,1,0,1
+436,Data Scientist,2.8,"Carle Place, NY","Carle Place, NY",1001 to 5000 employees,1976,Company - Public,Wholesale,Business Services,$1 to $2 billion (USD),-1,0,0,55,98,76.5,"1-800-FLOWERS.COM, Inc.
+", NY,1,44,1,0,0,0,1
+437,Data Scientist,3.5,"New York, NY","San Francisco, CA",1001 to 5000 employees,1992,Subsidiary or Business Segment,TV Broadcast & Cable Networks,Media,$500 million to $1 billion (USD),"NBCUniversal, Comcast, Netflix",0,0,94,162,128.0,"CBS Interactive
+", NY,0,28,1,0,1,0,0
+438,Data Engineer,3.2,"King of Prussia, PA","Chadds Ford, PA",1 to 50 employees,-1,Company - Private,Staffing & Outsourcing,Business Services,$5 to $10 million (USD),-1,0,0,63,120,91.5,"Numeric, LLC
+", PA,0,-1,1,0,1,1,1
+439,"Scientist/Senior Scientist, Autoimmune",4.4,"Cambridge, MA","Cambridge, MA",201 to 500 employees,2013,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),-1,0,0,90,179,134.5,"Rubius Therapeutics
+", MA,1,7,0,0,0,0,0
+440,Data Scientist,3.3,"San Francisco, CA","San Francisco, CA",201 to 500 employees,2008,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,-1,0,0,127,202,164.5,"Samba TV
+", CA,1,12,0,0,0,0,0
+441,Software Engineer - Data Visualization,4.0,"Annapolis Junction, MD","Annapolis Junction, MD",51 to 200 employees,2002,Company - Private,Computer Hardware & Software,Information Technology,$5 to $10 million (USD),-1,0,0,60,127,93.5,"ClearEdge
+", MD,1,18,0,0,0,0,1
+442,Market Data Analyst,3.4,"West Palm Beach, FL","West Palm Beach, FL",201 to 500 employees,1991,Company - Public,Telecommunications Manufacturing,Telecommunications,$50 to $100 million (USD),-1,0,0,31,57,44.0,"SV Microwave
+", FL,1,29,0,0,0,0,0
+443,Staff Data Engineer,3.8,"Austin, TX","Redwood City, CA",501 to 1000 employees,2010,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,"Splunk, Datadog, Elastic",0,0,105,194,149.5,"Sumo Logic
+", TX,0,10,0,0,1,1,0
+444,Associate Data Engineer,3.5,"Washington, DC","Washington, DC",1001 to 5000 employees,2007,Company - Private,Research & Development,Business Services,Unknown / Non-Applicable,-1,0,0,45,86,65.5,"EAB
+", DC,1,13,0,0,1,1,1
+445,Data Engineer,4.4,"Herndon, VA","Pleasanton, CA",1 to 50 employees,2015,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,75,143,109.0,"SpringML
+", VA,0,5,1,0,1,0,0
+446,Staff Data Engineer,3.7,"Mountain View, CA","Mountain View, CA",1001 to 5000 employees,1988,Subsidiary or Business Segment,Computer Hardware & Software,Information Technology,$50 to $100 million (USD),"Sony, LG Electronics, Nokia",0,0,126,228,177.0,"Samsung Research America
+", CA,1,32,1,0,1,1,0
+447,Data Scientist,4.7,"Arlington, VA","Woburn, MA",201 to 500 employees,2010,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),-1,0,0,80,134,107.0,"Systems & Technology Research
+", VA,0,10,1,0,1,0,1
+448,Data Scientist,4.1,"Santa Clara, CA","Santa Clara, CA",501 to 1000 employees,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,"Skyhigh Networks, Zscaler, NortonLifeLock",0,0,120,189,154.5,"Netskope
+", CA,1,8,1,0,1,0,1
+449,Data Scientist,4.0,"Santa Clara, CA","Plainsboro, NJ",1 to 50 employees,-1,Company - Private,Accounting,Accounting & Legal,Less than $1 million (USD),-1,0,0,85,142,113.5,"Lorven Technologies Inc
+", CA,0,-1,1,0,1,0,0
+450,Senior Data Scientist,3.5,"Charlotte, NC","Charlotte, NC",1001 to 5000 employees,2017,Company - Public,Insurance Carriers,Insurance,Unknown / Non-Applicable,-1,0,0,95,154,124.5,"Brighthouse Financial
+", NC,1,3,1,0,1,0,1
+451,Data Scientist,2.5,"Brisbane, CA","Brisbane, CA",1 to 50 employees,-1,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,Sequenom,0,0,111,176,143.5,"CareDx
+", CA,1,-1,1,0,0,0,1
+452,Data Scientist,3.9,"San Francisco, CA","Baltimore, MD",1 to 50 employees,-1,Company - Private,IT Services,Information Technology,Less than $1 million (USD),-1,0,0,87,140,113.5,"Serigor Inc.
+", CA,0,-1,1,0,0,0,0
+453,Data Scientist,3.4,"Springfield, VA","Reston, VA",10000+ employees,1969,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),-1,0,0,76,127,101.5,"Leidos
+", VA,0,51,1,0,0,1,0
+454,"Data Analyst, Performance Partnership",3.6,"New York, NY","Brea, CA",10000+ employees,1935,Subsidiary or Business Segment,Health Care Products Manufacturing,Manufacturing,$2 to $5 billion (USD),"Abbott Laboratories, Roche, Thermo Fisher Scientific",0,0,54,92,73.0,"Beckman Coulter Diagnostics
+", NY,0,85,0,0,0,1,1
+455,Data Scientist,3.5,"New York, NY","London, United Kingdom",10000+ employees,2016,Company - Public,Consulting,Business Services,$2 to $5 billion (USD),"Thomson Reuters, International Data Group",0,0,61,100,80.5,"IHS Markit
+", NY,0,4,1,0,0,1,0
+456,Data Scientist,-1.0,"New York, NY","Noida, India",Unknown,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,0,0,81,140,110.5,ALIN, NY,0,-1,1,0,0,0,0
+457,Staff BI and Data Engineer,2.9,"San Jose, CA","New York, NY",51 to 200 employees,1998,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,"Commerce Signals, Cardlytics, Yodlee",0,0,80,148,114.0,"Affinity Solutions
+", CA,0,22,1,0,1,0,0
+458,Data Scientist,3.5,"Foster City, CA","Canton, MI",51 to 200 employees,-1,Company - Private,"Health, Beauty, & Fitness",Consumer Services,$5 to $10 million (USD),-1,0,0,108,171,139.5,"e-IT Professionals Corp.
+", CA,0,-1,1,0,0,0,0
+459,Data Scientist,4.8,"New York, NY","North Brunswick, NJ",1 to 50 employees,2011,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1,0,0,112,179,145.5,"TechProjects
+", NY,0,9,1,0,0,0,1
+460,Data Scientist,4.0,"New York, NY","New York, NY",201 to 500 employees,2007,Company - Private,Lending,Finance,$100 to $500 million (USD),"Fundera, Bond Street, OnDeck",0,0,63,111,87.0,"Biz2Credit Inc
+", NY,1,13,0,0,0,0,1
+461,Data Scientist,4.2,"Holyoke, MA","Holyoke, MA",201 to 500 employees,1885,Company - Private,Banks & Credit Unions,Finance,$50 to $100 million (USD),-1,0,0,75,126,100.5,"PeoplesBank
+", MA,1,135,0,0,0,0,1
+462,Data Scientist Manager,3.8,"New York, NY","Paris, France",10000+ employees,1967,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion (USD),"Accenture, CGI, Sopra Steria",0,0,110,184,147.0,"Capgemini
+", NY,0,53,1,0,1,0,1
+463,Data Engineer,3.7,"New York, NY","New York, NY",201 to 500 employees,1914,Company - Private,Insurance Carriers,Insurance,$100 to $500 million (USD),"Travelers, Chubb, Crum & Forster",0,0,76,145,110.5,"GNY Insurance Companies
+", NY,1,106,1,0,0,0,1
+464,Marketing Data Analyst,3.9,"Exton, PA","Exton, PA",501 to 1000 employees,1937,Nonprofit Organization,Banks & Credit Unions,Finance,Unknown / Non-Applicable,"TruMark Financial, North Island Credit Union, CommunityAmerica Credit Union",0,0,36,62,49.0,"Citadel Federal Credit Union
+", PA,1,83,1,0,0,0,0
+465,Data Scientist,4.6,"Waltham, MA","Memphis, TN",51 to 200 employees,-1,Company - Private,Consulting,Business Services,$5 to $10 million (USD),-1,0,0,70,118,94.0,"Conch Technologies, Inc
+", MA,0,-1,1,0,1,1,0
+466,Senior Data Scientist,4.3,"New York, NY","New York, NY",1001 to 5000 employees,1999,Company - Public,Enterprise Software & Network Solutions,Information Technology,$500 million to $1 billion (USD),Oracle,0,0,94,153,123.5,"Medidata Solutions
+", NY,1,21,1,0,0,1,0
+467,"Principal Scientist, Hematology",3.3,"Rochester, NY","Rochester, NY",10000+ employees,2014,Hospital,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),-1,0,0,54,115,84.5,"Rochester Regional Health
+", NY,1,6,0,0,0,0,0
+468,Data Analyst,3.7,"Alexandria, VA","Alexandria, VA",501 to 1000 employees,1989,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),"CSC, Booz Allen Hamilton, ManTech",0,0,50,92,71.0,"CALIBRE Systems
+", VA,1,31,0,0,0,0,1
+469,Software Data Engineer - College,4.0,"Corvallis, OR","Palo Alto, CA",10000+ employees,1939,Company - Public,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1,0,0,49,97,73.0,"HP Inc.
+", OR,0,81,0,0,0,0,0
+470,"Director - Data, Privacy and AI Governance",3.6,"Boston, MA","Springfield, MA",5001 to 10000 employees,1851,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),-1,0,0,67,135,101.0,"MassMutual
+", MA,0,169,0,0,0,0,0
+471,Staff Machine Learning Engineer,3.9,"San Francisco, CA","San Francisco, CA",201 to 500 employees,2007,Company - Private,Internet,Information Technology,$10 to $25 million (USD),"FLURRY, Chartboost",0,0,138,224,181.0,"Tapjoy
+", CA,1,13,1,0,1,0,0
+472,Data Scientist,3.7,"San Diego, CA","Falls Church, VA",10000+ employees,1939,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),-1,0,0,80,139,109.5,"Northrop Grumman
+", CA,0,81,0,0,0,0,1
+473,Lead Data Scientist,3.7,"Bellevue, WA","Foster City, CA",10000+ employees,1958,Company - Public,IT Services,Information Technology,$10+ billion (USD),"American Express, Mastercard, Discover",0,0,158,211,184.5,"Visa Inc.
+", WA,0,62,1,0,0,0,1
+474,Senior Data Scientist - Algorithms,3.9,"New York, NY","New York, NY",201 to 500 employees,2014,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,150,180,165.0,"Quartet Health
+", NY,1,6,1,0,0,0,0
+475,Information Security Data Analyst,3.7,"Chicago, IL","Chicago, IL",10000+ employees,1928,Company - Public,Computer Hardware & Software,Information Technology,$5 to $10 billion (USD),"Cisco Systems, Huawei Technologies, IBM",0,0,42,80,61.0,"Motorola Solutions
+", IL,1,92,1,0,1,0,0
+476,Lead Data Engineer,4.1,"Mountain View, CA","Mountain View, CA",51 to 200 employees,2010,Company - Private,Internet,Information Technology,$50 to $100 million (USD),"Credit Karma, LendUp, SoFi",0,0,190,220,205.0,"Credit Sesame
+", CA,1,10,1,0,1,1,0
+477,Data Analyst,3.1,"New York, NY","New York, NY",1001 to 5000 employees,2006,School / School District,K-12 Education,Education,$100 to $500 million (USD),-1,0,0,42,77,59.5,"Success Academy Charter Schools
+", NY,1,14,1,0,0,0,1
+478,Scientist Manufacturing - Kentucky BioProcessing,3.1,"Owensboro, KY","Winston-Salem, NC",5001 to 10000 employees,1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),-1,0,0,68,139,103.5,"Reynolds American
+", KY,0,145,0,0,0,0,0
+479,Consultant - Analytics Consulting,3.0,"Hartford, CT","Bengaluru, India",10000+ employees,1981,Company - Public,IT Services,Information Technology,$10+ billion (USD),"Tata Consultancy Services, Accenture, Cognizant Technology Solutions",0,0,54,71,62.5,"Infosys
+", CT,0,39,0,0,0,0,1
+480,Data Analytics Project Manager,3.6,"Springfield, MA","Springfield, MA",5001 to 10000 employees,1851,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),-1,0,0,34,92,63.0,"MassMutual
+", MA,1,169,0,0,0,0,1
+481,Data Analyst,3.6,"New York, NY","New York, NY",1 to 50 employees,1980,Company - Private,Health Care Services & Hospitals,Health Care,$10 to $25 million (USD),"The Execu|Search Group, Prime Staffing",0,0,47,85,66.0,"AXION Healthcare Solutions
+", NY,1,40,0,0,0,0,1
+482,Data Engineer,3.5,"Orange, CA","Orange, CA",501 to 1000 employees,2013,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,-1,0,0,65,124,94.5,"Alignment Healthcare
+", CA,1,7,1,0,1,1,1
+483,Data Scientist,4.2,"New York, NY","New York, NY",51 to 200 employees,2012,Company - Private,Education Training Services,Education,Unknown / Non-Applicable,"Harvard Business School, Coursera, edX",0,0,56,95,75.5,"ExecOnline
+", NY,1,8,1,0,0,1,0
+484,Machine Learning Engineer,4.0,"Fort Belvoir, VA","Lorton, VA",501 to 1000 employees,1954,Company - Public,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),"Harris, Fibertek",0,0,62,112,87.0,"Mteq
+", VA,0,66,1,0,0,0,0
+485,Senior Data Scientist Oncology,3.9,"Gaithersburg, MD","Cambridge, United Kingdom",10000+ employees,1913,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),"Roche, GlaxoSmithKline, Novartis",0,0,107,173,140.0,"AstraZeneca
+", MD,0,107,1,0,0,0,1
+486,Data Scientist,3.7,"Silver Spring, MD","Reston, VA",201 to 500 employees,2006,Company - Private,IT Services,Information Technology,$25 to $50 million (USD),-1,0,0,64,108,86.0,"Brillient
+", MD,0,14,1,0,0,0,1
+487,Senior Data Scientist,4.4,"Palo Alto, CA","Palo Alto, CA",1 to 50 employees,2012,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1,0,0,89,144,116.5,"Entefy
+", CA,1,8,1,0,0,0,0
+488,Senior Scientist (Neuroscience),3.5,"Marlborough, MA","Marlborough, MA",1001 to 5000 employees,2010,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),"Shire, GlaxoSmithKline, Allergan",0,0,109,200,154.5,"Sunovion
+", MA,1,10,1,0,0,0,1
+489,Machine Learning Engineer - Regulatory,3.7,"Lenexa, KS","Chicago, IL",501 to 1000 employees,1973,Company - Public,Stock Exchanges,Finance,$500 million to $1 billion (USD),-1,0,0,61,113,87.0,"Cboe Global Markets
+", KS,0,47,1,0,0,0,1
+490,Marketing Data Analyst,3.6,"Highland, CA","Highland, CA",1001 to 5000 employees,1986,Company - Private,Gambling,"Arts, Entertainment & Recreation",$100 to $500 million (USD),-1,0,0,35,62,48.5,"San Manuel Casino
+", CA,1,34,0,0,0,0,1
+491,Data Engineer,3.4,"Houston, TX","Irvine, CA",501 to 1000 employees,2002,Company - Private,IT Services,Information Technology,$1 to $2 billion (USD),"World Wide Technology, Presidio, Optiv",0,0,55,105,80.0,"Trace3
+", TX,0,18,1,0,1,0,1
+492,Medical Laboratory Scientist,4.0,"Burleson, TX","Arlington, TX",1001 to 5000 employees,1977,Hospital,Health Care Services & Hospitals,Health Care,$50 to $100 million (USD),-1,1,0,18,25,21.5,"Texas Health Huguley Hospital
+", TX,0,43,0,0,0,1,0
+493,R&D Specialist/ Food Scientist,2.4,"Hoopeston, IL","Flower Mound, TX",501 to 1000 employees,-1,Company - Private,Food & Beverage Manufacturing,Manufacturing,$100 to $500 million (USD),-1,0,0,39,66,52.5,"Teasdale Latin Foods
+", IL,0,-1,0,0,0,0,0
+494,Principal Data Scientist,3.7,"San Jose, CA","Falls Church, VA",10000+ employees,1939,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),-1,0,0,135,211,173.0,"Northrop Grumman
+", CA,0,81,1,0,0,0,0
+495,Data Engineer,3.5,"Phoenix, AZ","Campbell, CA",501 to 1000 employees,1997,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,"Accenture, Deloitte, IBM",0,0,57,80,68.5,"Saama Technologies Inc
+", AZ,0,23,1,0,1,0,0
+496,Data Scientist - Alpha Insights,4.4,"New York, NY","New York, NY",1001 to 5000 employees,2001,Company - Private,Investment Banking & Asset Management,Finance,Unknown / Non-Applicable,-1,0,0,129,215,172.0,"Two Sigma
+", NY,1,19,0,0,0,0,0
+497,"Data Scientist, Office of Data Science",3.3,"Boston, MA","Boston, MA",10000+ employees,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),"Travelers, Allstate, State Farm",0,0,86,143,114.5,"Liberty Mutual Insurance
+", MA,1,108,1,0,0,0,0
+498,"Associate Principal Scientist, Pharmacogenomics",3.9,"Gaithersburg, MD","Cambridge, United Kingdom",10000+ employees,1913,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),"Roche, GlaxoSmithKline, Novartis",0,0,63,127,95.0,"AstraZeneca
+", MD,0,107,0,0,0,0,0
+499,Data Scientist - Systems Engineering,3.2,"Bedford, MA","Bedford, MA",5001 to 10000 employees,1958,Nonprofit Organization,Federal Agencies,Government,$1 to $2 billion (USD),"Battelle, General Atomics, SAIC",0,0,50,89,69.5,"MITRE
+", MA,1,62,1,0,0,0,1
+500,Data Engineer,3.2,"New York, NY","New York, NY",501 to 1000 employees,2003,Company - Private,Research & Development,Business Services,Unknown / Non-Applicable,"Coleman Research, AlphaSights, Third Bridge",0,0,43,86,64.5,"Guidepoint
+", NY,1,17,1,0,0,1,1
+501,"Scientist, Bacteriology",2.1,"Concord, CA","Concord, CA",201 to 500 employees,-1,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million (USD),-1,0,0,74,149,111.5,"Cerus Corporation
+", CA,1,-1,0,0,0,0,1
+502,Data Scientist,4.0,"New York, NY","New York, NY",501 to 1000 employees,2007,Company - Private,Consumer Product Rental,Consumer Services,Unknown / Non-Applicable,"National Debt Relief, Freedom Financial Network",0,0,71,124,97.5,"Strategic Financial Solutions
+", NY,1,13,1,0,0,0,1
+503,"Associate Director, Platform and DevOps- Data Engineering and Aritifical Intelligence",3.7,"Cambridge, MA","OSAKA, Japan",10000+ employees,1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),"Novartis, Baxter, Pfizer",0,0,113,196,154.5,"Takeda Pharmaceuticals
+", MA,0,239,0,0,1,1,1
+504,Senior Research Scientist-Machine Learning,2.6,"Pittsburgh, PA","Pittsburgh, PA",501 to 1000 employees,1984,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,-1,0,0,81,167,124.0,"Software Engineering Institute
+", PA,1,36,0,0,0,0,0
+505,Data Scientist,3.4,"New York, NY","Norwalk, CT",201 to 500 employees,2011,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,"Healthfirst (New York), naviHealth",0,0,69,121,95.0,"Remedy BPCI Partners, LLC.
+", NY,0,9,1,0,1,1,0
+506,Senior Data Scientist,4.4,"Chicago, IL","Chicago, IL",201 to 500 employees,2008,Company - Private,Consulting,Business Services,$50 to $100 million (USD),-1,0,0,97,160,128.5,"Maven Wave Partners
+", IL,1,12,1,0,0,1,1
+507,Principal Data Scientist,3.2,"San Francisco, CA","San Francisco, CA",501 to 1000 employees,2006,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,"Granular, Intuit, John Deere",0,0,150,238,194.0,"The Climate Corporation
+", CA,1,14,0,0,0,1,1
+508,Data Scientist,3.5,"New York, NY","New York, NY",201 to 500 employees,2005,Company - Public,Advertising & Marketing,Business Services,Unknown / Non-Applicable,-1,0,0,77,132,104.5,"Crossix Solutions
+", NY,1,15,1,0,1,1,1
+509,Clinical Laboratory Scientist,3.7,"Vail, CO","Vail, CO",501 to 1000 employees,1966,Hospital,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),-1,1,0,24,39,31.5,"Vail Health
+", CO,1,54,0,0,0,0,0
+510,Data Engineer - Consultant (Charlotte Based),4.2,"Charlotte, NC","Chicago, IL",201 to 500 employees,2008,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1,0,0,59,112,85.5,"Clarity Insights
+", NC,0,12,1,0,0,0,1
+511,"Data Analyst 1, full-time contract worker for up to 12 months",4.2,"Salt Lake City, UT","Salt Lake City, UT",10000+ employees,-1,Nonprofit Organization,Religious Organizations,Non-Profit,Unknown / Non-Applicable,-1,0,0,35,65,50.0,"The Church of Jesus Christ of Latter-day Saints
+", UT,1,-1,0,0,0,1,1
+512,Data Engineer,3.1,"Aliso Viejo, CA","Seoul, South Korea",1001 to 5000 employees,1997,Company - Public,Video Games,Media,$10+ billion (USD),"Blizzard Entertainment, Riot Games, Electronic Arts",0,0,79,147,113.0,"NCSOFT
+", CA,0,23,1,0,1,1,1
+513,"Scientist, Immuno-Oncology",3.9,"Cambridge, MA","Brentford, United Kingdom",10000+ employees,1830,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),"Pfizer, AstraZeneca, Merck",0,0,62,119,90.5,"GSK
+", MA,0,190,0,0,0,1,0
+514,Senior Data Scientist,4.3,"Los Angeles, CA","Los Angeles, CA",51 to 200 employees,2008,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,Foursquare,0,0,119,187,153.0,"Factual
+", CA,1,12,1,0,1,0,1
+515,Products Data Analyst II,3.3,"Dublin, CA","Dublin, CA",1001 to 5000 employees,1988,Company - Public,Consulting,Business Services,$2 to $5 billion (USD),"Paychex, Insperity, ADP",0,0,90,157,123.5,"TriNet
+", CA,1,32,0,0,0,0,1
+516,Lead Data Analyst,3.9,"New York, NY","New York, NY",201 to 500 employees,2010,Company - Private,Internet,Information Technology,$10 to $25 million (USD),-1,0,0,32,62,47.0,"Signpost
+", NY,1,10,0,0,1,0,0
+517,Analytics Manager - Data Mart,3.5,"Scotts Valley, CA","Scotts Valley, CA",501 to 1000 employees,1996,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),-1,0,0,42,86,64.0,"Central California Alliance for Health
+", CA,1,24,0,0,0,0,0
+518,Data Science Engineer - Mobile,4.0,"San Jose, CA","San Jose, CA",10000+ employees,1982,Company - Public,Computer Hardware & Software,Information Technology,$5 to $10 billion (USD),"Apple, Microsoft",0,0,116,208,162.0,"Adobe
+", CA,1,38,1,0,0,0,1
+519,Senior Data Scientist - R&D Oncology,3.9,"New York, NY","Cambridge, United Kingdom",10000+ employees,1913,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),"Roche, GlaxoSmithKline, Novartis",0,0,102,172,137.0,"AstraZeneca
+", NY,0,107,1,0,0,0,0
+520,Sr. Data Engineer - Contract-to-Hire (Java),3.0,"Knoxville, TN","Knoxville, TN",10000+ employees,1958,Company - Private,Gas Stations,Retail,$10+ billion (USD),"TravelCenters of America, Love's Travel Stops & Country Stores, Wawa",0,0,69,127,98.0,"Pilot Flying J Travel Centers LLC
+", TN,1,62,1,0,0,0,0
+521,Data Scientist,3.7,"Armonk, NY","Zurich, Switzerland",10000+ employees,1863,Company - Public,Insurance Agencies & Brokerages,Insurance,$10+ billion (USD),"Munich Re, Hannover RE, SCOR",0,0,86,144,115.0,"Swiss Re
+", NY,0,157,1,0,0,0,1
+522,Senior Data Scientist,3.5,"Arvada, CO","Gottingen, Germany",5001 to 10000 employees,1870,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),-1,0,0,102,165,133.5,"Sartorius
+", CO,0,150,1,0,0,0,1
+523,Data Engineer,4.0,"Denver, CO","Denver, CO",501 to 1000 employees,1915,Nonprofit Organization,Insurance Carriers,Insurance,$500 million to $1 billion (USD),-1,0,0,74,124,99.0,"Pinnacol Assurance
+", CO,1,105,1,0,0,1,0
+524,Food Scientist - Developer,3.3,"Milwaukee, WI","Milwaukee, WI",501 to 1000 employees,1964,Company - Private,Food & Beverage Manufacturing,Manufacturing,Unknown / Non-Applicable,-1,0,0,40,68,54.0,"Palermo's Pizza
+", WI,1,56,0,0,0,0,0
+525,Senior Data Engineer,3.2,"Franklin, TN","Indianapolis, IN",1001 to 5000 employees,2004,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,-1,0,0,76,142,109.0,"Equian LLC
+", TN,0,16,0,0,0,1,1
+526,Data Engineer,3.4,"Rockville, MD","Reston, VA",201 to 500 employees,1999,Company - Private,IT Services,Information Technology,$25 to $50 million (USD),-1,0,0,76,142,109.0,"MetroStar Systems
+", MD,0,21,0,0,0,1,0
+527,Senior Data Scientist,4.4,"Natick, MA","Natick, MA",1001 to 5000 employees,1984,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),-1,0,0,108,171,139.5,"MathWorks
+", MA,1,36,1,0,0,0,0
+528,"Director II, Data Science - GRM Actuarial",3.3,"Chicago, IL","Boston, MA",10000+ employees,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),"Travelers, Allstate, State Farm",0,0,202,306,254.0,"Liberty Mutual Insurance
+", IL,0,108,1,0,0,0,0
+529,Machine Learning Engineer,3.2,"New York, NY","New York, NY",1001 to 5000 employees,1975,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,"Qlik, Tableau Software, Informatica",0,0,91,159,125.0,"Information Builders
+", NY,1,45,1,0,0,1,1
+530,"Sr Expert Data Science, Advanced Visual Analytics (Associate level)",3.8,"Cambridge, MA","Basel, Switzerland",10000+ employees,1996,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),-1,0,0,80,133,106.5,"Novartis
+", MA,0,24,1,0,0,0,0
+531,"Scientist, Molecular/Cellular Biologist",2.9,"South San Francisco, CA","San Francisco, CA",201 to 500 employees,2012,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,"BioMarin Pharmaceutical, Sangamo Therapeutics, bluebird bio",0,0,49,97,73.0,"Audentes Therapeutics
+", CA,0,8,0,0,0,0,0
+532,Staff Scientist-Downstream Process Development,2.7,"Rockville, MD","Rockville, MD",201 to 500 employees,1961,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million (USD),-1,0,0,49,113,81.0,"Advanced BioScience Laboratories
+", MD,1,59,0,0,0,0,1
+533,MED TECH/LAB SCIENTIST- SOUTH COASTAL LAB,3.6,"Millville, DE","Lewes, DE",1001 to 5000 employees,1935,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),-1,1,0,21,34,27.5,"Beebe Healthcare
+", DE,0,85,0,0,0,0,0
+534,Scientist - Analytical Services,3.1,"Winston-Salem, NC","Winston-Salem, NC",5001 to 10000 employees,1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),-1,0,0,65,134,99.5,"Reynolds American
+", NC,1,145,0,0,0,0,1
+535,Associate Data Analyst- Graduate Development Program,3.3,"Richfield, OH","Richfield, OH",501 to 1000 employees,1989,Company - Private,Insurance Carriers,Insurance,$500 million to $1 billion (USD),-1,0,0,32,59,45.5,"National Interstate
+", OH,1,31,0,0,0,0,0
+536,IT Associate Data Analyst,3.7,"Worcester, MA","Worcester, MA",5001 to 10000 employees,1852,Company - Public,Insurance Carriers,Insurance,$5 to $10 billion (USD),-1,0,0,39,69,54.0,"The Hanover Insurance Group
+", MA,1,168,0,0,0,0,0
+537,Sr. Data Engineer,4.5,"Indianapolis, IN","Indianapolis, IN",51 to 200 employees,1996,Company - Private,Consulting,Business Services,$25 to $50 million (USD),-1,0,0,87,158,122.5,"Moser Consulting
+", IN,1,24,1,0,1,1,0
+538,Clinical Data Analyst,3.0,"Tampa, FL","Tampa, FL",1001 to 5000 employees,1977,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),"eClinicalWorks, NextGen Healthcare, athenahealth",0,0,27,48,37.5,"Greenway Health
+", FL,1,43,0,0,0,0,1
+539,Business Data Analyst,3.8,"New York, NY","New York, NY",1001 to 5000 employees,2002,Company - Private,Travel Agencies,Travel & Tourism,$2 to $5 billion (USD),"Expedia Group, Orbitz Worldwide, Priceline.com",0,0,36,71,53.5,"Fareportal
+", NY,1,18,1,0,0,0,1
+540,Senior Insurance Data Scientist,3.9,"Chicago, IL","Chicago, IL",5001 to 10000 employees,1968,Company - Public,Financial Analytics & Research,Finance,$1 to $2 billion (USD),-1,0,0,107,173,140.0,"TransUnion
+", IL,1,52,1,0,0,0,1
+541,Senior Data Science Systems Engineer,3.2,"Hampton, VA","Bedford, MA",5001 to 10000 employees,1958,Nonprofit Organization,Federal Agencies,Government,$1 to $2 billion (USD),"Battelle, General Atomics, SAIC",0,0,56,99,77.5,"MITRE
+", VA,0,62,0,0,0,0,0
+542,ENVIRONMENTAL ENGINEER/SCIENTIST,3.3,"Cambridge, MA","Cambridge, MA",1 to 50 employees,1976,Company - Private,Construction,"Construction, Repair & Maintenance",Unknown / Non-Applicable,-1,1,1,25,28,26.5,"Mcphail Associates
+", MA,1,44,0,0,0,0,1
+543,Senior Scientist - Regulatory Submissions,3.1,"Winston-Salem, NC","Winston-Salem, NC",5001 to 10000 employees,1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),-1,0,0,80,155,117.5,"Reynolds American
+", NC,1,145,0,0,0,0,1
+544,Scientist - Biomarker and Flow Cytometry,2.4,"San Diego, CA","San Diego, CA",501 to 1000 employees,2006,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$50 to $100 million (USD),-1,0,0,43,98,70.5,"Crown Bioscience
+", CA,1,14,0,0,0,0,0
+545,"Associate Scientist, LC/MS Biologics",2.9,"Ithaca, NY","Morrisville, NC",1001 to 5000 employees,2015,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,-1,0,0,44,96,70.0,"Q2 Solutions
+", NY,0,5,0,0,0,0,1
+546,Revenue Analytics Manager,4.8,"San Francisco, CA","San Francisco, CA",51 to 200 employees,2011,Company - Private,Computer Hardware & Software,Information Technology,$25 to $50 million (USD),-1,0,0,45,78,61.5,"HOVER
+", CA,1,9,0,0,0,0,1
+547,Sr. Scientist Method Development,2.9,"Marietta, GA","Morrisville, NC",1001 to 5000 employees,2015,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,-1,0,0,50,110,80.0,"Q2 Solutions
+", GA,0,5,0,0,0,0,1
+548,Data Scientist,4.7,"Atlanta, GA","Atlanta, GA",51 to 200 employees,2003,Company - Private,Computer Hardware & Software,Information Technology,$25 to $50 million (USD),-1,0,0,60,99,79.5,"Oversight Systems
+", GA,1,17,1,0,0,0,1
+549,Data Scientist - Sales,4.7,"Mountain View, CA","Mountain View, CA",501 to 1000 employees,2014,Company - Private,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),-1,0,0,130,206,168.0,"Confluent
+", CA,1,6,1,0,0,0,1
+550,IT - Data Engineer II,3.4,"Quincy, MA","Quincy, MA",1001 to 5000 employees,1988,Company - Private,Insurance Carriers,Insurance,$100 to $500 million (USD),-1,0,0,61,119,90.0,"Arbella Insurance
+", MA,1,32,0,0,1,0,1
+551,"Research Scientist, Immunology - Cancer Biology",-1.0,"Cambridge, MA","San Mateo, CA",Unknown,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,0,1,100,140,120.0,Kronos Bio, MA,0,-1,0,0,0,0,1
+552,Senior Data Analyst,3.9,"San Francisco, CA","San Francisco, CA",51 to 200 employees,2008,Company - Public,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1,0,0,99,178,138.5,"Life360
+", CA,1,12,1,0,0,0,0
+553,"Principal, Data Science - Advanced Analytics",3.6,"Plymouth Meeting, PA","Durham, NC",10000+ employees,2017,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),"PPD, INC Research, PRA Health Sciences",0,0,86,137,111.5,"IQVIA
+", PA,0,3,0,0,0,0,0
+554,Data Science Project Manager,3.6,"Boston, MA","Springfield, MA",5001 to 10000 employees,1851,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),-1,0,0,37,100,68.5,"MassMutual
+", MA,0,169,0,0,0,0,1
+555,"Sr Scientist, Immuno-Oncology - Oncology",3.9,"Cambridge, MA","Brentford, United Kingdom",10000+ employees,1830,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),"Pfizer, AstraZeneca, Merck",0,0,58,111,84.5,"GSK
+", MA,0,190,0,0,0,1,0
+556,Senior Data Engineer,4.4,"Nashville, TN","San Francisco, CA",1001 to 5000 employees,2006,Company - Public,Internet,Information Technology,$100 to $500 million (USD),"See Tickets, TicketWeb, Vendini",0,0,72,133,102.5,"Eventbrite
+", TN,0,14,1,0,1,1,0
+557,"Project Scientist - Auton Lab, Robotics Institute",2.6,"Pittsburgh, PA","Pittsburgh, PA",501 to 1000 employees,1984,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,-1,0,0,56,91,73.5,"Software Engineering Institute
+", PA,1,36,0,0,0,0,1
+558,Research Scientist – Security and Privacy,3.6,"Beavercreek, OH","Arlington, VA",501 to 1000 employees,1967,Nonprofit Organization,Federal Agencies,Government,$50 to $100 million (USD),-1,0,0,61,126,93.5,"Riverside Research Institute
+", OH,0,53,1,0,0,0,0
+559,Data Science Manager,3.2,"Allentown, PA","Chadds Ford, PA",1 to 50 employees,-1,Company - Private,Staffing & Outsourcing,Business Services,$5 to $10 million (USD),-1,0,0,95,160,127.5,"Numeric, LLC
+", PA,0,-1,0,0,0,0,1
+560,Data Analyst 2 (Missionary Department),4.2,"Salt Lake City, UT","Salt Lake City, UT",10000+ employees,-1,Nonprofit Organization,Religious Organizations,Non-Profit,Unknown / Non-Applicable,-1,0,0,53,91,72.0,"The Church of Jesus Christ of Latter-day Saints
+", UT,1,-1,0,0,0,0,0
+561,"Enterprise Architect, Data",3.6,"Boston, MA","Springfield, MA",5001 to 10000 employees,1851,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),-1,0,0,101,158,129.5,"MassMutual
+", MA,0,169,1,0,1,1,1
+562,Supply Chain Data Analyst,3.1,"Logan, UT","Logan, UT",1001 to 5000 employees,1977,Company - Private,Consumer Products Manufacturing,Manufacturing,$500 million to $1 billion (USD),"Life Fitness, Brooks Running, Under Armour",0,0,33,61,47.0,"Icon Health and Fitness
+", UT,1,43,1,0,0,0,1
+563,Data Engineer - ETL,3.8,"Birmingham, AL","Birmingham, AL",501 to 1000 employees,2014,Subsidiary or Business Segment,Consumer Product Rental,Consumer Services,Unknown / Non-Applicable,-1,0,0,44,86,65.0,"Shipt
+", AL,1,6,1,0,1,1,1
+564,Corporate Risk Data Analyst (SQL Based) - Milwaukee or,3.8,"Green Bay, WI","Green Bay, WI",1001 to 5000 employees,1870,Company - Public,Banks & Credit Unions,Finance,$1 to $2 billion (USD),"Wells Fargo, BMO Harris Bank, U.S. Bank",0,0,43,77,60.0,"Associated Banc-Corp
+", WI,1,150,0,0,0,1,1
+565,"Senior Manager, Epidemiologic Data Scientist",4.0,"New York, NY","New York, NY",10000+ employees,1849,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),-1,0,0,125,210,167.5,"Pfizer
+", NY,1,171,0,0,0,1,1
+566,"Marketing Data Analyst, May 2020 Undergrad",3.8,"New York, NY","New York, NY",1001 to 5000 employees,2002,Company - Private,Travel Agencies,Travel & Tourism,$2 to $5 billion (USD),"Expedia Group, Orbitz Worldwide, Priceline.com",0,0,44,86,65.0,"Fareportal
+", NY,1,18,0,0,0,0,1
+567,Senior Data Analyst,4.0,"Herndon, VA","Mc Lean, VA",501 to 1000 employees,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),"Leidos, CACI International, Booz Allen Hamilton",0,0,69,119,94.0,"Novetta
+", VA,0,8,1,0,0,0,0
+568,Senior Data Analyst,1.9,"New York, NY","New York, NY",201 to 500 employees,2010,Company - Private,"Department, Clothing, & Shoe Stores",Retail,$100 to $500 million (USD),"YOOX NET-A-PORTER GROUP, Farfetch, MATCHESFASHION",0,0,65,110,87.5,"Moda Operandi
+", NY,1,10,1,0,0,0,1
+569,Senior Data Engineer,4.0,"Reston, VA","Mc Lean, VA",501 to 1000 employees,2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),"Leidos, CACI International, Booz Allen Hamilton",0,0,67,127,97.0,"Novetta
+", VA,0,8,1,0,1,1,0
+570,Senior Data Engineer,4.3,"Durham, NC","Daly City, CA",5001 to 10000 employees,1990,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),"Avaya, Five9, Salesforce",0,0,78,147,112.5,"Genesys
+", NC,0,30,1,0,1,1,0
+571,Data Modeler (Analytical Systems),3.6,"Boston, MA","Springfield, MA",5001 to 10000 employees,1851,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),-1,0,0,66,117,91.5,"MassMutual
+", MA,0,169,0,0,1,1,1
+572,Data Modeler - Data Solutions Engineer,3.3,"Indianapolis, IN","Boston, MA",10000+ employees,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),"Travelers, Allstate, State Farm",0,0,37,66,51.5,"Liberty Mutual Insurance
+", IN,0,108,1,0,0,0,1
+573,Data Scientist in Translational Medicine,3.8,"Cambridge, MA","Basel, Switzerland",10000+ employees,1996,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),-1,0,0,86,143,114.5,"Novartis
+", MA,0,24,0,0,0,0,0
+574,Data Scientist,4.3,"New York, NY","New York, NY",201 to 500 employees,2011,Company - Private,Consulting,Business Services,$10 to $25 million (USD),-1,0,0,84,146,115.0,"USEReady
+", NY,1,9,1,0,1,1,0
+575,Product Manager/Data Evangelist,3.2,"Phila, PA","Chadds Ford, PA",1 to 50 employees,-1,Company - Private,Staffing & Outsourcing,Business Services,$5 to $10 million (USD),-1,0,0,50,98,74.0,"Numeric, LLC
+", PA,0,-1,1,0,0,1,0
+576,Associate Environmental Scientist - Wildlife Biologist,4.7,"Clovis, CA","Visalia, CA",51 to 200 employees,1972,Company - Private,Architectural & Engineering Services,Business Services,$10 to $25 million (USD),-1,0,0,38,64,51.0,"QK
+", CA,0,48,0,0,0,0,1
+577,Sr Data Engineer (Sr BI Developer),3.4,"Chandler, AZ","Franklin, TN",501 to 1000 employees,1981,Company - Public,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,-1,0,0,90,110,100.0,"Tivity Health
+", AZ,0,39,0,0,0,0,0
+578,"Senior Data Scientist – Visualization, Novartis AI Innovation Lab",3.8,"Cambridge, MA","Basel, Switzerland",10000+ employees,1996,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),-1,0,0,92,150,121.0,"Novartis
+", MA,0,24,0,0,0,0,0
+579,Senior Data Analyst/Scientist,4.5,"San Francisco, CA","San Francisco, CA",201 to 500 employees,2006,Company - Private,Computer Hardware & Software,Information Technology,$100 to $500 million (USD),"Engagio, Bombora, Terminus",0,0,90,153,121.5,"Demandbase
+", CA,1,14,0,0,0,0,0
+580,"Associate, Data Science, Internal Audit",3.1,"Boston, MA","Madrid, Spain",10000+ employees,1856,Company - Private,Banks & Credit Unions,Finance,$10+ billion (USD),-1,0,0,43,82,62.5,"Santander
+", MA,0,164,1,0,0,0,1
+581,"Scientist – Cancer Discovery, Molecular Assay",-1.0,"Cambridge, MA",-1,-1,-1,-1,-1,-1,-1,-1,0,1,100,135,117.5,Monte Rosa Therapeutics, MA,0,-1,0,0,0,0,1
+582,Senior LiDAR Data Scientist,3.9,"Orlando, FL","Orlando, FL",201 to 500 employees,2012,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1,0,0,93,151,122.0,"Luminar Technologies
+", FL,1,8,1,0,0,1,0
+583,Data Engineer,4.4,"Chantilly, VA","Washington, DC",51 to 200 employees,2004,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1,0,0,61,109,85.0,"BRMi
+", VA,0,16,1,0,1,1,0
+584,Data Engineer,3.4,"Scottsdale, AZ","Chandler, AZ",501 to 1000 employees,2002,Company - Private,IT Services,Information Technology,$50 to $100 million (USD),-1,0,0,42,79,60.5,"IntraEdge
+", AZ,0,18,1,0,1,1,0
+585,Lead Data Scientist,3.9,"Burbank, CA","Burbank, CA",51 to 200 employees,2009,Company - Private,Financial Analytics & Research,Finance,$50 to $100 million (USD),-1,0,0,139,221,180.0,"Zest AI
+", CA,1,11,1,0,0,0,1
+586,"Technology-Minded, Data Professional Opportunities",4.7,"Columbia, MO","Columbia, MO",1001 to 5000 employees,2002,Company - Private,Lending,Finance,Unknown / Non-Applicable,-1,0,0,40,101,70.5,"Veterans United Home Loans
+", MO,1,18,0,0,1,0,1
+587,Big Data Engineer,3.3,"Chantilly, VA","Herndon, VA",1001 to 5000 employees,2017,Company - Private,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion (USD),-1,0,0,84,153,118.5,"Peraton
+", VA,0,3,1,0,1,0,0
+588,Salesforce Analytics Consultant,3.9,"Chicago, IL","Jacksonville, FL",501 to 1000 employees,1995,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),-1,0,0,52,81,66.5,"Emtec, Inc.
+", IL,0,25,1,0,0,0,0
+589,Managing Data Scientist/ML Engineer,3.4,"Boston, MA","London, United Kingdom",1001 to 5000 employees,1943,Company - Private,Consulting,Business Services,$100 to $500 million (USD),"McKinsey & Company, Accenture, Deloitte",0,0,81,134,107.5,"PA Consulting
+", MA,0,77,0,0,1,0,1
+590,Senior Data Engineer,4.7,"Austin, TX","Austin, TX",51 to 200 employees,2010,Company - Private,Security Services,Business Services,$10 to $25 million (USD),-1,0,0,97,180,138.5,"Praetorian
+", TX,1,10,1,0,1,0,0
+591,Staff Scientist- Upstream PD,2.7,"Rockville, MD","Rockville, MD",201 to 500 employees,1961,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million (USD),-1,0,0,49,113,81.0,"Advanced BioScience Laboratories
+", MD,1,59,0,0,0,0,0
+592,Data Engineering Analyst,3.8,"Bloomington, IL","Bloomington, IL",1001 to 5000 employees,1925,Company - Private,Insurance Carriers,Insurance,$2 to $5 billion (USD),"Northwestern Mutual, American Family Insurance, MetLife",0,0,44,73,58.5,"COUNTRY Financial
+", IL,1,95,1,0,1,0,1
+593,Sr. Data Engineer,3.4,"Chicago, IL","Chicago, IL",1001 to 5000 employees,2005,Company - Public,Transportation Management,Transportation & Logistics,$2 to $5 billion (USD),"C.H. Robinson, Total Quality Logistics, Coyote Logistics",0,0,75,140,107.5,"Echo Global Logistics
+", IL,1,15,0,0,0,0,0
+594,"Scientist, Pharmacometrics",3.8,"Cambridge, MA","Cambridge, MA",501 to 1000 employees,2008,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$50 to $100 million (USD),-1,0,0,84,157,120.5,"Agios Pharmaceuticals
+", MA,1,12,0,0,0,0,0
+595,Manager of Data Science,3.9,"San Francisco, CA","San Francisco, CA",201 to 500 employees,2007,Company - Private,Internet,Information Technology,$10 to $25 million (USD),"FLURRY, Chartboost",0,0,40,87,63.5,"Tapjoy
+", CA,1,13,1,0,1,0,0
+596,Scientist Manufacturing Pharma - Kentucky BioProcessing,3.1,"Owensboro, KY","Winston-Salem, NC",5001 to 10000 employees,1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),-1,0,0,68,139,103.5,"Reynolds American
+", KY,0,145,0,0,0,0,0
+597,Software Engineer (Data Scientist/Software Engineer) - SISW - MG,4.1,"Fremont, CA","Wilsonville, OR",5001 to 10000 employees,1981,Company - Public,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),"Cadence Design Systems, Synopsys, Altium Limited",0,0,72,142,107.0,"Mentor Graphics
+", CA,0,39,1,0,0,0,1
+598,Data Engineer,3.7,"Springfield, VA","Westminster, CO",5001 to 10000 employees,-1,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD),-1,0,0,74,137,105.5,"Maxar Technologies
+", VA,0,-1,1,0,1,0,0
+599,Data Engineer,2.8,"San Diego, CA","San Diego, CA",501 to 1000 employees,1972,Company - Private,Insurance Carriers,Insurance,$500 million to $1 billion (USD),"Liberty Mutual Insurance, EMPLOYERS, Travelers",0,0,57,109,83.0,"ICW Group
+", CA,1,48,0,0,0,0,0
+600,Lead Big Data Engineer,4.0,"San Francisco, CA","Mill Valley, CA",1001 to 5000 employees,2007,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,"Indeed, LinkedIn",0,0,121,203,162.0,"Glassdoor
+", CA,0,13,1,0,1,1,1
+601,Product Engineer – Spatial Data Science and Statistical Analysis,3.5,"Redlands, CA","Redlands, CA",1001 to 5000 employees,1969,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),Pitney Bowes,0,0,52,85,68.5,"Esri
+", CA,1,51,1,0,1,0,1
+602,Sr Software Engineer (Data Scientist),3.4,"Westlake, OH","New York, NY",10000+ employees,1978,Company - Public,Insurance Carriers,Insurance,$5 to $10 billion (USD),"Asurion, SquareTrade, National General Insurance",0,0,81,140,110.5,"Assurant
+", OH,0,42,0,0,0,0,1
+603,Sr. Data Engineer (ETL Developer),3.7,"Des Moines, IA","Des Moines, IA",201 to 500 employees,-1,Subsidiary or Business Segment,Insurance Carriers,Insurance,$100 to $500 million (USD),-1,0,0,83,148,115.5,"F&G
+", IA,1,-1,1,0,0,0,1
+604,Associate Research Scientist I (Protein Expression and Production),3.0,"Alameda, CA","Alameda, CA",501 to 1000 employees,1994,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,"Genentech, Novartis, AstraZeneca",0,0,59,116,87.5,"Exelixis
+", CA,1,26,0,0,0,0,1
+605,Senior Data Scientist Artificial Intelligence,3.8,"Richland, WA","Richland, WA",1001 to 5000 employees,1965,Government,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion (USD),"Oak Ridge National Laboratory, National Renewable Energy Lab, Los Alamos National Laboratory",0,0,60,101,80.5,"PNNL
+", WA,1,55,0,0,0,0,0
+606,Analytics - Business Assurance Data Analyst,4.6,"Cedar Rapids, IA","Cedar Rapids, IA",501 to 1000 employees,1992,Company - Private,Lending,Finance,$100 to $500 million (USD),-1,0,0,31,55,43.0,"GreatAmerica Financial Services
+", IA,1,28,0,0,0,0,1
+607,"Associate Director/Director, Safety Scientist",4.4,"Cambridge, MA","Cambridge, MA",201 to 500 employees,2003,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,-1,0,0,102,178,140.0,"Acceleron Pharma
+", MA,1,17,0,0,0,0,1
+608,"Director, Precision Medicine Clinical Biomarker Scientist",4.0,"Cambridge, MA","New York, NY",10000+ employees,1849,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),-1,0,0,136,208,172.0,"Pfizer
+", MA,0,171,0,0,0,1,0
+609,"Senior Scientist, Cell Pharmacology/Assay Development",-1.0,"Cambridge, MA","San Mateo, CA",Unknown,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,0,1,110,130,120.0,Kronos Bio, MA,0,-1,0,0,0,0,0
+610,Data Analyst Senior,3.0,"Philadelphia, PA","Philadelphia, PA",5001 to 10000 employees,1983,Company - Private,Insurance Carriers,Insurance,$5 to $10 billion (USD),"UnitedHealth Group, Molina Healthcare, Centene",0,0,48,85,66.5,"AmeriHealth Caritas
+", PA,1,37,0,0,0,0,1
+611,Senior Formulations Scientist II,3.0,"Alameda, CA","Alameda, CA",501 to 1000 employees,1994,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,"Genentech, Novartis, AstraZeneca",0,0,71,129,100.0,"Exelixis
+", CA,1,26,0,0,0,0,1
+612,Lead Data Engineer (Python),4.7,"San Francisco, CA","Los Angeles, CA",51 to 200 employees,2006,Company - Private,Staffing & Outsourcing,Business Services,$1 to $5 million (USD),-1,0,0,66,123,94.5,"Strategic Employment Partners
+", CA,0,14,1,0,0,1,0
+613,Data Science Manager,4.2,"San Francisco, CA","San Francisco, CA",501 to 1000 employees,2011,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,-1,0,0,171,272,221.5,"Grand Rounds
+", CA,1,9,1,0,0,0,1
+614,Senior Data Scientist 4 Artificial Intelligence,3.8,"Seattle, WA","Richland, WA",1001 to 5000 employees,1965,Government,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion (USD),"Oak Ridge National Laboratory, National Renewable Energy Lab, Los Alamos National Laboratory",0,0,92,146,119.0,"PNNL
+", WA,0,55,0,0,0,0,0
+615,Data Engineer,3.5,"Chicago, IL","Chicago, IL",201 to 500 employees,1995,Company - Private,Consulting,Business Services,$50 to $100 million (USD),-1,0,0,65,126,95.5,"SPINS, LLC
+", IL,1,25,1,0,0,0,0
+616,"Director II, Data Science - GRS Predictive Analytics",3.3,"Chicago, IL","Boston, MA",10000+ employees,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),"Travelers, Allstate, State Farm",0,0,150,239,194.5,"Liberty Mutual Insurance
+", IL,0,108,1,0,0,0,0
+617,Medical Lab Scientist - MLT,3.2,"Omaha, NE","Englewood, CO",10000+ employees,1996,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$10+ billion (USD),"Dignity Health, Trinity Health",1,0,21,29,25.0,"Catholic Health Initiatives
+", NE,0,24,0,0,0,0,0
+618,"Senior Operations Data Analyst, Call Center Operations",2.7,"Nashville, TN","Peachtree Corners, GA",5001 to 10000 employees,2000,Company - Public,Financial Transaction Processing,Finance,$2 to $5 billion (USD),-1,1,0,10,17,13.5,"FLEETCOR
+", TN,0,20,0,0,0,0,1
+619,Senior Quantitative Analyst,3.3,"Jersey City, NJ","New York, NY",1001 to 5000 employees,1973,Company - Private,Brokerage Services,Finance,$1 to $2 billion (USD),-1,0,0,118,228,173.0,"DTCC
+", NJ,0,47,1,0,0,0,1
+620,Geospatial Software Developer and Data Scientist,3.7,"Austin, TX","Austin, TX",501 to 1000 employees,-1,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,-1,0,0,82,129,105.5,"Applied Research Laboratories
+", TX,1,-1,1,0,0,1,0
+621,RESEARCH COMPUTER SCIENTIST - RESEARCH ENGINEER - SR. COMPUTER SCIENTIST - SOFTWARE DEVELOPMENT,3.9,"San Antonio, TX","San Antonio, TX",1001 to 5000 employees,1947,Nonprofit Organization,Research & Development,Business Services,$500 million to $1 billion (USD),"Los Alamos National Laboratory, Battelle, SRI International",0,0,52,91,71.5,"Southwest Research Institute
+", TX,1,73,1,0,0,1,1
+622,Senior Scientist - Toxicologist - Product Integrity (Stewardship),3.1,"Winston-Salem, NC","Winston-Salem, NC",5001 to 10000 employees,1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),-1,0,0,47,101,74.0,"Reynolds American
+", NC,1,145,0,0,0,0,1
+623,Systems Engineer II - Data Analyst,3.7,"Huntsville, AL","Waltham, MA",10000+ employees,1922,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),-1,0,0,49,76,62.5,"Raytheon
+", AL,0,98,0,0,0,0,1
+624,Senior Research Analytical Scientist-Non-Targeted Analysis,4.3,"Durham, NC","Research Triangle Park, NC",1001 to 5000 employees,1958,Nonprofit Organization,Research & Development,Business Services,$500 million to $1 billion (USD),"Westat, Abt Associates, Chemonics International",0,0,43,88,65.5,"RTI International
+", NC,0,62,0,0,0,0,0
+625,Data Scientist,3.8,"Coraopolis, PA","Coraopolis, PA",10000+ employees,1948,Company - Public,Sporting Goods Stores,Retail,$5 to $10 billion (USD),"REI, Academy Sports + Outdoors, Cabela's",0,0,61,109,85.0,"DICK'S Sporting Goods - Corporate
+", PA,1,72,1,0,0,0,0
+626,Principal Data Scientist,3.9,"Gaithersburg, MD","Cambridge, United Kingdom",10000+ employees,1913,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),"Roche, GlaxoSmithKline, Novartis",0,0,113,182,147.5,"AstraZeneca
+", MD,0,107,1,0,0,0,1
+627,Director Data Science,3.6,"Fort Lee, NJ","Fort Lee, NJ",1001 to 5000 employees,1989,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,-1,0,0,124,199,161.5,"TRANZACT
+", NJ,1,31,1,0,0,1,1
+628,Data Engineer,3.7,"Roanoke, VA","Roanoke, VA",10000+ employees,1899,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$1 to $2 billion (USD),-1,0,0,58,104,81.0,"Carilion Clinic
+", VA,1,121,0,0,0,0,1
+629,Sr Data Analyst - IT,2.1,"Blue Bell, PA","Blue Bell, PA",1001 to 5000 employees,2003,Other Organization,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million (USD),"Covance, ICON",0,0,52,93,72.5,"United BioSource
+", PA,1,17,0,0,0,0,1
+630,Senior Data Engineer,3.9,"San Francisco, CA","San Francisco, CA",51 to 200 employees,2008,Company - Public,Computer Hardware & Software,Information Technology,$10 to $25 million (USD),-1,0,0,97,181,139.0,"Figure Eight
+", CA,1,12,1,0,0,1,1
+631,Senior Data Engineer,3.9,"San Francisco, CA","San Francisco, CA",201 to 500 employees,2007,Company - Private,Internet,Information Technology,$10 to $25 million (USD),"FLURRY, Chartboost",0,0,100,173,136.5,"Tapjoy
+", CA,1,13,0,0,0,0,0
+632,Sr. Data Analyst,3.2,"New York, NY","New York, NY",201 to 500 employees,2008,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1,0,0,58,108,83.0,"DoubleVerify
+", NY,1,12,1,0,1,0,1
+633,Research Scientist or Senior Research Scientist - Computer Vision,4.6,"Cambridge, MA","Cambridge, MA",51 to 200 employees,1991,Subsidiary or Business Segment,Research & Development,Business Services,$5 to $10 million (USD),"Google, Amazon, NVIDIA",0,0,81,161,121.0,"Mitsubishi Electric Research Labs
+", MA,1,29,0,0,0,1,1
+634,Associate Machine Learning Engineer / Data Scientist May 2020 Undergrad,3.8,"New York, NY","New York, NY",1001 to 5000 employees,2002,Company - Private,Travel Agencies,Travel & Tourism,$2 to $5 billion (USD),"Expedia Group, Orbitz Worldwide, Priceline.com",0,0,53,96,74.5,"Fareportal
+", NY,1,18,1,0,1,0,0
+635,Data Analyst Chemist - Quality System Contractor,2.2,"San Francisco, CA","San Francisco, CA",501 to 1000 employees,2002,Company - Private,Beauty & Personal Accessories Stores,Retail,Unknown / Non-Applicable,-1,0,0,61,110,85.5,"Rodan and Fields, LLC
+", CA,1,18,0,0,0,0,1
+636,Senior Scientist - Biostatistician,3.1,"Winston-Salem, NC","Winston-Salem, NC",5001 to 10000 employees,1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),-1,0,0,65,96,80.5,"Reynolds American
+", NC,1,145,0,0,0,0,1
+637,Research Scientist / Principal Research Scientist - Multiphysical Systems,4.6,"Cambridge, MA","Cambridge, MA",51 to 200 employees,1991,Subsidiary or Business Segment,Research & Development,Business Services,$5 to $10 million (USD),"Google, Amazon, NVIDIA",0,0,115,220,167.5,"Mitsubishi Electric Research Labs
+", MA,1,29,0,0,0,0,0
+638,"Research Scientist, Machine Learning Department",2.6,"Pittsburgh, PA","Pittsburgh, PA",501 to 1000 employees,1984,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,-1,0,0,71,144,107.5,"Software Engineering Institute
+", PA,1,36,1,0,0,0,0
+639,Foundational Community Supports Data Analyst,3.4,"Seattle, WA","Seattle, WA",501 to 1000 employees,1979,Nonprofit Organization,Social Assistance,Non-Profit,$25 to $50 million (USD),-1,0,0,32,57,44.5,"DESC
+", WA,1,41,0,0,0,1,1
+640,"Senior Health Data Analyst, Star Ratings",3.3,"Glen Burnie, MD","Baltimore, MD",1001 to 5000 employees,1889,Company - Private,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),"MedStar Health, University of Maryland Medical Center, LifeBridge Health",0,0,79,136,107.5,"Johns Hopkins Health Care
+", MD,0,131,0,0,0,0,0
+641,"Principal Research Scientist/Team Lead, Medicinal Chemistry - Oncology",-1.0,"Cambridge, MA","San Mateo, CA",Unknown,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,0,1,120,145,132.5,Kronos Bio, MA,0,-1,0,0,0,0,0
+642,Sr. Data Analyst,3.7,"Philadelphia, PA","Phila, PA",201 to 500 employees,1994,Company - Private,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),-1,0,0,50,89,69.5,"Community Behavioral Health
+", PA,0,26,0,0,0,0,1
+643,"Senior Engineer, Data Management Engineering",3.5,"Milpitas, CA","San Jose, CA",10000+ employees,1970,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion (USD),"Seagate Technology, Toshiba",0,0,68,129,98.5,"Western Digital
+", CA,0,50,1,0,1,1,0
+644,Quality Control Scientist III- Analytical Development,2.7,"Rockville, MD","Rockville, MD",201 to 500 employees,1961,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million (USD),-1,0,0,48,113,80.5,"Advanced BioScience Laboratories
+", MD,1,59,0,0,0,0,1
+645,"Clinical Scientist, Clinical Development",3.8,"Watertown, MA","Watertown, MA",51 to 200 employees,2008,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10 to $25 million (USD),-1,1,0,27,47,37.0,"FORMA THERAPEUTICS
+", MA,1,12,0,0,0,0,1
+646,Software Engineer Staff Scientist: Human Language Technologies,3.7,"Cambridge, MD","Waltham, MA",10000+ employees,1922,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),-1,0,0,74,124,99.0,"Raytheon
+", MD,0,98,1,0,0,0,0
+647,"Manager, Safety Scientist, Medical Safety & Risk Management",3.8,"Cambridge, MA","Cambridge, MA",501 to 1000 employees,2008,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$50 to $100 million (USD),-1,0,0,68,125,96.5,"Agios Pharmaceuticals
+", MA,1,12,0,0,0,0,1
+648,"Assistant Director/Director, Office of Data Science",3.3,"Boston, MA","Boston, MA",10000+ employees,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),"Travelers, Allstate, State Farm",0,0,39,67,53.0,"Liberty Mutual Insurance
+", MA,1,108,0,0,0,0,0
+649,Sr. Data Engineer | Big Data SaaS Pipeline,2.7,"Los Angeles, CA","Los Angeles, CA",1 to 50 employees,2011,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1,0,0,71,135,103.0,"Bridg
+", CA,1,9,0,0,1,1,0
+650,Senior Risk Data Scientist,3.8,"Palo Alto, CA","Palo Alto, CA",501 to 1000 employees,2006,Company - Public,Financial Transaction Processing,Finance,$50 to $100 million (USD),-1,0,0,107,172,139.5,"Bill.com
+", CA,1,14,0,0,0,0,0
+651,Data Scientist in Artificial Intelligence Early Career,3.8,"Richland, WA","Richland, WA",1001 to 5000 employees,1965,Government,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion (USD),"Oak Ridge National Laboratory, National Renewable Energy Lab, Los Alamos National Laboratory",0,0,49,85,67.0,"Pacific Northwest National Laboratory
+", WA,1,55,0,0,0,0,0
+652,Consultant - Analytics Consulting,3.0,"Hartford, CT","Bengaluru, India",10000+ employees,1981,Company - Public,IT Services,Information Technology,$10+ billion (USD),"Tata Consultancy Services, Accenture, Cognizant Technology Solutions",0,0,54,71,62.5,"Infosys
+", CT,0,39,0,0,0,0,1
+653,Scientist - CVRM Metabolism - in vivo pharmacology,3.9,"Gaithersburg, MD","Cambridge, United Kingdom",10000+ employees,1913,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),"Roche, GlaxoSmithKline, Novartis",0,0,61,123,92.0,"AstraZeneca
+", MD,0,107,0,0,0,0,0
+654,Data Analyst,3.6,"New York, NY","New York, NY",1 to 50 employees,1980,Company - Private,Health Care Services & Hospitals,Health Care,$10 to $25 million (USD),"The Execu|Search Group, Prime Staffing",0,0,47,85,66.0,"AXION Healthcare Solutions
+", NY,1,40,0,0,0,0,1
+655,Data Engineer,3.5,"Orange, CA","Orange, CA",501 to 1000 employees,2013,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,-1,0,0,65,124,94.5,"Alignment Healthcare
+", CA,1,7,1,0,1,1,1
+656,Data Scientist,3.6,"Fort Lee, NJ","Fort Lee, NJ",1001 to 5000 employees,1989,Company - Private,Advertising & Marketing,Business Services,Unknown / Non-Applicable,-1,0,0,87,141,114.0,"TRANZACT
+", NJ,1,31,1,0,0,1,1
+657,Data Scientist,4.2,"New York, NY","New York, NY",51 to 200 employees,2012,Company - Private,Education Training Services,Education,Unknown / Non-Applicable,"Harvard Business School, Coursera, edX",0,0,56,95,75.5,"ExecOnline
+", NY,1,8,1,0,0,1,0
+658,Data Scientist,3.5,"Maryland Heights, MO","North Salt Lake, UT",1 to 50 employees,-1,School / School District,K-12 Education,Education,$5 to $10 million (USD),-1,0,0,71,121,96.0,"Charter Spectrum
+", MO,0,-1,0,0,0,0,1
+659,Machine Learning Engineer,4.0,"Fort Belvoir, VA","Lorton, VA",501 to 1000 employees,1954,Company - Public,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),"Harris, Fibertek",0,0,62,112,87.0,"Mteq
+", VA,0,66,1,0,0,0,0
+660,Data Scientist,3.7,"Silver Spring, MD","Reston, VA",201 to 500 employees,2006,Company - Private,IT Services,Information Technology,$25 to $50 million (USD),-1,0,0,64,108,86.0,"Brillient
+", MD,0,14,1,0,0,0,1
+661,Senior Data Scientist,4.4,"Palo Alto, CA","Palo Alto, CA",1 to 50 employees,2012,Company - Private,Internet,Information Technology,Unknown / Non-Applicable,-1,0,0,89,144,116.5,"Entefy
+", CA,1,8,1,0,0,0,0
+662,Senior Scientist (Neuroscience),3.5,"Marlborough, MA","Marlborough, MA",1001 to 5000 employees,2010,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),"Shire, GlaxoSmithKline, Allergan",0,0,109,200,154.5,"Sunovion
+", MA,1,10,1,0,0,0,1
+663,Marketing Data Analyst,3.6,"Highland, CA","Highland, CA",1001 to 5000 employees,1986,Company - Private,Gambling,"Arts, Entertainment & Recreation",$100 to $500 million (USD),-1,0,0,35,62,48.5,"San Manuel Casino
+", CA,1,34,0,0,0,0,1
+664,Machine Learning Engineer - Regulatory,3.7,"Lenexa, KS","Chicago, IL",501 to 1000 employees,1973,Company - Public,Stock Exchanges,Finance,$500 million to $1 billion (USD),-1,0,0,61,113,87.0,"Cboe Global Markets
+", KS,0,47,1,0,0,0,1
+665,Data Engineer,3.4,"Houston, TX","Irvine, CA",501 to 1000 employees,2002,Company - Private,IT Services,Information Technology,$1 to $2 billion (USD),"World Wide Technology, Presidio, Optiv",0,0,55,105,80.0,"Trace3
+", TX,0,18,1,0,1,0,1
+666,Medical Laboratory Scientist,4.0,"Burleson, TX","Arlington, TX",1001 to 5000 employees,1977,Hospital,Health Care Services & Hospitals,Health Care,$50 to $100 million (USD),-1,1,0,18,25,21.5,"Texas Health Huguley Hospital
+", TX,0,43,0,0,0,1,0
+667,Principal Data Scientist,3.7,"San Jose, CA","Falls Church, VA",10000+ employees,1939,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),-1,0,0,135,211,173.0,"Northrop Grumman
+", CA,0,81,1,0,0,0,0
+668,R&D Specialist/ Food Scientist,2.4,"Hoopeston, IL","Flower Mound, TX",501 to 1000 employees,-1,Company - Private,Food & Beverage Manufacturing,Manufacturing,$100 to $500 million (USD),-1,0,0,39,66,52.5,"Teasdale Latin Foods
+", IL,0,-1,0,0,0,0,0
+669,Data Engineer,3.5,"Phoenix, AZ","Campbell, CA",501 to 1000 employees,1997,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,"Accenture, Deloitte, IBM",0,0,57,80,68.5,"Saama Technologies Inc
+", AZ,0,23,1,0,1,0,0
+670,"Associate Principal Scientist, Pharmacogenomics",3.9,"Gaithersburg, MD","Cambridge, United Kingdom",10000+ employees,1913,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),"Roche, GlaxoSmithKline, Novartis",0,0,63,127,95.0,"AstraZeneca
+", MD,0,107,0,0,0,0,0
+671,Data Scientist - Systems Engineering,3.2,"Bedford, MA","Bedford, MA",5001 to 10000 employees,1958,Nonprofit Organization,Federal Agencies,Government,$1 to $2 billion (USD),"Battelle, General Atomics, SAIC",0,0,50,89,69.5,"MITRE
+", MA,1,62,1,0,0,0,1
+672,Senior Data Scientist,4.4,"Cincinnati, OH","Cincinnati, OH",201 to 500 employees,1885,Subsidiary or Business Segment,Metals Brokers,Mining & Metals,Unknown / Non-Applicable,-1,0,0,82,132,107.0,"The David J. Joseph Company
+", OH,1,135,1,0,0,1,0
+673,Data Scientist SR,3.9,"Charlottesville, VA","Reston, VA",501 to 1000 employees,2010,Company - Private,IT Services,Information Technology,$100 to $500 million (USD),"ManTech, Booz Allen Hamilton, Leidos",0,0,85,139,112.0,"The Buffalo Group
+", VA,0,10,1,0,1,0,0
+674,Data Scientist,3.4,"Washington, DC","Houston, TX",51 to 200 employees,1997,Company - Private,Consulting,Business Services,$10 to $25 million (USD),-1,0,0,72,121,96.5,"CompQsoft
+", DC,0,23,1,0,0,0,0
+675,"Scientist, Bacteriology",2.1,"Concord, CA","Concord, CA",201 to 500 employees,-1,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million (USD),-1,0,0,74,149,111.5,"Cerus Corporation
+", CA,1,-1,0,0,0,0,1
+676,"Associate Director, Platform and DevOps- Data Engineering and Aritifical Intelligence",3.7,"Cambridge, MA","OSAKA, Japan",10000+ employees,1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),"Novartis, Baxter, Pfizer",0,0,113,196,154.5,"Takeda Pharmaceuticals
+", MA,0,239,0,0,1,1,1
+677,Data Scientist,3.4,"New York, NY","Norwalk, CT",201 to 500 employees,2011,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,"Healthfirst (New York), naviHealth",0,0,69,121,95.0,"Remedy BPCI Partners, LLC.
+", NY,0,9,1,0,1,1,0
+678,Data Scientist,4.0,"New York, NY","New York, NY",501 to 1000 employees,2007,Company - Private,Consumer Product Rental,Consumer Services,Unknown / Non-Applicable,"National Debt Relief, Freedom Financial Network",0,0,71,124,97.5,"Strategic Financial Solutions
+", NY,1,13,1,0,0,0,1
+679,Senior Data Scientist,4.4,"Chicago, IL","Chicago, IL",201 to 500 employees,2008,Company - Private,Consulting,Business Services,$50 to $100 million (USD),-1,0,0,97,160,128.5,"Maven Wave Partners
+", IL,1,12,1,0,0,1,1
+680,Senior Research Scientist-Machine Learning,2.6,"Pittsburgh, PA","Pittsburgh, PA",501 to 1000 employees,1984,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,-1,0,0,81,167,124.0,"Software Engineering Institute
+", PA,1,36,0,0,0,0,0
+681,Principal Data Scientist,3.2,"San Francisco, CA","San Francisco, CA",501 to 1000 employees,2006,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,"Granular, Intuit, John Deere",0,0,150,238,194.0,"The Climate Corporation
+", CA,1,14,0,0,0,1,1
+682,Clinical Laboratory Scientist,3.7,"Vail, CO","Vail, CO",501 to 1000 employees,1966,Hospital,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),-1,1,0,24,39,31.5,"Vail Health
+", CO,1,54,0,0,0,0,0
+683,"Data Analyst 1, full-time contract worker for up to 12 months",4.2,"Salt Lake City, UT","Salt Lake City, UT",10000+ employees,-1,Nonprofit Organization,Religious Organizations,Non-Profit,Unknown / Non-Applicable,-1,0,0,35,65,50.0,"The Church of Jesus Christ of Latter-day Saints
+", UT,1,-1,0,0,0,1,1
+684,Data Scientist,3.5,"New York, NY","New York, NY",201 to 500 employees,2005,Company - Public,Advertising & Marketing,Business Services,Unknown / Non-Applicable,-1,0,0,77,132,104.5,"Crossix Solutions
+", NY,1,15,1,0,1,1,1
+685,Data Scientist,4.3,"Phoenix, AZ","Brea, CA",201 to 500 employees,1969,Company - Private,IT Services,Information Technology,$50 to $100 million (USD),-1,0,0,51,88,69.5,"Solugenix Corporation
+", AZ,0,51,1,0,0,0,1
+686,Data Scientist,2.6,"Irvine, CA","Irvine, CA",10000+ employees,1997,Company - Private,Colleges & Universities,Education,Unknown / Non-Applicable,-1,0,0,101,141,121.0,"West Coast University
+", CA,1,23,1,0,0,0,0
+687,Data Engineer - Consultant (Charlotte Based),4.2,"Charlotte, NC","Chicago, IL",201 to 500 employees,2008,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1,0,0,59,112,85.5,"Clarity Insights
+", NC,0,12,1,0,0,0,1
+688,Data Engineer,3.1,"Aliso Viejo, CA","Seoul, South Korea",1001 to 5000 employees,1997,Company - Public,Video Games,Media,$10+ billion (USD),"Blizzard Entertainment, Riot Games, Electronic Arts",0,0,79,147,113.0,"NCSOFT
+", CA,0,23,1,0,1,1,1
+689,Data Scientist (Warehouse Automation),3.8,"San Francisco, CA","Paris, France",201 to 500 employees,2005,Subsidiary or Business Segment,Consumer Products Manufacturing,Manufacturing,$25 to $50 million (USD),-1,0,0,79,127,103.0,"SoftBank Robotics
+", CA,0,15,1,0,0,1,0
+690,"Scientist, Immuno-Oncology",3.9,"Cambridge, MA","Brentford, United Kingdom",10000+ employees,1830,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),"Pfizer, AstraZeneca, Merck",0,0,62,119,90.5,"GSK
+", MA,0,190,0,0,0,1,0
+691,Senior Data Scientist,4.3,"Los Angeles, CA","Los Angeles, CA",51 to 200 employees,2008,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,Foursquare,0,0,119,187,153.0,"Factual
+", CA,1,12,1,0,1,0,1
+692,Jr. Data Scientist,3.2,"McLean, VA","Bedford, MA",5001 to 10000 employees,1958,Nonprofit Organization,Federal Agencies,Government,$1 to $2 billion (USD),"Battelle, General Atomics, SAIC",0,0,81,132,106.5,"MITRE
+", VA,0,62,1,0,1,0,1
+693,Senior Data Scientist,5.0,"Ann Arbor, MI","Ann Arbor, MI",51 to 200 employees,2011,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1,0,1,120,140,130.0,"SkySync
+", MI,1,9,0,0,0,0,1
+694,Products Data Analyst II,3.3,"Dublin, CA","Dublin, CA",1001 to 5000 employees,1988,Company - Public,Consulting,Business Services,$2 to $5 billion (USD),"Paychex, Insperity, ADP",0,0,90,157,123.5,"TriNet
+", CA,1,32,0,0,0,0,1
+695,Data Architect / Data Modeler,4.3,"New York, NY","New York, NY",1001 to 5000 employees,1999,Company - Public,Enterprise Software & Network Solutions,Information Technology,$500 million to $1 billion (USD),Oracle,0,0,63,110,86.5,"Medidata Solutions
+", NY,1,21,0,0,0,1,1
+696,Analytics Manager - Data Mart,3.5,"Scotts Valley, CA","Scotts Valley, CA",501 to 1000 employees,1996,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),-1,0,0,42,86,64.0,"Central California Alliance for Health
+", CA,1,24,0,0,0,0,0
+697,Lead Data Analyst,3.9,"New York, NY","New York, NY",201 to 500 employees,2010,Company - Private,Internet,Information Technology,$10 to $25 million (USD),-1,0,0,32,62,47.0,"Signpost
+", NY,1,10,0,0,1,0,0
+698,Data Science Engineer - Mobile,4.0,"San Jose, CA","San Jose, CA",10000+ employees,1982,Company - Public,Computer Hardware & Software,Information Technology,$5 to $10 billion (USD),"Apple, Microsoft",0,0,116,208,162.0,"Adobe
+", CA,1,38,1,0,0,0,1
+699,Senior Data Scientist Oncology,3.9,"Gaithersburg, MD","Cambridge, United Kingdom",10000+ employees,1913,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),"Roche, GlaxoSmithKline, Novartis",0,0,107,173,140.0,"AstraZeneca
+", MD,0,107,1,0,0,0,1
+700,Data Scientist,3.4,"Olympia, WA","Centennial, CO",51 to 200 employees,-1,Company - Private,IT Services,Information Technology,$5 to $10 million (USD),-1,0,0,65,113,89.0,"DatamanUSA, LLC
+", WA,0,-1,0,0,0,0,0
+701,Sr. Data Engineer - Contract-to-Hire (Java),3.0,"Knoxville, TN","Knoxville, TN",10000+ employees,1958,Company - Private,Gas Stations,Retail,$10+ billion (USD),"TravelCenters of America, Love's Travel Stops & Country Stores, Wawa",0,0,69,127,98.0,"Pilot Flying J Travel Centers LLC
+", TN,1,62,1,0,0,0,0
+702,Senior Data Scientist - R&D Oncology,3.9,"New York, NY","Cambridge, United Kingdom",10000+ employees,1913,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),"Roche, GlaxoSmithKline, Novartis",0,0,102,172,137.0,"AstraZeneca
+", NY,0,107,1,0,0,0,0
+703,Data Engineer,4.0,"Denver, CO","Denver, CO",501 to 1000 employees,1915,Nonprofit Organization,Insurance Carriers,Insurance,$500 million to $1 billion (USD),-1,0,0,74,124,99.0,"Pinnacol Assurance
+", CO,1,105,1,0,0,1,0
+704,Food Scientist - Developer,3.3,"Milwaukee, WI","Milwaukee, WI",501 to 1000 employees,1964,Company - Private,Food & Beverage Manufacturing,Manufacturing,Unknown / Non-Applicable,-1,0,0,40,68,54.0,"Palermo's Pizza
+", WI,1,56,0,0,0,0,0
+705,Senior Data Engineer,3.2,"Franklin, TN","Indianapolis, IN",1001 to 5000 employees,2004,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,-1,0,0,76,142,109.0,"Equian LLC
+", TN,0,16,0,0,0,1,1
+706,Data Engineer,3.4,"Rockville, MD","Reston, VA",201 to 500 employees,1999,Company - Private,IT Services,Information Technology,$25 to $50 million (USD),-1,0,0,76,142,109.0,"MetroStar Systems
+", MD,0,21,0,0,0,1,0
+707,Senior Data Scientist,4.4,"Natick, MA","Natick, MA",1001 to 5000 employees,1984,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion (USD),-1,0,0,108,171,139.5,"MathWorks
+", MA,1,36,1,0,0,0,0
+708,"Director II, Data Science - GRM Actuarial",3.3,"Chicago, IL","Boston, MA",10000+ employees,1912,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),"Travelers, Allstate, State Farm",0,0,202,306,254.0,"Liberty Mutual Insurance
+", IL,0,108,1,0,0,0,0
+709,Machine Learning Engineer,3.2,"New York, NY","New York, NY",1001 to 5000 employees,1975,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,"Qlik, Tableau Software, Informatica",0,0,91,159,125.0,"Information Builders
+", NY,1,45,1,0,0,1,1
+710,"Sr Expert Data Science, Advanced Visual Analytics (Associate level)",3.8,"Cambridge, MA","Basel, Switzerland",10000+ employees,1996,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),-1,0,0,80,133,106.5,"Novartis
+", MA,0,24,1,0,0,0,0
+711,MED TECH/LAB SCIENTIST- SOUTH COASTAL LAB,3.6,"Millville, DE","Lewes, DE",1001 to 5000 employees,1935,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),-1,1,0,21,34,27.5,"Beebe Healthcare
+", DE,0,85,0,0,0,0,0
+712,"Scientist, Molecular/Cellular Biologist",2.9,"South San Francisco, CA","San Francisco, CA",201 to 500 employees,2012,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,"BioMarin Pharmaceutical, Sangamo Therapeutics, bluebird bio",0,0,49,97,73.0,"Audentes Therapeutics
+", CA,0,8,0,0,0,0,0
+713,Staff Scientist-Downstream Process Development,2.7,"Rockville, MD","Rockville, MD",201 to 500 employees,1961,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million (USD),-1,0,0,49,113,81.0,"Advanced BioScience Laboratories
+", MD,1,59,0,0,0,0,1
+714,Data Scientist,3.2,"Philadelphia, PA","Chadds Ford, PA",1 to 50 employees,-1,Company - Private,Staffing & Outsourcing,Business Services,$5 to $10 million (USD),-1,0,0,96,161,128.5,"Numeric, LLC
+", PA,0,-1,1,0,1,1,0
+715,Scientist - Analytical Services,3.1,"Winston-Salem, NC","Winston-Salem, NC",5001 to 10000 employees,1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),-1,0,0,65,134,99.5,"Reynolds American
+", NC,1,145,0,0,0,0,1
+716,"Associate Scientist / Sr. Associate Scientist, Antibody Discovery",4.0,"South San Francisco, CA","Sunnyvale, CA",501 to 1000 employees,2006,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,"Ancestry, Verily Life Sciences, Abbott Laboratories",0,0,59,125,92.0,"23andMe
+", CA,0,14,0,0,0,1,1
+717,Associate Data Analyst- Graduate Development Program,3.3,"Richfield, OH","Richfield, OH",501 to 1000 employees,1989,Company - Private,Insurance Carriers,Insurance,$500 million to $1 billion (USD),-1,0,0,32,59,45.5,"National Interstate
+", OH,1,31,0,0,0,0,0
+718,Sr. Data Engineer,4.5,"Indianapolis, IN","Indianapolis, IN",51 to 200 employees,1996,Company - Private,Consulting,Business Services,$25 to $50 million (USD),-1,0,0,87,158,122.5,"Moser Consulting
+", IN,1,24,1,0,1,1,0
+719,Clinical Data Analyst,3.0,"Tampa, FL","Tampa, FL",1001 to 5000 employees,1977,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),"eClinicalWorks, NextGen Healthcare, athenahealth",0,0,27,48,37.5,"Greenway Health
+", FL,1,43,0,0,0,0,1
+720,IT Associate Data Analyst,3.7,"Worcester, MA","Worcester, MA",5001 to 10000 employees,1852,Company - Public,Insurance Carriers,Insurance,$5 to $10 billion (USD),-1,0,0,39,69,54.0,"The Hanover Insurance Group
+", MA,1,168,0,0,0,0,0
+721,Business Data Analyst,3.8,"New York, NY","New York, NY",1001 to 5000 employees,2002,Company - Private,Travel Agencies,Travel & Tourism,$2 to $5 billion (USD),"Expedia Group, Orbitz Worldwide, Priceline.com",0,0,36,71,53.5,"Fareportal
+", NY,1,18,1,0,0,0,1
+722,Senior Insurance Data Scientist,3.9,"Chicago, IL","Chicago, IL",5001 to 10000 employees,1968,Company - Public,Financial Analytics & Research,Finance,$1 to $2 billion (USD),-1,0,0,107,173,140.0,"TransUnion
+", IL,1,52,1,0,0,0,1
+723,Senior Data Science Systems Engineer,3.2,"Hampton, VA","Bedford, MA",5001 to 10000 employees,1958,Nonprofit Organization,Federal Agencies,Government,$1 to $2 billion (USD),"Battelle, General Atomics, SAIC",0,0,56,99,77.5,"MITRE
+", VA,0,62,0,0,0,0,0
+724,ENVIRONMENTAL ENGINEER/SCIENTIST,3.3,"Cambridge, MA","Cambridge, MA",1 to 50 employees,1976,Company - Private,Construction,"Construction, Repair & Maintenance",Unknown / Non-Applicable,-1,1,1,25,28,26.5,"Mcphail Associates
+", MA,1,44,0,0,0,0,1
+725,Senior Scientist - Regulatory Submissions,3.1,"Winston-Salem, NC","Winston-Salem, NC",5001 to 10000 employees,1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),-1,0,0,80,155,117.5,"Reynolds American
+", NC,1,145,0,0,0,0,1
+726,Scientist - Biomarker and Flow Cytometry,2.4,"San Diego, CA","San Diego, CA",501 to 1000 employees,2006,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$50 to $100 million (USD),-1,0,0,43,98,70.5,"Crown Bioscience
+", CA,1,14,0,0,0,0,0
+727,Revenue Analytics Manager,4.8,"San Francisco, CA","San Francisco, CA",51 to 200 employees,2011,Company - Private,Computer Hardware & Software,Information Technology,$25 to $50 million (USD),-1,0,0,45,78,61.5,"HOVER
+", CA,1,9,0,0,0,0,1
+728,Sr. Scientist Method Development,2.9,"Marietta, GA","Morrisville, NC",1001 to 5000 employees,2015,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,-1,0,0,50,110,80.0,"Q2 Solutions
+", GA,0,5,0,0,0,0,1
+729,"Associate Scientist, LC/MS Biologics",2.9,"Ithaca, NY","Morrisville, NC",1001 to 5000 employees,2015,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown / Non-Applicable,-1,0,0,44,96,70.0,"Q2 Solutions
+", NY,0,5,0,0,0,0,1
+730,"Research Scientist, Immunology - Cancer Biology",-1.0,"Cambridge, MA","San Mateo, CA",Unknown,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1,0,1,100,140,120.0,Kronos Bio, MA,0,-1,0,0,0,0,1
+731,IT - Data Engineer II,3.4,"Quincy, MA","Quincy, MA",1001 to 5000 employees,1988,Company - Private,Insurance Carriers,Insurance,$100 to $500 million (USD),-1,0,0,61,119,90.0,"Arbella Insurance
+", MA,1,32,0,0,1,0,1
+732,Machine Learning Engineer (NLP),4.1,"Palo Alto, CA","Palo Alto, CA",1 to 50 employees,2007,Company - Private,K-12 Education,Education,Unknown / Non-Applicable,-1,0,0,80,142,111.0,"CK-12 Foundation
+", CA,1,13,1,0,0,1,1
+733,Senior Data Analyst,3.9,"San Francisco, CA","San Francisco, CA",51 to 200 employees,2008,Company - Public,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1,0,0,99,178,138.5,"Life360
+", CA,1,12,1,0,0,0,0
+734,Data Science Project Manager,3.6,"Boston, MA","Springfield, MA",5001 to 10000 employees,1851,Company - Private,Insurance Carriers,Insurance,$10+ billion (USD),-1,0,0,37,100,68.5,"MassMutual
+", MA,0,169,0,0,0,0,1
+735,Data Engineer,3.9,"San Francisco, CA","San Francisco, CA",201 to 500 employees,2011,Company - Private,Internet,Information Technology,$100 to $500 million (USD),"Belly, SpotOn",0,0,62,113,87.5,"Fivestars
+", CA,1,9,1,0,0,1,1
+736,"Principal, Data Science - Advanced Analytics",3.6,"Plymouth Meeting, PA","Durham, NC",10000+ employees,2017,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion (USD),"PPD, INC Research, PRA Health Sciences",0,0,86,137,111.5,"IQVIA
+", PA,0,3,0,0,0,0,0
+737,"Sr Scientist, Immuno-Oncology - Oncology",3.9,"Cambridge, MA","Brentford, United Kingdom",10000+ employees,1830,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),"Pfizer, AstraZeneca, Merck",0,0,58,111,84.5,"GSK
+", MA,0,190,0,0,0,1,0
+738,Senior Data Engineer,4.4,"Nashville, TN","San Francisco, CA",1001 to 5000 employees,2006,Company - Public,Internet,Information Technology,$100 to $500 million (USD),"See Tickets, TicketWeb, Vendini",0,0,72,133,102.5,"Eventbrite
+", TN,0,14,1,0,1,1,0
+739,"Project Scientist - Auton Lab, Robotics Institute",2.6,"Pittsburgh, PA","Pittsburgh, PA",501 to 1000 employees,1984,College / University,Colleges & Universities,Education,Unknown / Non-Applicable,-1,0,0,56,91,73.5,"Software Engineering Institute
+", PA,1,36,0,0,0,0,1
+740,Data Science Manager,3.2,"Allentown, PA","Chadds Ford, PA",1 to 50 employees,-1,Company - Private,Staffing & Outsourcing,Business Services,$5 to $10 million (USD),-1,0,0,95,160,127.5,"Numeric, LLC
+", PA,0,-1,0,0,0,0,1
+741,Research Scientist – Security and Privacy,3.6,"Beavercreek, OH","Arlington, VA",501 to 1000 employees,1967,Nonprofit Organization,Federal Agencies,Government,$50 to $100 million (USD),-1,0,0,61,126,93.5,"Riverside Research Institute
+", OH,0,53,1,0,0,0,0
