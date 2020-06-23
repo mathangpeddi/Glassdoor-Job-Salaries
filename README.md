@@ -57,7 +57,7 @@ After scraping the data I needed to clean it so that it can be usable for our mo
 </ul>
 
 # Exploratory Data Analysis
-EDA plays a very important role at this stage as the summarization of clean data helps in identifying the structure, outliers, anomalies, and patterns in data. I looked at the distributions of the data and the value counts for the various categorical variables. Have done the univariate, bivariate analysis, and plotted histograms,boxplots,bar graphs,pivot tables etc. to represent the data.
+EDA plays a very important role at this stage as the summarization of clean data helps in identifying the structure, outliers, anomalies, and patterns in data. I looked at the distributions of the data and the value counts for the various categorical variables. Have done the univariate, bivariate analysis, and plotted histograms,boxplots,bar graphs,pivot tables etc. to represent the data. <br/>
 ![](images/location.png)   ![](images/job_simplified.png) <br/>
 ![](images/word_cloud.png)
 
