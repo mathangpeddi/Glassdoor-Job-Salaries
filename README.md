@@ -1,1 +1,1 @@
-# Glassdoor-Job-Salaries
+# Job Salaries Estimator for Different Data Science Positions
