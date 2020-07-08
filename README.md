@@ -84,5 +84,4 @@ I have deployed the model using the flask framework in Heroku which is a Platfor
 
 Web application: <a href="https://glassdoorsalaryprediction-api.herokuapp.com/">https://glassdoorsalaryprediction-api.herokuapp.com/</a>
 
-Special Thanks to Ken Jee for the excellent content!! <br/>
-Link to the repository: <a href="https://github.com/PlayingNumbers/ds_salary_proj">https://github.com/PlayingNumbers/ds_salary_proj</a>
+
